@@ -1,0 +1,34 @@
+categoryId,largeCl,middleCl,serial
+0,Implementation,Straight Forward,4
+1,Implementation,Data Manipulation,5
+10,Math,Graph,13
+100,Basic Information Processing,Ordering,5
+11,Math,Game,14
+110,Basic Information Processing,Searching,4
+12,Math,Combinatorial Problem,11
+13,Math,Probability,10
+2,Implementation,String Manipulation,3
+200,Complete Search,Brute Force,3
+210,Complete Search,Backtracking,2
+220,Complete Search,Heuristic Search,1
+3,Implementation,String Parsing,2
+300,Designing Paradigms,Divide and Conquer,18
+310,Designing Paradigms,Dynamic Programming,17
+320,Designing Paradigms,Greedy Methods,16
+330,Designing Paradigms,Randomized Algorithm,100
+4,Implementation,Simulation,6
+400,Classical Algorithms,Graph Algorithms,15
+410,Classical Algorithms,Flow Algorithms,14
+420,Classical Algorithms,Algorithm with Numbers,13
+430,Classical Algorithms,Numerical Algorithms,12
+440,Classical Algorithms,Geometric Algorithms,11
+450,Classical Algorithms,String Algorithms,10
+5,Implementation,Puzzle,1
+500,Data Structures,List,6
+510,Data Structures,Hash,7
+520,Data Structures,Set,8
+530,Data Structures,Tree,9
+6,Math,Geometry,7
+7,Math,Numerical Analysis,8
+8,Math,Ad Hoc Mathematics,9
+9,Math,Number,12

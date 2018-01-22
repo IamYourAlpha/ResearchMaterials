@@ -1,0 +1,2039 @@
+id,name,problemTimeLimit,problemMemoryLimit,maxScore,solvedUser,submissions,recommendations,isSolved,bookmark,recommend,successRate,score,userScore
+ALDS1_1_B,Greatest Common Divisor,1,65536,100,3015,7214,0,false,false,false,0,0.32,0
+ALDS1_1_A,Insertion Sort,1,65536,100,3707,13346,0,false,false,false,0,0.32,0
+ALDS1_1_C,Prime Numbers,1,65536,100,2549,10703,0,false,false,false,0,0.32,0
+ITP1_1_A,Hello World,1,65536,100,14794,40493,0,false,false,false,0,0.32,0
+ITP1_1_B,X Cubic,1,65536,100,11919,31154,0,false,false,false,0,0.32,0
+ITP1_1_C,Rectangle,1,65536,100,10472,27817,0,false,false,false,0,0.32,0
+ITP1_2_A,"Small, Large, or Equal",1,65536,100,8573,26212,0,false,false,false,0,0.32,0
+ITP1_2_B,Range,1,65536,100,8210,17440,0,false,false,false,0,0.32,0
+ITP1_2_C,Sorting Three Numbers,1,65536,100,7534,21573,0,false,false,false,0,0.32,0
+ITP1_3_A,Print Many Hello World,1,65536,100,7371,14563,0,false,false,false,0,0.32,0
+ITP1_3_B,Print Test Cases,1,65536,100,6524,21733,0,false,false,false,0,0.32,0
+ITP1_3_C,Swapping Two Numbers,1,65536,100,6134,16742,0,false,false,false,0,0.32,0
+ALDS1_2_A,Bubble Sort,1,65536,100,3151,8350,0,false,false,false,0,0.32,0
+ALDS1_2_B,Selection Sort,1,65536,100,2891,5718,0,false,false,false,0,0.32,0
+ALDS1_2_C,Stable Sort,1,65536,100,1917,5508,0,false,false,false,0,0.32,0
+ALDS1_3_A,Stack,1,65536,100,2575,7584,0,false,false,false,0,0.32,0
+ALDS1_3_B,Queue,1,65536,100,2164,6747,0,false,false,false,0,0.32,0
+ALDS1_3_C,Doubly Linked List,1,131072,100,1448,10850,0,false,false,false,0,0.32,0
+ITP1_4_A,A / B Problem,1,65536,100,5564,20113,0,false,false,false,0,0.32,0
+ITP1_4_B,Circle,1,65536,100,5399,18983,0,false,false,false,0,0.32,0
+ITP1_4_C,Simple Calculator,1,65536,100,4923,11625,0,false,false,false,0,0.32,0
+ITP1_5_A,Print a Rectangle,1,65536,100,4828,16585,0,false,false,false,0,0.32,0
+ITP1_5_B,Print a Frame,1,65536,100,4610,9607,0,false,false,false,0,0.32,0
+ITP1_5_C,Print a Chessboard,1,65536,100,4464,8622,0,false,false,false,0,0.32,0
+ITP1_6_A,Reversing Numbers,1,65536,100,4402,13045,0,false,false,false,0,0.32,0
+ITP1_6_B,Finding Missing Cards,1,65536,100,3784,11868,0,false,false,false,0,0.32,0
+ITP1_6_C,Official House,1,65536,100,3506,13239,0,false,false,false,0,0.32,0
+ALDS1_4_A,Linear Search,1,65536,100,2188,7167,0,false,false,false,0,0.32,0
+ALDS1_4_B,Binary Search,1,65536,100,2090,7634,0,false,false,false,0,0.32,0
+ALDS1_4_C,Dictionary,2,131072,100,1391,8670,0,false,false,false,0,0.32,0
+ALDS1_5_A,Exhaustive Search,5,65536,100,1740,4904,0,false,false,false,0,0.32,0
+ALDS1_5_B,Merge Sort,1,65536,100,1370,4923,0,false,false,false,0,0.32,0
+ALDS1_5_C,Koch Curve,2,65536,100,1082,2657,0,false,false,false,0,0.32,0
+ALDS1_6_A,Counting Sort,1,131072,100,1218,5517,0,false,false,false,0,0.32,0
+ALDS1_6_B,Partition,1,65536,100,1308,2699,0,false,false,false,0,0.32,0
+ALDS1_6_C,Quick Sort,1,65536,100,910,3632,0,false,false,false,0,0.32,0
+ITP1_7_A,Grading,1,65536,100,3440,9714,0,false,false,false,0,0.32,0
+ITP1_7_B,How many ways?,1,65536,100,3368,9815,0,false,false,false,0,0.32,0
+ITP1_7_C,Spreadsheet,1,65536,100,3016,9195,0,false,false,false,0,0.32,0
+ALDS1_7_A,Rooted Trees,2,65536,100,1148,5062,0,false,false,false,0,0.32,0
+ALDS1_7_B,Binary Trees,1,65536,100,1032,3778,0,false,false,false,0,0.32,0
+ALDS1_7_C,Tree Walk,1,65536,100,902,2291,0,false,false,false,0,0.32,0
+ITP1_8_A,Toggling Cases,1,65536,100,2616,6293,0,false,false,false,0,0.32,0
+ITP1_8_B,Sum of Numbers,1,65536,100,2656,6518,0,false,false,false,0,0.32,0
+ITP1_8_C,Counting Characters,1,65536,100,2376,9508,0,false,false,false,0,0.32,0
+ITP1_9_A,Finding a Word,1,65536,100,2195,8003,0,false,false,false,0,0.32,0
+ITP1_9_B,Shuffle,1,65536,100,2036,4120,0,false,false,false,0,0.32,0
+ITP1_9_C,Card Game,1,65536,100,2037,3718,0,false,false,false,0,0.32,0
+ALDS1_8_A,Binary Search Tree I,2,65536,100,1109,3120,0,false,false,false,0,0.32,0
+ALDS1_8_B,Binary Search Tree II,2,65536,100,1045,1964,0,false,false,false,0,0.32,0
+ALDS1_8_C,Binary Search Tree III,2,131072,100,786,2481,0,false,false,false,0,0.32,0
+ALDS1_9_A,Complete Binary Tree,1,65536,100,1149,3430,0,false,false,false,0,0.32,0
+ALDS1_9_B,Maximum Heap,2,65536,100,1063,2808,0,false,false,false,0,0.32,0
+ALDS1_9_C,Priority Queue,2,131072,100,924,3470,0,false,false,false,0,0.32,0
+ALDS1_10_A,Fibonacci Number,1,65536,100,1566,3541,0,false,false,false,0,0.32,0
+ALDS1_10_B,Matrix Chain Multiplication,1,65536,100,995,2146,0,false,false,false,0,0.32,0
+ALDS1_10_C,Longest Common Subsequence,1,65536,100,1043,4633,0,false,false,false,0,0.32,0
+ALDS1_11_A,Graph,1,65536,100,1401,3238,0,false,false,false,0,0.32,0
+ALDS1_11_B,Depth First Search,1,65536,100,1270,3362,0,false,false,false,0,0.32,0
+ALDS1_11_C,Breadth First Search,1,65536,100,1004,2580,0,false,false,false,0,0.32,0
+ALDS1_12_A,Minimum Spanning Tree,1,65536,100,1059,2580,0,false,false,false,0,0.32,0
+ALDS1_12_B,Single Source Shortest Path I,1,65536,100,921,2071,0,false,false,false,0,0.32,0
+ALDS1_12_C,Single Source Shortest Path II,1,131072,100,462,2101,0,false,false,false,0,0.32,0
+ITP1_10_A,Distance,1,65536,100,2395,5307,0,false,false,false,0,0.32,0
+ITP1_10_B,Triangle,1,65536,100,2154,4384,0,false,false,false,0,0.32,0
+ITP1_10_C,Standard Deviation,1,65536,100,2078,5536,0,false,false,false,0,0.32,0
+DSL_1_A,Disjoint Set: Union Find Tree,3,65536,100,686,1766,0,false,false,false,0,0.32,0
+DSL_2_A,Range Minimum Query (RMQ),2,65536,100,477,2620,0,false,false,false,0,0.32,0
+DSL_2_B,Range Sum Query (RSQ),1,65536,100,415,1435,0,false,false,false,0,0.32,0
+CGL_1_A,Projection,1,65536,100,353,904,0,false,false,false,0,0.3626062322946176,0
+CGL_1_B,Reflection,1,65536,100,315,513,0,false,false,false,0,0.40634920634920635,0
+CGL_1_C,Counter-Clockwise,1,65536,100,296,708,0,false,false,false,0,0.43243243243243246,0
+CGL_2_A,Parallel/Orthogonal,1,65536,100,305,621,0,false,false,false,0,0.419672131147541,0
+CGL_2_B,Intersection,1,65536,100,270,866,0,false,false,false,0,0.4740740740740741,0
+CGL_2_C,Cross Point,1,65536,100,257,461,0,false,false,false,0,0.4980544747081712,0
+CGL_2_D,Distance,1,65536,100,217,476,0,false,false,false,0,0.5898617511520737,0
+CGL_7_B,Incircle of a Triangle,1,65536,100,0,0,0,false,false,false,0,0,0
+CGL_5_C,Area Searc (kd Tree),1,65536,100,0,0,0,false,false,false,0,0,0
+CGL_5_A,Closest Pair,1,65536,100,107,843,0,false,false,false,0,1.1962616822429906,0
+CGL_5_B,Volonoi Diagram,1,65536,100,0,0,0,false,false,false,0,0,0
+CGL_4_B,Diameter of a Convex Polygon,1,65536,100,97,310,0,false,false,false,0,1.3195876288659794,0
+CGL_4_C,Convex Cut,1,65536,100,77,348,0,false,false,false,0,1.6623376623376624,0
+CGL_4_D,Intersection of Convex Polygons,1,65536,100,0,0,0,false,false,false,0,0,0
+CGL_4_A,Convex Hull,1,65536,100,191,1301,0,false,false,false,0,0.6701570680628273,0
+CGL_3_C,Polygon-Point Containment,1,65536,100,194,535,0,false,false,false,0,0.6597938144329897,0
+CGL_3_B,Is-Convex,1,65536,100,150,377,0,false,false,false,0,0.8533333333333334,0
+CGL_3_A,Area,1,65536,100,242,744,0,false,false,false,0,0.5289256198347108,0
+GRL_1_E,K-th Shortest Path,1,65536,100,0,0,0,false,false,false,0,0,0
+GRL_1_B,Single Source Shortest Path (Negative Edges),1,65536,100,323,1137,0,false,false,false,0,0.39628482972136225,0
+GRL_1_C,All Pairs Shortest Path,1,65536,100,372,1639,0,false,false,false,0,0.34408602150537637,0
+GRL_1_D,Single Source Shortest Path (Pathfinding),1,65536,100,0,0,0,false,false,false,0,0,0
+GRL_2_A,Minimum Spanning Tree,1,65536,100,377,1142,0,false,false,false,0,0.3395225464190981,0
+GRL_2_B,Minimum-Cost Arborescence,1,65536,100,57,314,0,false,false,false,0,2.245614035087719,0
+GRL_2_C,Steiner Tree,1,65536,100,0,0,0,false,false,false,0,0,0
+GRL_3_B,Bridges,1,65536,100,188,617,0,false,false,false,0,0.6808510638297872,0
+GRL_3_A,Articulation Points,1,65536,100,260,1049,0,false,false,false,0,0.49230769230769234,0
+GRL_3_C,Strongly Connected Components,1,65536,100,214,741,0,false,false,false,0,0.5981308411214953,0
+GRL_5_B,Height of a Tree,1,65536,100,72,259,0,false,false,false,0,1.7777777777777777,0
+GRL_5_A,Diameter of a Tree,1,65536,100,219,626,0,false,false,false,0,0.5844748858447488,0
+CGL_7_G,Common Tangent,1,65536,100,44,108,0,false,false,false,0,2.909090909090909,0
+NTL_1_A,Prime Factorize,1,65536,100,452,2216,0,false,false,false,0,0.32,0
+NTL_1_B,Power,1,65536,100,445,1713,0,false,false,false,0,0.32,0
+NTL_1_C,Least Common Multiple,1,65536,100,318,509,0,false,false,false,0,0.4025157232704403,0
+NTL_1_D,Euler's Phi Function,1,65536,100,213,609,0,false,false,false,0,0.6009389671361502,0
+DPL_1_A,Coin Changing Problem,1,65536,100,719,2209,0,false,false,false,0,0.32,0
+DPL_1_B,0-1 Knapsack Problem,1,65536,100,859,2901,0,false,false,false,0,0.32,0
+DPL_1_C,Knapsack Problem,1,65536,100,524,1279,0,false,false,false,0,0.32,0
+DPL_1_D,Longest Increasing Subsequence,1,65536,100,415,1795,0,false,false,false,0,0.32,0
+GRL_4_A,Cycle Detection for a Directed Graph,1,65536,100,157,401,0,false,false,false,0,0.8152866242038217,0
+DSL_2_C,Range Search (kD Tree),1,262144,100,163,1570,0,false,false,false,0,0.7852760736196319,0
+DPL_2_A,Traveling Salesman Problem,1,65536,100,208,659,0,false,false,false,0,0.6153846153846154,0
+DPL_2_B,Chinese Postman Problem,1,65536,100,58,131,0,false,false,false,0,2.206896551724138,0
+DPL_1_E,Edit Distance (Levenshtein Distance),1,65536,100,319,883,0,false,false,false,0,0.4012539184952978,0
+GRL_5_C,Lowest Common Ancestor,1,65536,100,172,914,0,false,false,false,0,0.7441860465116279,0
+NTL_1_E,Extended Euclid Algorithm,1,65536,100,181,411,0,false,false,false,0,0.7071823204419889,0
+GRL_7_A,Bipartite Matching,1,65536,100,172,433,0,false,false,false,0,0.7441860465116279,0
+GRL_1_A,Single Source Shortest Path,3,131072,100,498,2854,0,false,false,false,0,0.32,0
+ALDS1_1_D,Maximum Profit,1,65536,100,2586,12573,0,false,false,false,0,0.32,0
+ALDS1_2_D,Shell Sort,6,131072,100,1098,5741,0,false,false,false,0,0.32,0
+ALDS1_3_D,Areas on the Cross-Section Diagram,1,65536,100,775,3003,0,false,false,false,0,0.32,0
+ALDS1_4_D,Allocation,1,65536,100,783,3814,0,false,false,false,0,0.32,0
+ALDS1_5_D,The Number of Inversions,1,65536,100,533,2441,0,false,false,false,0,0.32,0
+ALDS1_6_D,Minimum Cost Sort,1,65536,100,300,1210,0,false,false,false,0,0.4266666666666667,0
+ALDS1_7_D,Reconstruction of a Tree,1,65536,100,384,881,0,false,false,false,0,0.3333333333333333,0
+ITP1_1_D,Watch,1,65536,100,8483,19241,0,false,false,false,0,0.32,0
+ITP1_2_D,Circle in a Rectangle,1,65536,100,6286,17257,0,false,false,false,0,0.32,0
+ITP1_3_D,How Many Divisors?,1,65536,100,5577,11130,0,false,false,false,0,0.32,0
+ITP1_4_D,"Min, Max and Sum",1,65536,100,4717,22387,0,false,false,false,0,0.32,0
+ITP1_5_D,Structured Programming,1,65536,100,3315,16823,0,false,false,false,0,0.32,0
+ITP1_6_D,Matrix Vector Multiplication,1,65536,100,2973,5879,0,false,false,false,0,0.32,0
+ITP1_7_D,Matrix Multiplication,1,65536,100,2446,10177,0,false,false,false,0,0.32,0
+ITP1_8_D,Ring,1,65536,100,2136,5208,0,false,false,false,0,0.32,0
+ITP1_9_D,Transformation,1,65536,100,1703,4586,0,false,false,false,0,0.32,0
+ITP1_10_D,Distance II,1,65536,100,1809,3876,0,false,false,false,0,0.32,0
+ITP1_11_A,Dice I,1,65536,100,1534,3403,0,false,false,false,0,0.32,0
+ITP1_11_B,Dice II,1,65536,100,1266,2680,0,false,false,false,0,0.32,0
+ITP1_11_C,Dice III,1,65536,100,1103,4252,0,false,false,false,0,0.32,0
+ITP1_11_D,Dice IV,1,65536,100,1028,3399,0,false,false,false,0,0.32,0
+ALDS1_13_A,8 Queens Problem,1,65536,100,377,842,0,false,false,false,0,0.3395225464190981,0
+ALDS1_13_B,8 Puzzle,1,65536,100,229,1204,0,false,false,false,0,0.5589519650655022,0
+ALDS1_13_C,15 Puzzle,3,262144,100,136,1101,0,false,false,false,0,0.9411764705882353,0
+ALDS1_11_D,Connected Components,1,65536,100,442,2208,0,false,false,false,0,0.32,0
+GRL_6_A,Maximum Flow,1,65536,100,244,1312,0,false,false,false,0,0.5245901639344263,0
+GRL_4_B,Topological Sort,1,65536,100,291,776,0,false,false,false,0,0.43986254295532645,0
+CGL_7_A,Intersection,1,65536,100,72,101,0,false,false,false,0,1.7777777777777777,0
+CGL_7_D,Cross Points of a Circle and a Line,1,65536,100,141,430,0,false,false,false,0,0.9078014184397163,0
+CGL_7_E,Cross Points of Circles,1,65536,100,134,351,0,false,false,false,0,0.9552238805970149,0
+DPL_3_A,Largest Square,1,65536,100,197,862,0,false,false,false,0,0.649746192893401,0
+DPL_3_B,Largest Rectangle,1,65536,100,135,582,0,false,false,false,0,0.9481481481481482,0
+CGL_6_A,Segment Intersections: Manhattan Geometry,2,65536,100,69,322,0,false,false,false,0,1.855072463768116,0
+ALDS1_14_A,Naive String Search,1,65536,100,253,456,0,false,false,false,0,0.5059288537549407,0
+ALDS1_14_B,String Search,1,262144,100,163,1156,0,false,false,false,0,0.7852760736196319,0
+ALDS1_14_C,Pattern Search,3,262144,100,63,434,0,false,false,false,0,2.0317460317460316,0
+ALDS1_14_D,Multiple String Matching,3,262144,100,65,933,0,false,false,false,0,1.9692307692307693,0
+GRL_6_B,Minimum Cost Flow,1,65536,100,114,309,0,false,false,false,0,1.1228070175438596,0
+CGL_7_C,Excircle of a Triangle,1,65536,100,0,0,0,false,false,false,0,0,0
+CGL_7_F,Tangent to a Circle,1,65536,100,51,63,0,false,false,false,0,2.5098039215686274,0
+DSL_4_A,Union of Rectangles,6,262144,100,51,206,0,false,false,false,0,2.5098039215686274,0
+DSL_3_C,The Number of Windows,3,131072,100,58,164,0,false,false,false,0,2.206896551724138,0
+DSL_5_A,The Maximum Number of Customers,1,131072,100,83,171,0,false,false,false,0,1.5421686746987953,0
+DSL_3_A,The Smallest Window I,1,131072,100,85,302,0,false,false,false,0,1.5058823529411764,0
+DPL_1_F,0-1 Knapsack Problem II,1,131072,100,94,238,0,false,false,false,0,1.3617021276595744,0
+DPL_1_G,Knapsack Problem with Limitations,1,131072,100,54,165,0,false,false,false,0,2.3703703703703702,0
+DPL_4_B,Coin Combination Problem II,3,262144,100,34,74,0,false,false,false,0,3.764705882352941,0
+DPL_1_H,Huge Knapsack Problem,2,262144,100,41,246,0,false,false,false,0,3.1219512195121952,0
+CGL_7_H,Intersection of a Circle and a Polygon,1,131072,100,19,93,0,false,false,false,0,6.7368421052631575,0
+DSL_2_D,Range Update Query (RUQ),1,262144,100,103,300,0,false,false,false,0,1.2427184466019416,0
+DSL_2_E,Range Add Query (RAQ),1,262144,100,107,256,0,false,false,false,0,1.1962616822429906,0
+DSL_2_F,RMQ and RUQ,1,262144,100,97,288,0,false,false,false,0,1.3195876288659794,0
+DSL_2_G,RSQ and RAQ,1,262144,100,102,360,0,false,false,false,0,1.2549019607843137,0
+DPL_4_A,Coin Combination Problem,2,262144,100,43,102,0,false,false,false,0,2.9767441860465116,0
+DPL_3_C,Largest Rectangle in a Histogram,1,262144,100,34,137,0,false,false,false,0,3.764705882352941,0
+DPL_2_C,Bitonic Traveling Salesman Problem,1,262144,100,15,30,0,false,false,false,0,8.533333333333333,0
+DSL_5_B,The Maximum Number of Overlaps,1,131072,100,21,37,0,false,false,false,0,6.095238095238095,0
+DSL_3_B,The Smallest Window II,1,262144,100,15,46,0,false,false,false,0,8.533333333333333,0
+DSL_3_D,Sliding Minimum Elements,2,262144,100,18,547,0,false,false,false,0,7.111111111111111,0
+0000,QQ,1,65536,0,11486,30780,0,false,false,false,0,0.32,0
+0001,List of Top 3 Hills,1,65536,0,8406,25047,1,false,false,false,0,0.32,0
+0002,Digit Number,1,65536,0,6903,24270,0,false,false,false,0,0.32,0
+0003,Is it a Right Triangle?,1,65536,0,6562,17619,0,false,false,false,0,0.32,0
+0004,Simultaneous Equation,1,65536,0,4365,22500,0,false,false,false,0,0.32,0
+0005,GCD and LCM,1,65536,0,4761,15633,0,false,false,false,0,0.32,0
+0006,Reverse Sequence,1,65536,0,5077,13987,0,false,false,false,0,0.32,0
+0007,Debt Hell,1,65536,0,4681,10988,0,false,false,false,0,0.32,0
+0008,Sum of 4 Integers,1,65536,0,4463,9499,0,false,false,false,0,0.32,0
+0009,Prime Number,1,65536,0,3792,23955,0,false,false,false,0,0.32,0
+0010,Circumscribed Circle of a Triangle,1,65536,0,1835,6290,0,false,false,false,0,0.32,0
+0011,Drawing Lots,1,65536,0,3536,5900,0,false,false,false,0,0.32,0
+0012,A Point in a Triangle,1,65536,0,1782,5541,0,false,false,false,0,0.32,0
+0013,Switching Railroad Cars,1,65536,0,2950,6448,0,false,false,false,0,0.32,0
+0014,Integral,1,65536,0,2763,4276,0,false,false,false,0,0.32,0
+0015,National Budget,1,65536,0,1849,9850,0,false,false,false,0,0.32,0
+0016,Treasure Hunt,1,65536,0,1848,3874,0,false,false,false,0,0.32,0
+0017,Caesar Cipher,1,65536,0,1711,7865,0,false,false,false,0,0.32,0
+0018,Sorting Five Numbers,1,65536,0,2670,7143,0,false,false,false,0,0.32,0
+0019,Factorial,1,65536,0,2706,8910,0,false,false,false,0,0.32,0
+0020,Capitalize,1,65536,0,2452,5021,0,false,false,false,0,0.32,0
+0021,Parallelism,1,65536,0,1768,10989,0,false,false,false,0,0.32,0
+0022,Maximum Sum Sequence,1,65536,0,1751,7357,0,false,false,false,0,0.32,0
+0023,Circles Intersection,1,65536,0,1440,4957,0,false,false,false,0,0.32,0
+0024,Physical Experiments,1,65536,0,1819,4012,0,false,false,false,0,0.32,0
+0025,Hit and Blow,1,65536,0,2286,4588,0,false,false,false,0,0.32,0
+0026,Dropping Ink,1,65536,0,1699,4476,0,false,false,false,0,0.32,0
+0027,What day is today?,1,65536,0,1984,3839,0,false,false,false,0,0.32,0
+0028,Mode Value,1,65536,0,2126,3662,0,false,false,false,0,0.32,0
+0029,English Sentence,1,65536,0,1759,3584,0,false,false,false,0,0.32,0
+0030,Sum of Integers,1,65536,0,1534,4021,0,false,false,false,0,0.32,0
+0031,Weight,1,65536,0,1710,4284,0,false,false,false,0,0.32,0
+0032,Plastic Board,1,65536,0,1693,2910,0,false,false,false,0,0.32,0
+0033,Ball,1,65536,0,2189,6384,0,false,false,false,0,0.32,0
+0034,Railway Lines,1,65536,0,1319,2219,0,false,false,false,0,0.32,0
+0035,Is it Convex?,1,65536,0,933,2297,0,false,false,false,0,0.32,0
+0036,A Figure on Surface,1,65536,0,1134,3705,0,false,false,false,0,0.32,0
+0037,Path on a Grid,1,65536,0,592,1792,0,false,false,false,0,0.32,0
+0038,Poker Hand,1,65536,0,1112,2246,0,false,false,false,0,0.32,0
+0039,Roman Figure,1,65536,0,1093,1786,0,false,false,false,0,0.32,0
+0040,Affine Cipher,1,65536,0,731,2004,0,false,false,false,0,0.32,0
+0041,Expression,1,65536,0,550,1538,0,false,false,false,0,0.32,0
+0042,A Thief,1,65536,0,1060,5265,0,false,false,false,0,0.32,0
+0043,Puzzle,1,65536,0,612,1284,0,false,false,false,0,0.32,0
+0044,Prime Number II,1,65536,0,1187,2694,0,false,false,false,0,0.32,0
+0045,Sum and Average,1,65536,0,1356,3048,0,false,false,false,0,0.32,0
+0046,Differential,1,65536,0,1702,2620,0,false,false,false,0,0.32,0
+0047,Cup Game,1,65536,0,1396,2669,0,false,false,false,0,0.32,0
+0048,Class,1,65536,0,1396,2353,0,false,false,false,0,0.32,0
+0049,Blood Groups,1,65536,0,1396,2420,0,false,false,false,0,0.32,0
+0050,Apple and Peach,1,65536,0,1199,3144,0,false,false,false,0,0.32,0
+0051,Differential II,1,65536,0,1275,1922,0,false,false,false,0,0.32,0
+0052,Factorial II,1,65536,0,1150,2134,0,false,false,false,0,0.32,0
+0053,Sum of Prime Numbers,1,65536,0,1104,2756,0,false,false,false,0,0.32,0
+0054,Sum of Nth decimal places,1,65536,0,881,3023,0,false,false,false,0,0.32,0
+0055,Sequence,1,65536,0,1160,2151,0,false,false,false,0,0.32,0
+0056,Goldbach's Conjecture,1,65536,0,890,4133,0,false,false,false,0,0.32,0
+0057,The Number of Area,1,65536,0,1192,1828,0,false,false,false,0,0.32,0
+0058,Orthogonal,1,65536,0,789,2893,0,false,false,false,0,0.32,0
+0059,Intersection of Rectangles,1,65536,0,712,1978,0,false,false,false,0,0.32,0
+0060,Card Game,1,65536,0,944,1695,0,false,false,false,0,0.32,0
+0061,Rank Checker,1,65536,0,827,1469,0,false,false,false,0,0.32,0
+0062,What is the Bottommost?,1,65536,0,1085,1741,0,false,false,false,0,0.32,0
+0063,Palindrome,1,65536,0,1165,1966,0,false,false,false,0,0.32,0
+0064,Secret Number,1,65536,0,910,2379,0,false,false,false,0,0.32,0
+0065,Trading,1,65536,0,668,1506,0,false,false,false,0,0.32,0
+0066,Tic Tac Toe,1,65536,0,869,2017,0,false,false,false,0,0.32,0
+0067,The Number of Island,1,65536,0,1009,2590,0,false,false,false,0,0.32,0
+0068,Enclose Pins with a Rubber Band,1,65536,0,465,1034,0,false,false,false,0,0.32,0
+0069,Drawing Lots II,1,65536,0,417,1411,0,false,false,false,0,0.32,0
+0070,Combination of Number Sequences,1,65536,0,477,3952,0,false,false,false,0,0.32,0
+0071,Bombs Chain,1,65536,0,845,1696,0,false,false,false,0,0.32,0
+0072,Carden Lantern,1,65536,0,595,1750,0,false,false,false,0,0.32,0
+0073,Surface Area of Quadrangular Pyramid,1,65536,0,1126,1652,0,false,false,false,0,0.32,0
+0074,Videotape,1,65536,0,813,1833,0,false,false,false,0,0.32,0
+0075,BMI,1,65536,0,1244,2047,0,false,false,false,0,0.32,0
+0076,Treasure Hunt II,1,65536,0,597,910,0,false,false,false,0,0.32,0
+0077,Run Length,1,65536,0,1122,1769,0,false,false,false,0,0.32,0
+0078,Magic Square,1,65536,0,737,1250,0,false,false,false,0,0.32,0
+0079,Area of Polygon,1,65536,0,760,1525,0,false,false,false,0,0.32,0
+0080,Third Root,1,65536,0,689,1931,0,false,false,false,0,0.32,0
+0081,A Symmetric Point,1,65536,0,537,1048,0,false,false,false,0,0.32,0
+0082,Flying Jenny,1,65536,0,490,1356,0,false,false,false,0,0.32,0
+0083,Era Name Transformation,1,65536,0,774,1592,0,false,false,false,0,0.32,0
+0084,Search Engine,1,65536,0,705,1965,0,false,false,false,0,0.32,0
+0085,Joseph's Potato,1,65536,0,743,1204,0,false,false,false,0,0.32,0
+0086,Patrol,1,65536,0,614,2194,0,false,false,false,0,0.32,0
+0087,Strange Mathematical Expression,1,65536,0,654,3213,0,false,false,false,0,0.32,0
+0088,The Code A Doctor Loved,1,65536,0,472,1738,0,false,false,false,0,0.32,0
+0089,The Shortest Path on A Rhombic Path,1,65536,0,522,1411,0,false,false,false,0,0.32,0
+0090,Overlaps of Seals,1,65536,0,325,2689,0,false,false,false,0,0.39384615384615385,0
+0091,Blur,8,65536,0,175,1499,0,false,false,false,0,0.7314285714285714,0
+0092,Square Searching,1,65536,0,567,2230,0,false,false,false,0,0.32,0
+0093,Leap Year,1,65536,0,1147,5056,0,false,false,false,0,0.32,0
+0094,Calculation of Area,1,65536,0,920,1321,0,false,false,false,0,0.32,0
+0095,Surf Smelt Fishing Contest,1,65536,0,599,1812,0,false,false,false,0,0.32,0
+0096,Sum of 4 Integers II,1,65536,0,441,1637,0,false,false,false,0,0.32,0
+0097,Sum of Integers II,1,65536,0,325,1661,0,false,false,false,0,0.39384615384615385,0
+0098,Maximum Sum Sequence II,1,65536,0,319,996,0,false,false,false,0,0.4012539184952978,0
+0099,Surf Smelt Fishing Contest II,1,65536,0,367,2571,0,false,false,false,0,0.34877384196185285,0
+0100,Sale Result,1,65536,0,1244,8378,0,false,false,false,0,0.32,0
+0101,Aizu PR,1,65536,0,1370,4137,0,false,false,false,0,0.32,0
+0102,Matrix-like Computation,1,65536,0,1378,3241,0,false,false,false,0,0.32,0
+0103,Baseball Simulation,1,65536,0,1537,2977,0,false,false,false,0,0.32,0
+0104,Magical Tiles,1,65536,0,1138,2333,0,false,false,false,0,0.32,0
+0105,Book Index,1,65536,0,1001,2037,0,false,false,false,0,0.32,0
+0106,Discounts of Buckwheat ,1,65536,0,655,1565,0,false,false,false,0,0.32,0
+0107,Carry a Cheese,1,65536,0,932,2026,0,false,false,false,0,0.32,0
+0108,Operation of Frequency of Appearance,1,65536,0,769,1624,0,false,false,false,0,0.32,0
+0109,Smart Calculator,1,65536,0,693,2908,0,false,false,false,0,0.32,0
+0110,Alphametic,1,65536,0,499,3201,0,false,false,false,0,0.32,0
+0111,Doctor's Memorable Codes,1,65536,0,395,1262,0,false,false,false,0,0.3240506329113924,0
+0112,A Milk Shop,1,65536,0,725,2746,0,false,false,false,0,0.32,0
+0113,Period,1,65536,0,395,1068,0,false,false,false,0,0.3240506329113924,0
+0114,Electro-Fly,1,65536,0,483,1427,0,false,false,false,0,0.32,0
+0115,Starship UAZ Advance,1,65536,0,71,664,0,false,false,false,0,1.8028169014084507,0
+0116,Rectangular Searching,1,65536,0,343,993,0,false,false,false,0,0.37317784256559766,0
+0117,A reward for a Carpenter,1,65536,0,814,1743,0,false,false,false,0,0.32,0
+0118,Property Distribution ,1,65536,0,1246,5535,0,false,false,false,0,0.32,0
+0119,Taro's Obsession,1,65536,0,243,557,0,false,false,false,0,0.5267489711934157,0
+0120,Patisserie,1,65536,0,315,1396,0,false,false,false,0,0.40634920634920635,0
+0121,Seven Puzzle,1,65536,0,651,3364,0,false,false,false,0,0.32,0
+0122,Summer of Pyonkichi,1,65536,0,395,1035,0,false,false,false,0,0.3240506329113924,0
+0123,Speed Skating Badge Test,1,65536,0,723,1537,0,false,false,false,0,0.32,0
+0124,League Match Score Sheet,1,65536,0,564,1962,0,false,false,false,0,0.32,0
+0125,Day Count,1,65536,0,494,1257,0,false,false,false,0,0.32,0
+0126,Puzzle,1,65536,0,416,1022,0,false,false,false,0,0.32,0
+0127,Pocket Pager Input,1,65536,0,512,1555,0,false,false,false,0,0.32,0
+0128,Abacus ,1,65536,0,457,1221,0,false,false,false,0,0.32,0
+0129,Hide-and-Seek Supporting System,1,65536,0,250,764,0,false,false,false,0,0.512,0
+0130,Train,1,65536,0,527,824,0,false,false,false,0,0.32,0
+0131,Doctor's Strange Particles,1,65536,0,234,733,0,false,false,false,0,0.5470085470085471,0
+0132,Jigsaw Puzzle,5,65536,0,60,1104,0,false,false,false,0,2.1333333333333333,0
+0133,Rotation of a Pattern,1,65536,0,578,1120,0,false,false,false,0,0.32,0
+0134,Exit Survey,1,65536,0,658,1548,0,false,false,false,0,0.32,0
+0135,Clock Short Hand and Long Hand,1,65536,0,437,1735,0,false,false,false,0,0.32,0
+0136,Frequency Distribution of Height,1,65536,0,916,1333,0,false,false,false,0,0.32,0
+0137,Middle-Square Method,1,65536,0,618,905,0,false,false,false,0,0.32,0
+0138,Track and Field Competition,1,65536,0,643,1093,0,false,false,false,0,0.32,0
+0139,Snakes,1,65536,0,430,1477,0,false,false,false,0,0.32,0
+0140,Bus Line,1,65536,0,413,1144,0,false,false,false,0,0.32,0
+0141,Spiral Pattern,1,65536,0,319,845,0,false,false,false,0,0.4012539184952978,0
+0142,Nature of Prime Numbers,1,65536,0,272,793,0,false,false,false,0,0.47058823529411764,0
+0143,Altair and Vega,1,65536,0,281,578,0,false,false,false,0,0.4555160142348754,0
+0144,Packet Transportation,1,65536,0,415,1293,0,false,false,false,0,0.32,0
+0145,Cards,1,65536,0,231,601,0,false,false,false,0,0.5541125541125541,0
+0146,Lupin The 4th,1,65536,0,229,816,0,false,false,false,0,0.5589519650655022,0
+0147,Fukushimaken,1,65536,0,223,937,0,false,false,false,0,0.5739910313901345,0
+0148,Candy and Class Flag,1,65536,0,762,1457,0,false,false,false,0,0.32,0
+0149,Eye Test,1,65536,0,783,1348,0,false,false,false,0,0.32,0
+0150,Twin Prime,1,65536,0,759,2370,0,false,false,false,0,0.32,0
+0151,Grid,1,65536,0,363,893,0,false,false,false,0,0.3526170798898072,0
+0152,Bowling,1,65536,0,289,751,0,false,false,false,0,0.4429065743944637,0
+0153,Triangle and Circle,1,65536,0,147,1034,0,false,false,false,0,0.8707482993197279,0
+0154,Sum of Cards,5,65536,0,324,515,0,false,false,false,0,0.3950617283950617,0
+0155,Spider Jin,1,65536,0,315,1131,0,false,false,false,0,0.40634920634920635,0
+0156,Moats around the Castle,1,65536,0,227,795,0,false,false,false,0,0.5638766519823789,0
+0157,Russian Dolls,1,65536,0,407,1420,0,false,false,false,0,0.32,0
+0158,Collatz's Problem,1,65536,0,781,1206,0,false,false,false,0,0.32,0
+0159,The Best Body,1,65536,0,492,964,0,false,false,false,0,0.32,0
+0160,Delivery Fee,1,65536,0,544,867,0,false,false,false,0,0.32,0
+0161,Sport Meet,1,65536,0,566,909,0,false,false,false,0,0.32,0
+0162,Hamming Numbers,1,65536,0,514,967,0,false,false,false,0,0.32,0
+0163,Highway Toll,1,65536,0,276,706,0,false,false,false,0,0.463768115942029,0
+0164,Ohajiki Game,1,65536,0,470,686,0,false,false,false,0,0.32,0
+0165,Lottery,1,65536,0,212,709,0,false,false,false,0,0.6037735849056604,0
+0166,Area of Polygon,1,65536,0,265,908,0,false,false,false,0,0.4830188679245283,0
+0167,Bubble Sort,1,65536,0,679,1311,0,false,false,false,0,0.32,0
+0168,Kannondou,1,65536,0,1122,2238,0,false,false,false,0,0.32,0
+0169,Blackjack,1,65536,0,365,844,0,false,false,false,0,0.3506849315068493,0
+0170,Lunch,1,65536,0,249,463,0,false,false,false,0,0.5140562248995983,0
+0171,Dice Puzzle,5,65536,0,101,331,0,false,false,false,0,1.2673267326732673,0
+0172,Doctor's Research Rooms,1,65536,0,97,571,0,false,false,false,0,1.3195876288659794,0
+0173,Haunted House,1,65536,0,718,1064,0,false,false,false,0,0.32,0
+0174,Badminton,1,65536,0,560,885,0,false,false,false,0,0.32,0
+0175,Quaternary Notation,1,65536,0,613,1029,0,false,false,false,0,0.32,0
+0176,What Color?,1,65536,0,411,700,0,false,false,false,0,0.32,0
+0177,Distance Between Two Cities,1,65536,0,230,407,0,false,false,false,0,0.5565217391304348,0
+0178,TETORIS,1,65536,0,185,622,0,false,false,false,0,0.6918918918918919,0
+0179,Mysterious Worm,5,65536,0,451,1062,0,false,false,false,0,0.32,0
+0180,Demolition of Bridges,1,65536,0,480,926,0,false,false,false,0,0.32,0
+0181,Bookshelf,1,65536,0,357,860,0,false,false,false,0,0.3585434173669468,0
+0182,Beaker,1,65536,0,51,550,0,false,false,false,0,2.5098039215686274,0
+0183,Black-and-White,1,65536,0,398,845,0,false,false,false,0,0.32160804020100503,0
+0184,Tsuruga Castle,1,65536,0,674,1260,0,false,false,false,0,0.32,0
+0185,Goldbach's Conjecture II,1,65536,0,463,914,0,false,false,false,0,0.32,0
+0186,Aizu Chicken,1,65536,0,307,838,0,false,false,false,0,0.4169381107491857,0
+0187,Stoning Fortune,1,65536,0,147,664,0,false,false,false,0,0.8707482993197279,0
+0188,Search,1,65536,0,465,1608,0,false,false,false,0,0.32,0
+0189,Convenient Location,1,65536,0,815,2663,0,false,false,false,0,0.32,0
+0190,Eleven Puzzle,5,65536,0,132,808,0,false,false,false,0,0.9696969696969697,0
+0191,Baby Tree,1,65536,0,309,1169,0,false,false,false,0,0.41423948220064727,0
+0192,Multistory Parking Lot,1,65536,0,88,361,0,false,false,false,0,1.4545454545454546,0
+0193,Convenience Store,5,65536,0,132,535,0,false,false,false,0,0.9696969696969697,0
+0194,Delivery Company,1,65536,0,67,399,0,false,false,false,0,1.9104477611940298,0
+0195,What is the Most Popular Shop in Tokaichi?,1,65536,0,697,1347,0,false,false,false,0,0.32,0
+0196,Baseball Championship,1,65536,0,477,1232,0,false,false,false,0,0.32,0
+0197,Greatest Common Divisor: Euclidean Algorithm,1,65536,0,664,1452,0,false,false,false,0,0.32,0
+0198,Trouble in Shinagawa's Artifacts,1,65536,0,215,751,0,false,false,false,0,0.5953488372093023,0
+0199,Chairs Where Demanding People Sit,1,65536,0,212,1189,0,false,false,false,0,0.6037735849056604,0
+0200,Traveling Alone: One-way Ticket of Youth,1,65536,0,912,4846,0,false,false,false,0,0.32,0
+0201,Wrought Gold Master,1,65536,0,518,1618,0,false,false,false,0,0.32,0
+0202,At Boss's Expense,5,65536,0,560,2017,0,false,false,false,0,0.32,0
+0203,A New Plan of Aizu Ski Resort,1,65536,0,441,1848,0,false,false,false,0,0.32,0
+0204,UFO Shooting Down Operation,1,65536,0,90,1425,0,false,false,false,0,1.4222222222222223,0
+0205,"Rock, Paper, Scissors",1,65536,0,767,1698,0,false,false,false,0,0.32,0
+0206,Next Trip,1,65536,0,941,1920,0,false,false,false,0,0.32,0
+0207,Block,1,65536,0,586,2498,0,false,false,false,0,0.32,0
+0208,Room Numbers of a Hospital,1,65536,0,634,1172,0,false,false,false,0,0.32,0
+0209,Scene in a Picture,1,65536,0,269,969,0,false,false,false,0,0.4758364312267658,0
+0210,The Squares,1,65536,0,149,704,0,false,false,false,0,0.8590604026845637,0
+0211,Jogging,1,65536,0,230,639,0,false,false,false,0,0.5565217391304348,0
+0212,Highway Express Bus,1,65536,0,434,1434,0,false,false,false,0,0.32,0
+0213,Subdivide The Land,1,65536,0,124,449,0,false,false,false,0,1.032258064516129,0
+0214,Autumnal Illumination,1,65536,0,95,733,0,false,false,false,0,1.3473684210526315,0
+0215,Pachimon Creature,5,65536,0,189,1912,0,false,false,false,0,0.6772486772486772,0
+0216,Cutting Down Water Bills,1,65536,0,852,1474,0,false,false,false,0,0.32,0
+0217,Walking in the Hospital,1,65536,0,791,1649,0,false,false,false,0,0.32,0
+0218,Dividing Students,1,65536,0,925,1668,0,false,false,false,0,0.32,0
+0219,A Popular Ice-cream Shop,1,65536,0,844,1254,0,false,false,false,0,0.32,0
+0220,Binary Digit A Doctor Loved,1,65536,0,503,1181,0,false,false,false,0,0.32,0
+0221,FizzBuzz,1,65536,0,402,2754,0,false,false,false,0,0.32,0
+0222,Prime Quadruplet,1,65536,0,529,2275,0,false,false,false,0,0.32,0
+0223,Stray Twins,5,65536,0,341,2018,0,false,false,false,0,0.375366568914956,0
+0224,Bicycle Diet,8,65536,0,147,728,0,false,false,false,0,0.8707482993197279,0
+0225,Kobutanukitsuneko,1,65536,0,249,1613,0,false,false,false,0,0.5140562248995983,0
+0226,Hit and Blow,1,65536,0,708,1087,0,false,false,false,0,0.32,0
+0227,Thanksgiving,1,65536,0,611,1158,0,false,false,false,0,0.32,0
+0228,Seven Segments,1,65536,0,515,883,0,false,false,false,0,0.32,0
+0229,Big Hit !,1,65536,0,452,619,0,false,false,false,0,0.32,0
+0230,Ninja Climbing,1,65536,0,216,996,0,false,false,false,0,0.5925925925925926,0
+0231,Dangerous Bridge,1,65536,0,338,847,0,false,false,false,0,0.378698224852071,0
+0232,Life Game,1,65536,0,218,1324,0,false,false,false,0,0.5871559633027523,0
+0233,Book Arrangement,1,65536,0,193,545,0,false,false,false,0,0.6632124352331606,0
+0234,Aizu Buried Treasure,1,65536,0,114,1173,0,false,false,false,0,1.1228070175438596,0
+0235,Sergeant Rian,1,65536,0,193,776,0,false,false,false,0,0.6632124352331606,0
+0236,Alien Messages,5,65536,0,67,924,0,false,false,false,0,1.9104477611940298,0
+0237,The Last Door,1,65536,0,41,537,0,false,false,false,0,3.1219512195121952,0
+0500,Card Game,1,65536,0,2340,5596,0,false,false,false,0,0.32,0
+0501,Data Conversion,1,65536,0,1513,4803,0,false,false,false,0,0.32,0
+0502,Dice,1,65536,0,1305,2927,0,false,false,false,0,0.32,0
+0503,Cup,5,65536,0,299,1167,0,false,false,false,0,0.4280936454849498,0
+0504,Card Game II,5,65536,0,91,321,0,false,false,false,0,1.4065934065934067,0
+0505,Questionnaire,1,65536,0,852,2505,0,false,false,false,0,0.32,0
+0506,String,1,65536,0,705,1942,0,false,false,false,0,0.32,0
+0507,Square,1,65536,0,500,1316,0,false,false,false,0,0.32,0
+0508,String With Rings,8,65536,0,174,1109,0,false,false,false,0,0.735632183908046,0
+0509,Sheets,5,65536,0,111,1075,0,false,false,false,0,1.1531531531531531,0
+0510,Score,1,65536,0,1633,2606,0,false,false,false,0,0.32,0
+0511,Who Are The Student Yet To Submit,1,65536,0,1339,2652,0,false,false,false,0,0.32,0
+0512,Caesar Cipher,1,65536,0,1117,2542,0,false,false,false,0,0.32,0
+0513,Shuffle The Cards,1,65536,0,812,1423,0,false,false,false,0,0.32,0
+0514,Quality Checking,1,65536,0,599,1567,0,false,false,false,0,0.32,0
+0515,School Road,1,65536,0,954,2675,0,false,false,false,0,0.32,0
+0516,Maximum Sum,1,65536,0,820,2767,0,false,false,false,0,0.32,0
+0517,Longest Steps,1,65536,0,521,1338,0,false,false,false,0,0.32,0
+0518,The Oldest Site,5,65536,0,371,1460,0,false,false,false,0,0.3450134770889488,0
+0519,Worst Reporter,1,65536,0,221,588,0,false,false,false,0,0.579185520361991,0
+0520,Lightest Mobile,5,65536,0,253,1004,0,false,false,false,0,0.5059288537549407,0
+0521,Change,1,65536,0,1293,2758,0,false,false,false,0,0.32,0
+0522,JOI and IOI,1,65536,0,1027,2317,0,false,false,false,0,0.32,0
+0523,Card Game,1,65536,0,622,1307,0,false,false,false,0,0.32,0
+0524,Searching Constellation,1,65536,0,532,1014,0,false,false,false,0,0.32,0
+0525,Osenbei,3,65536,0,717,2000,0,false,false,false,0,0.32,0
+0526,Boat Travel,1,65536,0,508,1530,0,false,false,false,0,0.32,0
+0527,Setting Go Stones,1,65536,0,401,1398,0,false,false,false,0,0.32,0
+0528,Common Sub-String,1,131072,0,404,1856,0,false,false,false,0,0.32,0
+0529,Darts,1,65536,0,473,2166,0,false,false,false,0,0.32,0
+0530,Pyon-Pyon River Crossing,1,65536,0,267,1486,0,false,false,false,0,0.4794007490636704,0
+0531,Paint Color,5,65536,0,311,1385,0,false,false,false,0,0.4115755627009646,0
+0532,Time Card,1,65536,0,1015,1520,0,false,false,false,0,0.32,0
+0533,Contest,1,65536,0,1111,1765,0,false,false,false,0,0.32,0
+0534,Chain,1,65536,0,326,1354,0,false,false,false,0,0.39263803680981596,0
+0535,Crossing Black Ice,1,65536,0,482,1286,0,false,false,false,0,0.32,0
+0536,Shuffle,1,65536,0,159,688,0,false,false,false,0,0.8050314465408805,0
+0537,Bingo,1,65536,0,227,972,0,false,false,false,0,0.5638766519823789,0
+0538,IOIOI,1,65536,0,514,1729,0,false,false,false,0,0.32,0
+0539,Pizza,1,65536,0,422,1078,0,false,false,false,0,0.32,0
+0540,Amidakuji,1,65536,0,225,589,0,false,false,false,0,0.5688888888888889,0
+0541,Walk,1,65536,0,279,1000,0,false,false,false,0,0.45878136200716846,0
+0542,Authentication Level,1,65536,0,189,696,0,false,false,false,0,0.6772486772486772,0
+0543,Receipt,1,65536,0,957,2730,0,false,false,false,0,0.32,0
+0544,Sugoroku,1,65536,0,762,2282,0,false,false,false,0,0.32,0
+0545,Party,1,65536,0,652,2385,0,false,false,false,0,0.32,0
+0546,Lining up the cards,1,65536,0,421,898,0,false,false,false,0,0.32,0
+0547,Commute routes,1,65536,0,420,872,0,false,false,false,0,0.32,0
+0548,Reindeer with no sense of direction,8,65536,0,136,962,0,false,false,false,0,0.9411764705882353,0
+0549,A Traveler,8,65536,0,402,1260,0,false,false,false,0,0.32,0
+0550,Dividing Snacks,8,65536,0,213,835,0,false,false,false,0,0.6009389671361502,0
+0551,Icicles,8,65536,0,326,1099,0,false,false,false,0,0.39263803680981596,0
+0552,Exposition,8,65536,0,77,318,0,false,false,false,0,1.6623376623376624,0
+0553,Dungeon,8,65536,0,70,281,0,false,false,false,0,1.8285714285714285,0
+0554,Total Time,8,65536,0,1095,1675,0,false,false,false,0,0.32,0
+0555,Ring,8,65536,0,830,1770,0,false,false,false,0,0.32,0
+0556,Tile,8,65536,0,620,1056,0,false,false,false,0,0.32,0
+0557,A First Grader,8,65536,0,797,2386,0,false,false,false,0,0.32,0
+0558,Cheese,8,65536,0,978,3527,0,false,false,false,0,0.32,0
+0559,JOI Flag,8,65536,0,98,413,0,false,false,false,0,1.3061224489795917,0
+1000,A + B Problem,1,65536,0,1902,4069,0,false,false,false,0,0.32,0
+1001,Binary Tree Intersection And Union,1,65536,0,257,812,0,false,false,false,0,0.4980544747081712,0
+1002,Extraordinary Girl I,1,65536,0,159,445,0,false,false,false,0,0.8050314465408805,0
+1003,Extraordinary Girl II,1,65536,0,264,593,0,false,false,false,0,0.48484848484848486,0
+1004,Pair of Primes,1,65536,0,563,1483,0,false,false,false,0,0.32,0
+1005,Advanced Algorithm Class,1,65536,0,311,1260,0,false,false,false,0,0.4115755627009646,0
+1006,Boring Commercials,1,65536,0,173,422,0,false,false,false,0,0.7398843930635838,0
+1007,JPEG Compression,1,65536,0,341,751,0,false,false,false,0,0.375366568914956,0
+1008,What Color Is The Universe?,5,65536,0,260,1123,0,false,false,false,0,0.49230769230769234,0
+1009,Greatest Common Divisor,1,65536,0,723,1306,0,false,false,false,0,0.32,0
+1010,Dominoes Arrangement,1,65536,0,119,487,0,false,false,false,0,1.0756302521008403,0
+1011,Finding the Largest Carbon Compound Given Its Long,1,65536,0,124,316,0,false,false,false,0,1.032258064516129,0
+1012,Operations with Finite Sets,1,65536,0,100,544,0,false,false,false,0,1.28,0
+1013,Combinatorial Topology,5,65536,0,1,81,0,false,false,false,0,12.8,0
+1014,Computation of Minimum Length of Pipeline,1,65536,0,121,284,0,false,false,false,0,1.0578512396694215,0
+1015,Dominating Set,5,65536,0,57,300,0,false,false,false,0,2.245614035087719,0
+1016,Fibonacci Sets,1,65536,0,305,887,0,false,false,false,0,0.419672131147541,0
+1017,Riffle Shuffle,1,65536,0,191,282,0,false,false,false,0,0.6701570680628273,0
+1018,Cheating on ICPC,1,65536,0,333,522,0,false,false,false,0,0.3843843843843844,0
+1019,Vampirish Night,1,65536,0,665,1571,0,false,false,false,0,0.32,0
+1020,Cleaning Robot,1,65536,0,349,1343,0,false,false,false,0,0.3667621776504298,0
+1021,Emacs-like Editor,1,65536,0,155,1024,0,false,false,false,0,0.8258064516129032,0
+1022,Indian Puzzle,1,65536,0,33,528,0,false,false,false,0,3.878787878787879,0
+1023,Amazing Graze,1,65536,0,119,1298,0,false,false,false,0,1.0756302521008403,0
+1024,Cleaning Robot 2.0,1,65536,0,21,65,0,false,false,false,0,6.095238095238095,0
+1025,Building Water Ways,1,65536,0,10,211,0,false,false,false,0,12.8,0
+1026,Hedro's Hexahedron,1,65536,0,37,220,0,false,false,false,0,3.4594594594594597,0
+1027,A Piece of Cake,1,65536,0,524,913,0,false,false,false,0,0.32,0
+1028,ICPC: Ideal Coin Payment and Change,1,65536,0,181,778,0,false,false,false,0,0.7071823204419889,0
+1029,Traffic Analysis,1,65536,0,450,1032,0,false,false,false,0,0.32,0
+1030,Cubes Without Holes,1,65536,0,243,1017,0,false,false,false,0,0.5267489711934157,0
+1031,Simple GUI Application,1,65536,0,135,443,0,false,false,false,0,0.9481481481481482,0
+1032,Course Planning for Lazy Students,1,65536,0,104,913,0,false,false,false,0,1.2307692307692308,0
+1033,Kuru-Kuru Robot,1,65536,0,35,329,0,false,false,false,0,3.657142857142857,0
+1034,Line Puzzle,1,65536,0,97,270,0,false,false,false,0,1.3195876288659794,0
+1035,Sleeping Cats,5,65536,0,313,714,0,false,false,false,0,0.40894568690095845,0
+1036,Monster Factory,5,65536,0,219,433,0,false,false,false,0,0.5844748858447488,0
+1037,Midnight Teatime,5,65536,0,136,293,0,false,false,false,0,0.9411764705882353,0
+1038,Dr. Nakamura's Lab.,5,65536,0,64,497,0,false,false,false,0,2,0
+1039,Frisbee Dogs,5,65536,0,46,251,0,false,false,false,0,2.782608695652174,0
+1040,Chocolate with Heart Marks,5,65536,0,64,253,0,false,false,false,0,2,0
+1041,Kyudo: A Japanese Art of Archery,1,65536,0,834,1263,0,false,false,false,0,0.32,0
+1042,"Yes, I have a number",1,65536,0,499,1151,0,false,false,false,0,0.32,0
+1043,Selecting Teams Advanced to Regional,1,65536,0,305,752,0,false,false,false,0,0.419672131147541,0
+1044,CamelCase,1,65536,0,295,630,0,false,false,false,0,0.43389830508474575,0
+1045,Split Up!,1,65536,0,374,1235,0,false,false,false,0,0.3422459893048128,0
+1046,Ghost Buster!,1,65536,0,169,557,0,false,false,false,0,0.757396449704142,0
+1047,Crop Circle,1,65536,0,57,389,0,false,false,false,0,2.245614035087719,0
+1048,Provident Housewife,1,65536,0,54,306,0,false,false,false,0,2.3703703703703702,0
+1049,Building Houses,1,65536,0,50,442,0,false,false,false,0,2.56,0
+1050,The Last Dungeon,1,65536,0,24,76,0,false,false,false,0,5.333333333333333,0
+1051,Citation Format,1,65536,0,454,1401,0,false,false,false,0,0.32,0
+1052,Old Bridges,1,65536,0,483,1402,0,false,false,false,0,0.32,0
+1053,Accelerated Railgun,1,65536,0,146,872,0,false,false,false,0,0.8767123287671232,0
+1054,Distorted Love,1,65536,0,174,836,0,false,false,false,0,0.735632183908046,0
+1055,Huge Family,1,65536,0,96,249,0,false,false,false,0,1.3333333333333333,0
+1056,Ben Toh,1,65536,0,210,1004,0,false,false,false,0,0.6095238095238096,0
+1057,Rolling Dice,1,65536,0,135,482,0,false,false,false,0,0.9481481481481482,0
+1058,Winter Bells,1,65536,0,61,659,0,false,false,false,0,2.098360655737705,0
+1059,Mysterious Onslaught,8,65536,0,50,525,0,false,false,false,0,2.56,0
+1060,No Story,1,65536,0,116,777,0,false,false,false,0,1.103448275862069,0
+1061,Seventh Color,8,65536,0,0,0,0,false,false,false,0,0,0
+1062,It's our delight!!,1,65536,0,315,1419,0,false,false,false,0,0.40634920634920635,0
+1063,Watchin' TVA,3,65536,0,137,775,0,false,false,false,0,0.9343065693430657,0
+1064,Yanagi's Comic,1,65536,0,72,367,0,false,false,false,0,1.7777777777777777,0
+1065,The House of Huge Family,1,65536,0,73,682,0,false,false,false,0,1.7534246575342465,0
+1066,Legend of Storia,3,65536,0,29,333,0,false,false,false,0,4.413793103448276,0
+1067,Cutting a Chocolate,4,65536,0,67,484,0,false,false,false,0,1.9104477611940298,0
+1068,School of Killifish,6,65536,0,95,1370,0,false,false,false,0,1.3473684210526315,0
+1069,Squid Multiplication,2,65536,0,103,1433,0,false,false,false,0,1.2427184466019416,0
+1070,FIMO sequence,2,65536,0,25,69,0,false,false,false,0,5.12,0
+1071,BD Shelf,5,65536,0,3,54,0,false,false,false,0,12.8,0
+1072,Rearranging Seats,1,65536,0,393,744,0,false,false,false,0,0.3256997455470738,0
+1073,The Tower,2,65536,0,10,224,0,false,false,false,0,12.8,0
+1100,Area of Polygons,1,65536,0,504,1119,0,false,false,false,0,0.32,0
+1101,A Simple Offline Text Editor,1,65536,0,131,982,0,false,false,false,0,0.9770992366412213,0
+1102,Calculation of Expressions,1,65536,0,128,766,0,false,false,false,0,1,0
+1103,Board Arrangements for Concentration Games,1,65536,0,149,194,0,false,false,false,0,0.8590604026845637,0
+1104,Where's Your Robot?,1,65536,0,310,695,0,false,false,false,0,0.4129032258064516,0
+1105,Unable Count,1,65536,0,231,736,0,false,false,false,0,0.5541125541125541,0
+1106,Factorization of Quadratic Formula,1,65536,0,141,582,0,false,false,false,0,0.9078014184397163,0
+1107,Spiral Footrace,1,65536,0,118,459,0,false,false,false,0,1.0847457627118644,0
+1108,A Long Ride on a Railway,1,65536,0,93,194,0,false,false,false,0,1.3763440860215055,0
+1109,Fermat's Last Theorem,1,65536,0,260,457,0,false,false,false,0,0.49230769230769234,0
+1110,Patience,1,65536,0,146,228,0,false,false,false,0,0.8767123287671232,0
+1111,Cyber Guardian,1,65536,0,124,340,0,false,false,false,0,1.032258064516129,0
+1112,Strange Key,1,65536,0,26,89,0,false,false,false,0,4.923076923076923,0
+1113,File Compression,1,65536,0,0,3,0,false,false,false,0,0,0
+1114,Get a Rectangular Field,1,65536,0,218,332,0,false,false,false,0,0.5871559633027523,0
+1115,Multi-column List,1,65536,0,98,275,0,false,false,false,0,1.3061224489795917,0
+1116,Jigsaw Puzzles for Computers,3,65536,0,100,155,0,false,false,false,0,1.28,0
+1117,Missing Numbers,1,65536,0,93,252,0,false,false,false,0,1.3763440860215055,0
+1118,Nets of Dice,1,65536,0,44,88,0,false,false,false,0,2.909090909090909,0
+1119,Exploring Caves,1,65536,0,231,353,0,false,false,false,0,0.5541125541125541,0
+1120,Pile Up!,1,65536,0,82,323,0,false,false,false,0,1.5609756097560976,0
+1121,Kanglish:Analysis on Artificial Language,1,65536,0,101,169,0,false,false,false,0,1.2673267326732673,0
+1122,What is the Number in my Mind ?,8,65536,0,54,254,0,false,false,false,0,2.3703703703703702,0
+1123,Enclosing Circles,1,65536,0,0,1,0,false,false,false,0,0,0
+1124,When Can We Meet?,1,65536,0,666,1150,0,false,false,false,0,0.32,0
+1125,Get Many Persimmon Trees,1,65536,0,613,1103,0,false,false,false,0,0.32,0
+1126,The Secret Number,1,65536,0,405,1251,0,false,false,false,0,0.32,0
+1127,Building a Space Station,1,65536,0,301,695,0,false,false,false,0,0.42524916943521596,0
+1128,Square Carpets,1,65536,0,52,336,0,false,false,false,0,2.4615384615384617,0
+1129,Hanafuda Shuffle,1,65536,0,1651,3411,0,false,false,false,0,0.32,0
+1130,Red and Black,1,65536,0,1596,3182,0,false,false,false,0,0.32,0
+1131,Unit Fraction Partition,1,65536,0,428,1414,0,false,false,false,0,0.32,0
+1132,Circle and Points,8,65536,0,431,1592,0,false,false,false,0,0.32,0
+1133,Water Tank,1,65536,0,90,201,0,false,false,false,0,1.4222222222222223,0
+1134,Name the Crossing,8,65536,0,87,333,0,false,false,false,0,1.471264367816092,0
+1135,Ohgas' Fortune,1,65536,0,658,1012,0,false,false,false,0,0.32,0
+1136,Polygonal Line Search,1,65536,0,573,1333,0,false,false,false,0,0.32,0
+1137,Numeral System,1,65536,0,923,1377,0,false,false,false,0,0.32,0
+1138,Traveling by Stagecoach,5,65536,0,377,1164,0,false,false,false,0,0.3395225464190981,0
+1139,Earth Observation with a Mobile Robot Team,5,65536,0,39,238,0,false,false,false,0,3.282051282051282,0
+1140,Cleaning Robot,8,65536,0,344,814,0,false,false,false,0,0.37209302325581395,0
+1141,Dirichlet's Theorem on Arithmetic Progressions,1,65536,0,1064,2123,0,false,false,false,0,0.32,0
+1142,Organize Your Train part II,1,65536,0,1033,1605,0,false,false,false,0,0.32,0
+1143,Hexerpents of Hexwamp,15,65536,0,73,348,0,false,false,false,0,1.7534246575342465,0
+1144,Curling 2.0,1,65536,0,602,1832,0,false,false,false,0,0.32,0
+1145,The Genome Database of All Space Life,5,65536,0,221,812,0,false,false,false,0,0.579185520361991,0
+1146,Secrets in Shadows,8,65536,0,31,323,0,false,false,false,0,4.129032258064516,0
+1147,ICPC Score Totalizer Software,1,65536,0,2111,4139,0,false,false,false,0,0.32,0
+1148,Analyzing Login/Logout Records,3,65536,0,665,1850,0,false,false,false,0,0.32,0
+1149,Cut the Cake,1,65536,0,473,1310,0,false,false,false,0,0.32,0
+1150,Cliff Climbing,3,65536,0,366,872,0,false,false,false,0,0.34972677595628415,0
+1151,Twirl Around,8,65536,0,31,149,0,false,false,false,0,4.129032258064516,0
+1152,Dr. Podboq or: How We Became Asymmetric,5,65536,0,59,198,0,false,false,false,0,2.169491525423729,0
+1153,Equal Total Scores,1,65536,0,1265,2485,0,false,false,false,0,0.32,0
+1154,Monday-Saturday Prime Factors,3,65536,0,738,1499,0,false,false,false,0,0.32,0
+1155,How can I satisfy thee? Let me count the ways...,1,65536,0,529,1071,0,false,false,false,0,0.32,0
+1156,Twirling Robot,5,65536,0,444,863,0,false,false,false,0,0.32,0
+1157,Roll-A-Big-Ball,5,65536,0,241,789,0,false,false,false,0,0.5311203319502075,0
+1158,ICPC: Intelligent Congruent Partition of Chocolate,8,65536,0,44,213,0,false,false,false,0,2.909090909090909,0
+1159,Next Mayor,1,65536,0,1315,2072,0,false,false,false,0,0.32,0
+1160,How Many Islands?,1,65536,0,1319,3042,0,false,false,false,0,0.32,0
+1161,Verbal Arithmetic,10,65536,0,246,1314,0,false,false,false,0,0.5203252032520326,0
+1162,Discrete Speed,1,65536,0,310,1525,0,false,false,false,0,0.4129032258064516,0
+1163,Cards,8,65536,0,454,1258,0,false,false,false,0,0.32,0
+1164,Tighten Up!,8,65536,0,28,96,0,false,false,false,0,4.571428571428571,0
+1165,Pablo Squarson's Headache,8,65536,0,1077,1735,0,false,false,false,0,0.32,0
+1166,Amazing Mazes,8,65536,0,848,1994,0,false,false,false,0,0.32,0
+1167,Pollock's conjecture,8,65536,0,758,2604,0,false,false,false,0,0.32,0
+1168,Off Balance,8,65536,0,221,507,0,false,false,false,0,0.579185520361991,0
+1169,The Most Powerful Spell,8,65536,0,193,1377,0,false,false,false,0,0.6632124352331606,0
+1170,Old Memories,8,65536,0,23,191,0,false,false,false,0,5.565217391304348,0
+1171,Laser Beam Reflections,8,65536,0,91,217,0,false,false,false,0,1.4065934065934067,0
+1172,Chebyshev's Theorem,8,65536,0,1188,2576,0,false,false,false,0,0.32,0
+1173,The Balance of the World,8,65536,0,1084,3636,0,false,false,false,0,0.32,0
+1174,Identically Colored Panels Connection,8,65536,0,501,955,0,false,false,false,0,0.32,0
+1175,And Then. How Many Are There?,8,65536,0,326,1805,0,false,false,false,0,0.39263803680981596,0
+1176,Planning Rolling Blackouts,8,65536,0,275,505,0,false,false,false,0,0.46545454545454545,0
+1177,Watchdog Corporation,8,65536,0,41,153,0,false,false,false,0,3.1219512195121952,0
+1178,A Broken Door,8,65536,0,94,199,0,false,false,false,0,1.3617021276595744,0
+1200,Goldbach's Conjecture,8,65536,0,416,760,0,false,false,false,0,0.32,0
+1201,Lattice Practices,8,65536,0,78,144,0,false,false,false,0,1.641025641025641,0
+1202,Mobile Phone Coverage,8,65536,0,101,270,0,false,false,false,0,1.2673267326732673,0
+1203,Napoleon's Grumble,8,65536,0,95,313,0,false,false,false,0,1.3473684210526315,0
+1204,Pipeline Scheduling,8,65536,0,64,134,0,false,false,false,0,2,0
+1205,Triangle Partition,8,65536,0,0,1,0,false,false,false,0,0,0
+1206,BUT We Need a Diagram,8,65536,0,11,67,0,false,false,false,0,11.636363636363637,0
+1207,Digital Racing Circuil,8,65536,0,6,92,0,false,false,false,0,12.8,0
+1208,Rational Irrationals,8,65536,0,110,316,0,false,false,false,0,1.1636363636363636,0
+1209,Square Coins,8,65536,0,245,357,0,false,false,false,0,0.5224489795918368,0
+1210,Die Game,8,65536,0,151,218,0,false,false,false,0,0.847682119205298,0
+1211,Trapezoids,8,65536,0,81,154,0,false,false,false,0,1.5802469135802468,0
+1212,Mirror Illusion,8,65536,0,47,100,0,false,false,false,0,2.723404255319149,0
+1213,Heavenly Jewels,8,65536,0,55,99,0,false,false,false,0,2.327272727272727,0
+1214,Walking Ant,8,65536,0,102,181,0,false,false,false,0,1.2549019607843137,0
+1215,Co-occurrence Search,8,65536,0,60,286,0,false,false,false,0,2.1333333333333333,0
+1216,Lost in Space,8,65536,0,84,164,0,false,false,false,0,1.5238095238095237,0
+1217,Family Tree,8,65536,0,102,320,0,false,false,false,0,1.2549019607843137,0
+1218,Push!!,8,65536,0,92,171,0,false,false,false,0,1.391304347826087,0
+1219,Pump up Batteries,8,65536,0,52,86,0,false,false,false,0,2.4615384615384617,0
+1220,The Devil of Gravity,8,65536,0,7,41,0,false,false,false,0,12.8,0
+1221,Numoeba,8,65536,0,14,20,0,false,false,false,0,9.142857142857142,0
+1222,Telescope,8,65536,0,55,143,0,false,false,false,0,2.327272727272727,0
+1223,Ether Geometry,8,65536,0,0,1,0,false,false,false,0,0,0
+1224,Starship Hakodate-maru,8,65536,0,131,184,0,false,false,false,0,0.9770992366412213,0
+1225,e-market,8,65536,0,53,154,0,false,false,false,0,2.4150943396226414,0
+1226,Fishnet,8,65536,0,61,71,0,false,false,false,0,2.098360655737705,0
+1227,77377,8,65536,0,72,145,0,false,false,false,0,1.7777777777777777,0
+1228,Beehives,8,65536,0,44,209,0,false,false,false,0,2.909090909090909,0
+1229,"Young, Poor and Busy",8,65536,0,30,89,0,false,false,false,0,4.266666666666667,0
+1230,Nim,8,65536,0,66,125,0,false,false,false,0,1.9393939393939394,0
+1231,Super Star,8,65536,0,62,238,0,false,false,false,0,2.064516129032258,0
+1232,Calling Extraterrestrial Intelligence Again,8,65536,0,320,917,0,false,false,false,0,0.4,0
+1233,Equals are Equals,8,65536,0,58,199,0,false,false,false,0,2.206896551724138,0
+1234,GIGA Universe Cup,8,65536,0,27,63,0,false,false,false,0,4.7407407407407405,0
+1235,Life Line,8,65536,0,123,144,0,false,false,false,0,1.0406504065040652,0
+1236,Map of Ninja House,8,65536,0,96,284,0,false,false,false,0,1.3333333333333333,0
+1237,Shredding Company,8,65536,0,210,326,0,false,false,false,0,0.6095238095238096,0
+1238,True Liars,8,65536,0,79,280,0,false,false,false,0,1.620253164556962,0
+1239,Viva Confetti,8,65536,0,8,33,0,false,false,false,0,12.8,0
+1240,Unreliable Message,8,65536,0,449,688,0,false,false,false,0,0.32,0
+1241,Lagrange's Four-Square Theorem,8,65536,0,350,719,0,false,false,false,0,0.3657142857142857,0
+1242,Area of Polygons,8,65536,0,56,184,0,false,false,false,0,2.2857142857142856,0
+1243,Weather Forecast,8,65536,0,102,329,0,false,false,false,0,1.2549019607843137,0
+1244,Molecular Formula,8,65536,0,185,310,0,false,false,false,0,0.6918918918918919,0
+1245,Gap,8,65536,0,98,179,0,false,false,false,0,1.3061224489795917,0
+1246,Concert Hall Scheduling,8,65536,0,124,300,0,false,false,false,0,1.032258064516129,0
+1247,Monster Trap,8,65536,0,12,60,0,false,false,false,0,10.666666666666666,0
+1248,The Balance,8,65536,0,200,588,0,false,false,false,0,0.64,0
+1249,Make a Sequence,8,65536,0,256,666,0,false,false,false,0,0.5,0
+1250,Leaky Cryptography,8,65536,0,176,248,0,false,false,false,0,0.7272727272727273,0
+1251,Pathological Paths,8,65536,0,105,273,0,false,false,false,0,1.2190476190476192,0
+1252,Confusing Login Names,8,65536,0,69,283,0,false,false,false,0,1.855072463768116,0
+1253,Dice Puzzle,8,65536,0,74,114,0,false,false,false,0,1.7297297297297298,0
+1254,Color the Map,8,65536,0,77,272,0,false,false,false,0,1.6623376623376624,0
+1255,Inherit the Spheres,8,65536,0,26,53,0,false,false,false,0,4.923076923076923,0
+1256,Crossing Prisms,8,65536,0,11,28,0,false,false,false,0,11.636363636363637,0
+1257,Sum of Consecutive prime Numbers,8,65536,0,287,578,0,false,false,false,0,0.445993031358885,0
+1258,Book Replacement,8,65536,0,70,151,0,false,false,false,0,1.8285714285714285,0
+1259,Colored Cubes,8,65536,0,60,174,0,false,false,false,0,2.1333333333333333,0
+1260,Organize Your Train,8,131072,0,29,167,0,false,false,false,0,4.413793103448276,0
+1261,Mobile Computing,8,65536,0,54,238,0,false,false,false,0,2.3703703703703702,0
+1262,Atomic Car Race,8,65536,0,76,165,0,false,false,false,0,1.6842105263157894,0
+1263,Network Mess,8,65536,0,34,105,0,false,false,false,0,3.764705882352941,0
+1264,Bingo,8,65536,0,14,77,0,false,false,false,0,9.142857142857142,0
+1265,Shy Polygons,8,65536,0,7,20,0,false,false,false,0,12.8,0
+1266,How I Wonder What You Are!,8,65536,0,86,107,0,false,false,false,0,1.4883720930232558,0
+1267,How I Mathematician Wonder What You Are!,8,65536,0,69,176,0,false,false,false,0,1.855072463768116,0
+1268,Cubic Eight-Puzzle,8,65536,0,40,240,0,false,false,false,0,3.2,0
+1269,Sum of Different Primes,8,65536,0,159,299,0,false,false,false,0,0.8050314465408805,0
+1270,Manhattan Wiring,8,65536,0,18,106,0,false,false,false,0,7.111111111111111,0
+1271,Power Calculus,8,65536,0,45,117,0,false,false,false,0,2.8444444444444446,0
+1272,Polygons on the Grid,8,65536,0,15,64,0,false,false,false,0,8.533333333333333,0
+1273,The Best Name for Your Baby,8,65536,0,7,58,0,false,false,false,0,12.8,0
+1274,Enjoyable Commutation,8,65536,0,10,94,0,false,false,false,0,12.8,0
+1275,And Then There Was One,8,65536,0,402,832,0,false,false,false,0,0.32,0
+1276,Prime Gap,8,65536,0,530,799,0,false,false,false,0,0.32,0
+1277,Minimal Backgammon,8,65536,0,338,731,0,false,false,false,0,0.378698224852071,0
+1278,Lowest Pyramid,8,65536,0,18,176,0,false,false,false,0,7.111111111111111,0
+1279,Geometric Map,8,65536,0,60,189,0,false,false,false,0,2.1333333333333333,0
+1280,Slim Span,8,65536,0,231,522,0,false,false,false,0,0.5541125541125541,0
+1281,The Morning after Halloween,8,65536,0,71,607,0,false,false,false,0,1.8028169014084507,0
+1282,Bug Hunt,8,65536,0,143,319,0,false,false,false,0,0.8951048951048951,0
+1283,Most Distant Point from the Sea,8,65536,0,117,348,0,false,false,false,0,1.0940170940170941,0
+1284,The Teacher's Side of Math,8,65536,0,30,71,0,false,false,false,0,4.266666666666667,0
+1285,Grey Area,8,65536,0,364,611,0,false,false,false,0,0.3516483516483517,0
+1286,Expected Allowance,8,65536,0,288,446,0,false,false,false,0,0.4444444444444444,0
+1287,Stopped Watches,8,65536,0,103,156,0,false,false,false,0,1.2427184466019416,0
+1288,Digits on the Floor,8,65536,0,63,134,0,false,false,false,0,2.0317460317460316,0
+1289,Spherical Mirrors,8,65536,0,76,145,0,false,false,false,0,1.6842105263157894,0
+1290,Traveling Cube,8,65536,0,101,233,0,false,false,false,0,1.2673267326732673,0
+1291,Search of Concatenated Strings,8,65536,0,101,350,0,false,false,false,0,1.2673267326732673,0
+1292,Top Spinning,8,65536,0,24,67,0,false,false,false,0,5.333333333333333,0
+1293,Common Polynomial,8,65536,0,33,114,0,false,false,false,0,3.878787878787879,0
+1294,Zigzag,8,65536,0,28,99,0,false,false,false,0,4.571428571428571,0
+1295,Cubist Artwork,8,65536,0,369,570,0,false,false,false,0,0.34688346883468835,0
+1296,Repeated Substitution with Sed,8,65536,0,240,475,0,false,false,false,0,0.5333333333333333,0
+1297,Swimming Jam,8,65536,0,116,275,0,false,false,false,0,1.103448275862069,0
+1298,Separate Points,8,65536,0,154,586,0,false,false,false,0,0.8311688311688312,0
+1299,Origami Through-Hole,8,65536,0,10,67,0,false,false,false,0,12.8,0
+1300,Chemist's Math,8,65536,0,53,128,0,false,false,false,0,2.4150943396226414,0
+1301,Malfatti Circles,8,65536,0,86,240,0,false,false,false,0,1.4883720930232558,0
+1302,Twenty Questions,8,65536,0,140,389,0,false,false,false,0,0.9142857142857143,0
+1303,Hobby on Rails,8,65536,0,10,16,0,false,false,false,0,12.8,0
+1304,Infected Land,8,65536,0,112,232,0,false,false,false,0,1.1428571428571428,0
+1305,Membership Management,8,65536,0,299,1043,0,false,false,false,0,0.4280936454849498,0
+1306,Balloon Collecting,8,65536,0,232,587,0,false,false,false,0,0.5517241379310345,0
+1307,Towns along a Highway,8,65536,0,77,147,0,false,false,false,0,1.6623376623376624,0
+1308,Awkward Lights,8,65536,0,116,291,0,false,false,false,0,1.103448275862069,0
+1309,The Two Men of the Japanese Alps,8,65536,0,82,311,0,false,false,false,0,1.5609756097560976,0
+1310,Find the Multiples,8,65536,0,109,336,0,false,false,false,0,1.1743119266055047,0
+1311,Test Case Tweaking,8,65536,0,135,330,0,false,false,false,0,0.9481481481481482,0
+1312,Where's Wally,8,65536,0,89,344,0,false,false,false,0,1.4382022471910112,0
+1313,Intersection of Two Prisms,8,65536,0,90,194,0,false,false,false,0,1.4222222222222223,0
+1314,Matrix Calculator,8,65536,0,81,144,0,false,false,false,0,1.5802469135802468,0
+2000,Misterious Gems,8,65536,0,1276,3638,0,false,false,false,0,0.32,0
+2001,"Amida, the City of Miracle",8,65536,0,932,2416,0,false,false,false,0,0.32,0
+2002,X-Ray Screening System,8,65536,0,374,926,0,false,false,false,0,0.3422459893048128,0
+2003,Railroad Conflict,8,65536,0,241,738,0,false,false,false,0,0.5311203319502075,0
+2004,Data Center on Fire,8,65536,0,14,108,0,false,false,false,0,9.142857142857142,0
+2005,Water Pipe Construction,8,65536,0,430,1519,0,false,false,false,0,0.32,0
+2006,Keitai Message,8,65536,0,1009,2176,0,false,false,false,0,0.32,0
+2007,Make Purse Light,8,65536,0,673,2595,0,false,false,false,0,0.32,0
+2008,Dragon Fantasy,8,65536,0,172,1040,0,false,false,false,0,0.7441860465116279,0
+2009,Area Separation,8,65536,0,218,886,0,false,false,false,0,0.5871559633027523,0
+2010,Poor Mail Forwarding,8,65536,0,34,193,0,false,false,false,0,3.764705882352941,0
+2011,Gather the Maps!,8,65536,0,460,1879,0,false,false,false,0,0.32,0
+2012,Space Coconut Grab,8,65536,0,965,3021,0,false,false,false,0,0.32,0
+2013,Osaki,8,65536,0,612,1645,0,false,false,false,0,0.32,0
+2014,Surrounding Area,8,65536,0,575,1019,0,false,false,false,0,0.32,0
+2015,Square Route,8,65536,0,699,2442,0,false,false,false,0,0.32,0
+2016,Lifeguard in the Pool,8,65536,0,27,150,0,false,false,false,0,4.7407407407407405,0
+2017,Karakuri Doll,8,65536,0,63,204,0,false,false,false,0,2.0317460317460316,0
+2018,Princess's Gamble,8,65536,0,905,1935,0,false,false,false,0,0.32,0
+2019,Princess's Marriage,8,65536,0,745,1798,0,false,false,false,0,0.32,0
+2020,Princess's Japanese,8,65536,0,92,277,0,false,false,false,0,1.391304347826087,0
+2021,Princess in Danger,8,65536,0,336,1037,0,false,false,false,0,0.38095238095238093,0
+2022,"Princess, a Cryptanalyst",8,65536,0,192,1154,0,false,false,false,0,0.6666666666666666,0
+2023,"Princess, a Strategist",8,65536,0,17,84,0,false,false,false,0,7.529411764705882,0
+2024,Blackjack,8,65536,0,102,399,0,false,false,false,0,1.2549019607843137,0
+2025,Eight Princes,8,65536,0,31,65,0,false,false,false,0,4.129032258064516,0
+2026,Divisor is the Conqueror,8,65536,0,76,289,0,false,false,false,0,1.6842105263157894,0
+2027,Reading a Chord,8,65536,0,22,36,0,false,false,false,0,5.818181818181818,0
+2028,Gather on the Clock,8,65536,0,61,159,0,false,false,false,0,2.098360655737705,0
+2029,Light The Room,8,65536,0,10,87,0,false,false,false,0,12.8,0
+2030,Ruins,8,65536,0,119,234,0,false,false,false,0,1.0756302521008403,0
+2031,Hyper Rock-Scissors-Paper,8,65536,0,88,223,0,false,false,false,0,1.4545454545454546,0
+2032,Online Quiz System,8,65536,0,14,23,0,false,false,false,0,9.142857142857142,0
+2033,Rock Man,8,65536,0,52,104,0,false,false,false,0,2.4615384615384617,0
+2034,Autocorrelation Function,8,65536,0,24,91,0,false,false,false,0,5.333333333333333,0
+2035,It Prefokery Pio,8,65536,0,81,290,0,false,false,false,0,1.5802469135802468,0
+2036,Traffic,8,65536,0,10,74,0,false,false,false,0,12.8,0
+2037,Restriction Enzyme,8,65536,0,0,3,0,false,false,false,0,0,0
+2038,The Extreme Slalom,8,65536,0,8,47,0,false,false,false,0,12.8,0
+2039,Space Coconut Crab II,8,65536,0,101,252,0,false,false,false,0,1.2673267326732673,0
+2040,Sort the Panels,8,65536,0,57,199,0,false,false,false,0,2.245614035087719,0
+2041,Disarmament of the Units,8,65536,0,3,46,0,false,false,false,0,12.8,0
+2042,So Sleepy,8,65536,0,12,54,0,false,false,false,0,10.666666666666666,0
+2043,Alice in Foxland,8,65536,0,0,16,0,false,false,false,0,0,0
+2044,Lying about Your Age,8,65536,0,32,72,0,false,false,false,0,4,0
+2045,Turn Polygons,8,65536,0,27,47,0,false,false,false,0,4.7407407407407405,0
+2057,The Closest Circle,8,65536,0,53,317,0,false,false,false,0,2.4150943396226414,0
+2046,Robots' Crash,8,65536,0,6,43,0,false,false,false,0,12.8,0
+2047,Linear Ether Geometry,8,65536,0,0,2,0,false,false,false,0,0,0
+2048,Everlasting...?,8,65536,0,156,399,0,false,false,false,0,0.8205128205128205,0
+2049,Headstrong Student,8,65536,0,89,264,0,false,false,false,0,1.4382022471910112,0
+2050,Dig or Climb,8,65536,0,33,123,0,false,false,false,0,3.878787878787879,0
+2051,Rotation Estimation,8,65536,0,25,260,0,false,false,false,0,5.12,0
+2052,Optimal Rest,8,65536,0,14,92,0,false,false,false,0,9.142857142857142,0
+2053,Controlled Tournament,8,65536,0,12,63,0,false,false,false,0,10.666666666666666,0
+2054,Entangled Tree,8,65536,0,9,21,0,false,false,false,0,12.8,0
+2055,Ramen Shop,8,65536,0,5,64,0,false,false,false,0,12.8,0
+2056,Cousin's Aunt,8,65536,0,5,41,0,false,false,false,0,12.8,0
+2093,Election,8,65536,0,6,16,0,false,false,false,0,12.8,0
+2092,Pythagoraslope,8,65536,0,1,78,0,false,false,false,0,12.8,0
+2091,Petoris,8,65536,0,36,102,0,false,false,false,0,3.5555555555555554,0
+2090,Repeated Subsequences,8,65536,0,62,258,0,false,false,false,0,2.064516129032258,0
+2089,Mysterious Dungeons,8,65536,0,50,135,0,false,false,false,0,2.56,0
+2088,Spirograph,8,65536,0,12,83,0,false,false,false,0,10.666666666666666,0
+2087,Speed,8,65536,0,4,21,0,false,false,false,0,12.8,0
+2086,!,8,65536,0,71,327,0,false,false,false,0,1.8028169014084507,0
+2085,Turn Left,8,65536,0,30,138,0,false,false,false,0,4.266666666666667,0
+2084,Hit and Blow,8,65536,0,34,111,0,false,false,false,0,3.764705882352941,0
+2083,Black Force,8,65536,0,12,34,0,false,false,false,0,10.666666666666666,0
+2082,Goofy Converter,8,65536,0,45,112,0,false,false,false,0,2.8444444444444446,0
+2077,Resource,8,65536,0,1,2,0,false,false,false,0,12.8,0
+2076,Flame of Nucleus,8,65536,0,50,182,0,false,false,false,0,2.56,0
+2075,Dock to the Future,8,65536,0,9,43,0,false,false,false,0,12.8,0
+2074,Rakunarok,8,65536,0,4,89,0,false,false,false,0,12.8,0
+2071,Web 0.5,8,65536,0,16,80,0,false,false,false,0,8,0
+2070,First Experience,8,65536,0,46,150,0,false,false,false,0,2.782608695652174,0
+2069,"Greedy, Greedy.",8,65536,0,57,191,0,false,false,false,0,2.245614035087719,0
+2068,Grated Radish,8,65536,0,2,9,0,false,false,false,0,12.8,0
+2067,Reading Brackets in English,8,65536,0,10,73,0,false,false,false,0,12.8,0
+2066,Roads in a City,8,65536,0,4,15,0,false,false,false,0,12.8,0
+2065,Slippy Floors,8,65536,0,8,43,0,false,false,false,0,12.8,0
+2064,Make Friendships,8,65536,0,31,111,0,false,false,false,0,4.129032258064516,0
+2063,TV Watching,8,65536,0,15,40,0,false,false,false,0,8.533333333333333,0
+2062,Hide-and-seek,8,65536,0,15,1588,0,false,false,false,0,8.533333333333333,0
+2061,International Party,8,65536,0,35,113,0,false,false,false,0,3.657142857142857,0
+2060,Tetrahedra,8,65536,0,37,263,0,false,false,false,0,3.4594594594594597,0
+2059,Restaurant,8,65536,0,18,60,0,false,false,false,0,7.111111111111111,0
+2058,Moduic Squares,8,65536,0,70,207,0,false,false,false,0,1.8285714285714285,0
+2094,Jaggie Spheres,8,65536,0,12,47,0,false,false,false,0,10.666666666666666,0
+2095,Nagashi Soumen,8,65536,0,11,94,0,false,false,false,0,11.636363636363637,0
+2096,Private Teacher,8,65536,0,51,146,0,false,false,false,0,2.5098039215686274,0
+2097,Triangles,8,65536,0,40,121,0,false,false,false,0,3.2,0
+2098,Two-finger Programming,8,65536,0,4,9,0,false,false,false,0,12.8,0
+2099,Walk under a Scorching Sun,8,65536,0,7,23,0,false,false,false,0,12.8,0
+2072,Philosopher's Stone,8,65536,0,0,1,0,false,false,false,0,0,0
+2073,The Phantom,8,65536,0,5,27,0,false,false,false,0,12.8,0
+2078,Exact Arithmetic,8,65536,0,7,34,0,false,false,false,0,12.8,0
+2079,Dance Dance Revolution,8,65536,0,87,169,0,false,false,false,0,1.471264367816092,0
+2080,Compress Files,8,65536,0,25,164,0,false,false,false,0,5.12,0
+2081,Save the Energy,8,65536,0,20,45,0,false,false,false,0,6.4,0
+2100,Saizo,3,65536,0,736,1080,0,false,false,false,0,0.32,0
+2101,Perfect Number,3,65536,0,496,1458,0,false,false,false,0,0.32,0
+2102,Rummy,5,65536,0,461,1706,0,false,false,false,0,0.32,0
+2103,Battle Town,3,65536,0,302,885,0,false,false,false,0,0.423841059602649,0
+2104,Country Road,5,65536,0,540,1252,0,false,false,false,0,0.32,0
+2105,Rhythm Machine,5,65536,0,55,348,0,false,false,false,0,2.327272727272727,0
+2106,Enegy Transporter,5,65536,0,58,158,0,false,false,false,0,2.206896551724138,0
+2107,Can I go there?,5,65536,0,139,438,0,false,false,false,0,0.920863309352518,0
+2108,Aaron and Bruce,5,65536,0,37,88,0,false,false,false,0,3.4594594594594597,0
+2109,Ancient Expression,5,65536,0,32,65,0,false,false,false,0,4,0
+2110,Radio Base,3,65536,0,28,86,0,false,false,false,0,4.571428571428571,0
+2111,ChikuChiku-BanBan,5,65536,0,1,4,0,false,false,false,0,12.8,0
+2112,Defend the Nation,8,65536,0,0,2,0,false,false,false,0,0,0
+2113,Electrophoretic,8,65536,0,16,100,0,false,false,false,0,8,0
+2114,Median Filter,8,65536,0,8,54,0,false,false,false,0,12.8,0
+2115,Life Game,8,65536,0,41,112,0,false,false,false,0,3.1219512195121952,0
+2116,Subdividing a Land,8,65536,0,15,53,0,false,false,false,0,8.533333333333333,0
+2117,Connect Line Segments,8,65536,0,48,131,0,false,false,false,0,2.6666666666666665,0
+2118,Oil Company,8,65536,0,45,142,0,false,false,false,0,2.8444444444444446,0
+2119,Finding the Top RPS Player,8,65536,0,70,93,0,false,false,false,0,1.8285714285714285,0
+2120,Revenge of Voronoi,8,65536,0,0,1,0,false,false,false,0,0,0
+2121,Castle Wall,8,65536,0,7,60,0,false,false,false,0,12.8,0
+2122,Optimization of Combinatorial Circuits,8,65536,0,3,17,0,false,false,false,0,12.8,0
+2123,Divisor Function,8,65536,0,25,83,0,false,false,false,0,5.12,0
+2124,Magical Dungeon,8,65536,0,8,46,0,false,false,false,0,12.8,0
+2125,Land Mark,8,65536,0,10,85,0,false,false,false,0,12.8,0
+2126,Alien Pianist,8,65536,0,7,20,0,false,false,false,0,12.8,0
+2127,Japanese Style Pub,8,65536,0,10,64,0,false,false,false,0,12.8,0
+2128,Two Rings,8,65536,0,0,12,0,false,false,false,0,0,0
+2129,Text Justification,8,65536,0,45,85,0,false,false,false,0,2.8444444444444446,0
+2130,Billion Million Thousand,8,65536,0,33,95,0,false,false,false,0,3.878787878787879,0
+2131,Pi is Three,8,65536,0,87,199,0,false,false,false,0,1.471264367816092,0
+2132,Left Hand Rule,8,65536,0,28,92,0,false,false,false,0,4.571428571428571,0
+2133,Alice and Bob,8,65536,0,5,37,0,false,false,false,0,12.8,0
+2134,Deadly Dice Game,8,65536,0,45,107,0,false,false,false,0,2.8444444444444446,0
+2135,Reverse a Road,8,65536,0,43,194,0,false,false,false,0,2.9767441860465116,0
+2136,Webby Subway,8,65536,0,14,77,0,false,false,false,0,9.142857142857142,0
+2137,Time Trial,8,65536,0,23,94,0,false,false,false,0,5.565217391304348,0
+2138,Vending Machine,8,65536,0,43,90,0,false,false,false,0,2.9767441860465116,0
+2139,Memory Match,8,65536,0,28,36,0,false,false,false,0,4.571428571428571,0
+2140,Tile Puzzle,8,65536,0,0,3,0,false,false,false,0,0,0
+2141,Girls' Party,8,65536,0,37,47,0,false,false,false,0,3.4594594594594597,0
+2142,Bitwise Kingdom,8,65536,0,49,98,0,false,false,false,0,2.6122448979591835,0
+2143,Adaptive Time Slicing Quantization,8,65536,0,11,38,0,false,false,false,0,11.636363636363637,0
+2144,Reaction,8,65536,0,9,19,0,false,false,false,0,12.8,0
+2145,Magical Island,8,65536,0,15,91,0,false,false,false,0,8.533333333333333,0
+2146,Ninja Legend,8,65536,0,10,54,0,false,false,false,0,12.8,0
+2147,Do It,8,65536,0,0,2,0,false,false,false,0,0,0
+2148,Robot Communication,8,65536,0,2,18,0,false,false,false,0,12.8,0
+2149,Luck Manipulator,8,65536,0,785,1444,0,false,false,false,0,0.32,0
+2150,Matsuzaki Number,8,65536,0,608,1276,0,false,false,false,0,0.32,0
+2151,Brave Princess Revisited,8,65536,0,318,853,0,false,false,false,0,0.4025157232704403,0
+2152,Restrictive Filesystem,8,65536,0,237,886,0,false,false,false,0,0.540084388185654,0
+2153,Mirror Cave,8,65536,0,295,1316,0,false,false,false,0,0.43389830508474575,0
+2154,Shore Erosion,8,65536,0,18,201,0,false,false,false,0,7.111111111111111,0
+2155,Infected Computer,8,65536,0,387,711,0,false,false,false,0,0.330749354005168,0
+2156,Magic Slayer,8,65536,0,149,657,0,false,false,false,0,0.8590604026845637,0
+2157,Dial Lock,8,65536,0,169,526,0,false,false,false,0,0.757396449704142,0
+2158,Double Sorting,8,65536,0,12,115,0,false,false,false,0,10.666666666666666,0
+2159,Symmetry,8,65536,0,29,152,0,false,false,false,0,4.413793103448276,0
+2160,Voronoi Island,8,65536,0,93,209,0,false,false,false,0,1.3763440860215055,0
+2161,Defend the Bases,8,65536,0,116,484,0,false,false,false,0,1.103448275862069,0
+2162,Galaxy Wide Web Service,8,65536,0,79,257,0,false,false,false,0,1.620253164556962,0
+2163,Tatami,8,65536,0,75,145,0,false,false,false,0,1.7066666666666668,0
+2164,Revenge of the Round Table,8,65536,0,27,46,0,false,false,false,0,4.7407407407407405,0
+2165,Strange String Manipulation,8,65536,0,254,794,0,false,false,false,0,0.5039370078740157,0
+2166,Erratic Sleep Habits,8,65536,0,158,451,0,false,false,false,0,0.810126582278481,0
+2167,Find the Point,8,65536,0,49,506,0,false,false,false,0,2.6122448979591835,0
+2168,Luigi's Tavern,8,65536,0,91,307,0,false,false,false,0,1.4065934065934067,0
+2169,Colored Octahedra,8,65536,0,92,212,0,false,false,false,0,1.391304347826087,0
+2170,Marked Ancestor,8,65536,0,354,2647,0,false,false,false,0,0.3615819209039548,0
+2171,Strange Couple,8,65536,0,68,289,0,false,false,false,0,1.8823529411764706,0
+2172,Queen's Case,8,65536,0,35,126,0,false,false,false,0,3.657142857142857,0
+2173,Wind Passages,8,65536,0,65,187,0,false,false,false,0,1.9692307692307693,0
+2174,Secret Operation,8,65536,0,8,52,0,false,false,false,0,12.8,0
+2175,Whist,8,65536,0,192,292,0,false,false,false,0,0.6666666666666666,0
+2176,For the Peace,8,65536,0,144,376,0,false,false,false,0,0.8888888888888888,0
+2177,Champernowne Constant,8,65536,0,126,439,0,false,false,false,0,1.0158730158730158,0
+2178,Futon,8,65536,0,122,308,0,false,false,false,0,1.0491803278688525,0
+2179,Safe Area,8,65536,0,34,99,0,false,false,false,0,3.764705882352941,0
+2180,Water Tank,8,65536,0,84,447,0,false,false,false,0,1.5238095238095237,0
+2181,Neko's Treasure,8,65536,0,53,176,0,false,false,false,0,2.4150943396226414,0
+2182,Eleven Lover,8,65536,0,200,370,0,false,false,false,0,0.64,0
+2183,Crystal Jails,8,65536,0,15,224,0,false,false,false,0,8.533333333333333,0
+2184,Cave Explorer,8,65536,0,11,154,0,false,false,false,0,11.636363636363637,0
+2185,Petting Cats,8,65536,0,366,503,0,false,false,false,0,0.34972677595628415,0
+2186,Heian-Kyo Walking,8,65536,0,441,977,0,false,false,false,0,0.32,0
+2187,Card Game,8,65536,0,148,280,0,false,false,false,0,0.8648648648648649,0
+2188,Unit Converter,8,65536,0,97,167,0,false,false,false,0,1.3195876288659794,0
+2189,Addition Game,8,65536,0,149,323,0,false,false,false,0,0.8590604026845637,0
+2190,Angel Stairs,8,65536,0,90,372,0,false,false,false,0,1.4222222222222223,0
+2191,A Book Shop With a Frequent Greetings,8,65536,0,59,131,0,false,false,false,0,2.169491525423729,0
+2192,Drawing Lots,8,65536,0,9,80,0,false,false,false,0,12.8,0
+2193,The Door into Summer,8,65536,0,34,81,0,false,false,false,0,3.764705882352941,0
+2194,Cat Burglar and Friday House,8,65536,0,5,81,0,false,false,false,0,12.8,0
+2195,Cat Numbers!,8,65536,0,11,40,0,false,false,false,0,11.636363636363637,0
+2196,Chat noir,8,65536,0,1,16,0,false,false,false,0,12.8,0
+2197,Sum of Consecutive Integers,8,65536,0,1058,2269,0,false,false,false,0,0.32,0
+2198,Moonlight Farm,8,65536,0,549,1216,0,false,false,false,0,0.32,0
+2199,Differential Pulse Code Modulation,8,65536,0,428,1130,0,false,false,false,0,0.32,0
+2200,Mr. Rito Post Office,8,65536,0,350,1676,0,false,false,false,0,0.3657142857142857,0
+2201,Immortal Jewels,8,65536,0,161,443,0,false,false,false,0,0.7950310559006211,0
+2202,Canal: Water Going Up and Down,8,65536,0,33,95,0,false,false,false,0,3.878787878787879,0
+2203,Magical Island 2,8,65536,0,13,270,0,false,false,false,0,9.846153846153847,0
+2204,Final Examination!,8,65536,0,545,799,0,false,false,false,0,0.32,0
+2205,Lottery Checker,8,65536,0,331,552,0,false,false,false,0,0.3867069486404834,0
+2206,Compile,8,65536,0,154,330,0,false,false,false,0,0.8311688311688312,0
+2207,Consistet Unit System,8,65536,0,101,378,0,false,false,false,0,1.2673267326732673,0
+2208,The Melancholy of Thomas Right,8,65536,0,64,147,0,false,false,false,0,2,0
+2209,UTF-8,8,65536,0,51,139,0,false,false,false,0,2.5098039215686274,0
+2210,Star Watching,8,65536,0,20,29,0,false,false,false,0,6.4,0
+2211,"Stray Cats, Run...",8,65536,0,26,128,0,false,false,false,0,4.923076923076923,0
+2212,Stolen Jewel,8,65536,0,67,248,0,false,false,false,0,1.9104477611940298,0
+2213,The Number of Solutions for a Polynomial,8,65536,0,5,49,0,false,false,false,0,12.8,0
+2214,Warp Hall,8,65536,0,20,78,0,false,false,false,0,6.4,0
+2215,Three Silhouettes,8,65536,0,2,14,0,false,false,false,0,12.8,0
+2216,Summer of KMC,8,65536,0,462,621,0,false,false,false,0,0.32,0
+2217,Let's JUMPSTYLE,8,65536,0,219,310,0,false,false,false,0,0.5844748858447488,0
+2218,K Poker,8,65536,0,85,263,0,false,false,false,0,1.5058823529411764,0
+2219,THE BYDOLM@STER,8,65536,0,171,505,0,false,false,false,0,0.7485380116959064,0
+2220,The Number of the Real Roots of a Cubic Equation,8,65536,0,43,281,0,false,false,false,0,2.9767441860465116,0
+2221,KULASIS,8,65536,0,64,125,0,false,false,false,0,2,0
+2222,Alien's Counting,8,65536,0,114,345,0,false,false,false,0,1.1228070175438596,0
+2223,Kaeru Jump,8,65536,0,116,253,0,false,false,false,0,1.103448275862069,0
+2224,Save your cats,8,65536,0,277,990,0,false,false,false,0,0.4620938628158845,0
+2225,Dungeon Wall,8,65536,0,60,287,0,false,false,false,0,2.1333333333333333,0
+2226,Psychic Accelerator,8,65536,0,23,99,0,false,false,false,0,5.565217391304348,0
+2227,Bouldering,8,65536,0,15,113,0,false,false,false,0,8.533333333333333,0
+2228,DON'T PANIC!,8,65536,0,6,32,0,false,false,false,0,12.8,0
+2229,Ropeway,8,65536,0,26,265,0,false,false,false,0,4.923076923076923,0
+2230,How to Create a Good Game,8,65536,0,49,164,0,false,false,false,0,2.6122448979591835,0
+2231,Cruel Bingo,8,65536,0,15,33,0,false,false,false,0,8.533333333333333,0
+2232,Ennichi,1,65536,0,249,1232,0,false,false,false,0,0.5140562248995983,0
+2233,Carrot Tour,1,65536,0,123,566,0,false,false,false,0,1.0406504065040652,0
+2234,Usagitobi,1,65536,0,21,118,0,false,false,false,0,6.095238095238095,0
+2235,Graph Construction,1,65536,0,37,324,0,false,false,false,0,3.4594594594594597,0
+2236,Rabbit Plays Games!,1,65536,0,86,547,0,false,false,false,0,1.4883720930232558,0
+2237,The Castle,1,65536,0,90,360,0,false,false,false,0,1.4222222222222223,0
+2238,Nurie,1,65536,0,11,90,0,false,false,false,0,11.636363636363637,0
+2239,Nearest Station,1,65536,0,46,266,0,false,false,false,0,2.782608695652174,0
+2240,Lapin Noir,1,65536,0,13,40,0,false,false,false,0,9.846153846153847,0
+2241,Usaneko Matrix,1,65536,0,134,568,0,false,false,false,0,0.9552238805970149,0
+2242,Era Name,8,65536,0,412,909,0,false,false,false,0,0.32,0
+2243,Step Step Evolution,8,65536,0,244,604,0,false,false,false,0,0.5245901639344263,0
+2244,Dungeon Quest II,8,65536,0,96,436,0,false,false,false,0,1.3333333333333333,0
+2245,Dice Room,8,65536,0,71,288,0,false,false,false,0,1.8028169014084507,0
+2246,Alice and Bomb,8,65536,0,21,97,0,false,false,false,0,6.095238095238095,0
+2247,Two-Wheel Buggy,8,65536,0,54,225,0,false,false,false,0,2.3703703703703702,0
+2248,Camera Control,8,65536,0,7,84,0,false,false,false,0,12.8,0
+2249,Road Construction,8,65536,0,311,1257,0,false,false,false,0,0.4115755627009646,0
+2250,Operator,8,65536,0,51,356,0,false,false,false,0,2.5098039215686274,0
+2251,Merry Christmas,8,65536,0,166,852,0,false,false,false,0,0.7710843373493976,0
+2252,koukyoukoukokukikou,8,65536,0,900,1158,0,false,false,false,0,0.32,0
+2253,Brave Force Story,8,65536,0,508,1938,0,false,false,false,0,0.32,0
+2254,Fastest Route,8,65536,0,486,1070,0,false,false,false,0,0.32,0
+2255,6/2(1+2),8,65536,0,181,493,0,false,false,false,0,0.7071823204419889,0
+2256,Divide the Cake,8,65536,0,64,327,0,false,false,false,0,2,0
+2257,Sakura Poetry,8,65536,0,45,313,0,false,false,false,0,2.8444444444444446,0
+2258,Intelligent Circular Perfect Cleaner,8,65536,0,14,73,0,false,false,false,0,9.142857142857142,0
+2259,Programming Contest,1,262144,0,311,395,0,false,false,false,0,0.4115755627009646,0
+2260,(iwi),1,262144,0,258,475,0,false,false,false,0,0.49612403100775193,0
+2261,[[iwi]],1,262144,0,139,291,0,false,false,false,0,0.920863309352518,0
+2262,Stopping Problem,1,262144,0,118,375,0,false,false,false,0,1.0847457627118644,0
+2263,The First Acceptance,1,262144,0,103,232,0,false,false,false,0,1.2427184466019416,0
+2264,Spanning Trees,1,262144,0,46,147,0,false,false,false,0,2.782608695652174,0
+2265,Programming Contest Challenge Book,1,262144,0,59,282,0,false,false,false,0,2.169491525423729,0
+2266,Cache Strategy,2,262144,0,44,247,0,false,false,false,0,2.909090909090909,0
+2267,Bit Operation,1,262144,0,12,56,0,false,false,false,0,10.666666666666666,0
+2268,Randomized Self-Balancing Binary Search Tree,5,262144,0,11,57,0,false,false,false,0,11.636363636363637,0
+2269,Traveling Salesman Problem,5,262144,0,13,85,0,false,false,false,0,9.846153846153847,0
+2270,The L-th Number,3,262144,0,44,252,0,false,false,false,0,2.909090909090909,0
+10000,Hello World,1,65536,0,0,14681,0,false,false,false,0,0,0
+10001,X Cubic,1,65536,0,0,10008,0,false,false,false,0,0,0
+10002,Rectangle,1,65536,0,0,9084,0,false,false,false,0,0,0
+10003,"Small, Large, or Equal",1,65536,0,0,10239,0,false,false,false,0,0,0
+10004,Sorting Three Numbers,1,65536,0,0,8771,0,false,false,false,0,0,0
+10005,Print Many Hello World,1,65536,0,0,6397,0,false,false,false,0,0,0
+10006,Print Test Cases,1,65536,0,0,8881,0,false,false,false,0,0,0
+10007,Swapping Two Numbers,1,65536,0,0,6703,0,false,false,false,0,0,0
+10008,A / B Problem,1,65536,0,0,7439,0,false,false,false,0,0,0
+10009,Circle,1,65536,0,0,9415,0,false,false,false,0,0,0
+10010,Simple Calculator,1,65536,0,0,4974,0,false,false,false,0,0,0
+10011,Reversing Numbers,1,65536,0,0,6573,0,false,false,false,0,0,0
+10012,Print a Rectangle,1,65536,0,0,7251,0,false,false,false,0,0,0
+10013,Print a Frame,1,65536,0,0,4317,0,false,false,false,0,0,0
+10014,Print a Chessboard,1,65536,0,0,4262,0,false,false,false,0,0,0
+10015,Finding Missing Cards,1,65536,0,0,4405,0,false,false,false,0,0,0
+10016,Grading,1,65536,0,0,5537,0,false,false,false,0,0,0
+10017,How many ways?,1,65536,0,0,4275,0,false,false,false,0,0,0
+10018,Toggling Cases,1,65536,0,0,3453,0,false,false,false,0,0,0
+10019,Sum of Numbers,1,65536,0,0,3413,0,false,false,false,0,0,0
+10020,Counting Characters,1,65536,0,0,5272,0,false,false,false,0,0,0
+10021,Finding Minimum String,1,65536,0,0,3004,0,false,false,false,0,0,0
+10022,Finding a Word,1,65536,0,0,4093,0,false,false,false,0,0,0
+10023,Shuffle,1,65536,0,0,2408,0,false,false,false,0,0,0
+10024,Distance,1,65536,0,0,2595,0,false,false,false,0,0,0
+10025,Triangle,1,65536,0,0,1933,0,false,false,false,0,0,0
+2271,KUPC,1,65536,0,342,506,0,false,false,false,0,0.3742690058479532,0
+2272,Cicada,1,65536,0,367,668,0,false,false,false,0,0.34877384196185285,0
+2273,Shiritori,1,65536,0,134,421,0,false,false,false,0,0.9552238805970149,0
+2274,Sequence Configuration,1,65536,0,71,183,0,false,false,false,0,1.8028169014084507,0
+2275,Fox Number,1,65536,0,41,173,0,false,false,false,0,3.1219512195121952,0
+2276,Ball,1,65536,0,21,92,0,false,false,false,0,6.095238095238095,0
+2277,XOR Circuit,5,65536,0,22,59,0,false,false,false,0,5.818181818181818,0
+2278,Unruly Eel,1,65536,0,16,26,0,false,false,false,0,8,0
+2279,Mountain,2,65536,0,15,64,0,false,false,false,0,8.533333333333333,0
+2280,Mod 3 Knights Out,1,65536,0,11,33,0,false,false,false,0,11.636363636363637,0
+2288,"Oh, My Goat!",8,65536,0,18,39,0,false,false,false,0,7.111111111111111,0
+1083,The Incubator,5,65536,0,76,183,0,false,false,false,0,1.6842105263157894,0
+2281,Swap Cipher,1,65536,0,199,347,0,false,false,false,0,0.6432160804020101,0
+1082,11224111122411,2,65536,0,65,141,0,false,false,false,0,1.9692307692307693,0
+1081,World Domination,1,65536,0,27,76,0,false,false,false,0,4.7407407407407405,0
+1080,Everything Starts With Your Vote,8,65536,0,42,231,0,false,false,false,0,3.0476190476190474,0
+1079,Cosmic Market,5,65536,0,91,247,0,false,false,false,0,1.4065934065934067,0
+1078,SAT-EN-3,1,65536,0,111,176,0,false,false,false,0,1.1531531531531531,0
+1077,The Great Summer Contest,1,65536,0,160,580,0,false,false,false,0,0.8,0
+1076,Time Manipulation,5,65536,0,107,282,0,false,false,false,0,1.1962616822429906,0
+1075,High and Low Cube,1,65536,0,68,126,0,false,false,false,0,1.8823529411764706,0
+1074,Popularity Estimation,1,65536,0,221,485,0,false,false,false,0,0.579185520361991,0
+2289,Custom Painting Master,1,65536,0,18,85,0,false,false,false,0,7.111111111111111,0
+2305,Beautiful Currency,5,65536,0,153,880,0,false,false,false,0,0.8366013071895425,0
+2307,Palindrome Generator,5,65536,0,36,195,0,false,false,false,0,3.5555555555555554,0
+2300,Calender Colors,5,65536,0,350,1501,0,false,false,false,0,0.3657142857142857,0
+2308,White Bird,5,65536,0,83,921,0,false,false,false,0,1.5421686746987953,0
+2302,On or Off,5,65536,0,131,374,0,false,false,false,0,0.9770992366412213,0
+2301,Sleeping Time,5,65536,0,222,1008,0,false,false,false,0,0.5765765765765766,0
+2306,Rabbit Party,5,65536,0,144,658,0,false,false,false,0,0.8888888888888888,0
+2309,Vector Compression,5,65536,0,47,314,0,false,false,false,0,2.723404255319149,0
+2304,Reverse Roads,5,65536,0,167,961,0,false,false,false,0,0.7664670658682635,0
+2303,Marathon Match,5,65536,0,160,1264,0,false,false,false,0,0.8,0
+2296,Quest of Merchant,2,65536,0,87,247,0,false,false,false,0,1.471264367816092,0
+2292,Common Palindromes,2,65536,0,49,175,0,false,false,false,0,2.6122448979591835,0
+2297,Rectangular Stamps,2,65536,0,119,429,0,false,false,false,0,1.0756302521008403,0
+2298,Starting Line,2,65536,0,232,550,0,false,false,false,0,0.5517241379310345,0
+2294,Entangled with Lottery,2,65536,0,49,96,0,false,false,false,0,2.6122448979591835,0
+2291,Brilliant Stars,2,65536,0,32,86,0,false,false,false,0,4,0
+2299,Tiles are Colorful,2,65536,0,184,406,0,false,false,false,0,0.6956521739130435,0
+2290,Attack the Moles,10,262144,0,26,257,0,false,false,false,0,4.923076923076923,0
+2293,Dangerous Tower,2,65536,0,124,341,0,false,false,false,0,1.032258064516129,0
+2295,Power of Power,2,65536,0,82,499,0,false,false,false,0,1.5609756097560976,0
+2318,Set-constructing Witch,2,53535,0,73,154,0,false,false,false,0,1.7534246575342465,0
+2319,Soul Gem Game,3,99999,0,10,50,0,false,false,false,0,12.8,0
+2315,Shadow Witch,2,35353,0,36,180,0,false,false,false,0,3.5555555555555554,0
+2314,Scribbling witch,3,53535,0,39,143,0,false,false,false,0,3.282051282051282,0
+2310,Rose Garden Witch,2,53535,0,76,216,0,false,false,false,0,1.6842105263157894,0
+2311,Dessert Witch,2,35353,0,342,547,0,false,false,false,0,0.3742690058479532,0
+2317,Class Representative Witch,2,35353,0,107,367,0,false,false,false,0,1.1962616822429906,0
+2316,Mermaid Witch,2,35353,0,15,30,0,false,false,false,0,8.533333333333333,0
+2312,Magical Girl Sayaka-chan,2,53535,0,118,390,0,false,false,false,0,1.0847457627118644,0
+2313,Box Witch,3,53535,0,110,607,0,false,false,false,0,1.1636363636363636,0
+2282,Problem B,1,65536,0,98,185,0,false,false,false,0,1.3061224489795917,0
+2283,Seishun 18 Kippu,2,65536,0,119,198,0,false,false,false,0,1.0756302521008403,0
+2284,The Legendary Sword,1,65536,0,113,342,0,false,false,false,0,1.1327433628318584,0
+2285,Anipero,8,65536,0,63,177,0,false,false,false,0,2.0317460317460316,0
+2286,Farey Sequence,8,65536,0,93,248,0,false,false,false,0,1.3763440860215055,0
+2287,Water Clock,1,65536,0,14,77,0,false,false,false,0,9.142857142857142,0
+10026,Standard Deviation,1,65536,0,0,3271,0,false,false,false,0,0,0
+10027,Card Game,1,65536,0,0,1682,0,false,false,false,0,0,0
+10028,Sort I,1,65536,0,0,3367,0,false,false,false,0,0,0
+10029,Sort II,1,65536,0,0,3637,0,false,false,false,0,0,0
+10030,Search I,1,65536,0,0,4621,0,false,false,false,0,0,0
+10031,Search II,1,65536,0,0,4904,0,false,false,false,0,0,0
+10032,Stacking Blocks I,1,65536,0,0,1736,0,false,false,false,0,0,0
+10033,Stacking Blocks II,1,65536,0,0,1637,0,false,false,false,0,0,0
+1315,Gift from the Goddess of Programming,8,65536,0,223,573,0,false,false,false,0,0.5739910313901345,0
+1316,The Sorcerer's Donut,8,65536,0,254,540,0,false,false,false,0,0.5039370078740157,0
+1317,Weaker than Planned,8,65536,0,53,303,0,false,false,false,0,2.4150943396226414,0
+1318,Long Distance Taxi,8,262144,0,149,1196,0,false,false,false,0,0.8590604026845637,0
+1319,Driving an Icosahedral Rover,8,65536,0,33,111,0,false,false,false,0,3.878787878787879,0
+1320,City Merger,8,65536,0,176,694,0,false,false,false,0,0.7272727272727273,0
+1321,Captain Q's Treasure,8,65536,0,31,192,0,false,false,false,0,4.129032258064516,0
+1322,ASCII Expression,8,65536,0,61,146,0,false,false,false,0,2.098360655737705,0
+1323,Encircling Circles,8,65536,0,21,57,0,false,false,false,0,6.095238095238095,0
+1324,Round Trip,8,65536,0,43,264,0,false,false,false,0,2.9767441860465116,0
+2320,Infinity Maze,8,65536,0,175,734,0,false,false,false,0,0.7314285714285714,0
+2321,Butterfly,8,65536,0,189,521,0,false,false,false,0,0.6772486772486772,0
+2322,Chinese Classics,8,65536,0,32,126,0,false,false,false,0,4,0
+2323,Revenge of Champernowne Constant,8,65536,0,33,188,0,false,false,false,0,3.878787878787879,0
+2324,Full Text Search,8,65536,0,10,35,0,false,false,false,0,12.8,0
+2325,Mysterious Maze,8,65536,0,66,196,0,false,false,false,0,1.9393939393939394,0
+2326,Number Sorting,8,65536,0,116,221,0,false,false,false,0,1.103448275862069,0
+2327,Sky Jump,8,65536,0,24,92,0,false,false,false,0,5.333333333333333,0
+2328,Mobile Network,8,65536,0,55,174,0,false,false,false,0,2.327272727272727,0
+2329,Blue Forest,8,65536,0,12,30,0,false,false,false,0,10.666666666666666,0
+2330,Earth Invasion Diary of Miyabi-sensei,8,65536,0,542,1039,0,false,false,false,0,0.32,0
+2331,A Way to Invite Friends,8,65536,0,378,1397,0,false,false,false,0,0.3386243386243386,0
+2332,Space-Time Sugoroku Road,8,65536,0,279,1001,0,false,false,false,0,0.45878136200716846,0
+2333,My friends are small,8,65536,0,187,548,0,false,false,false,0,0.6844919786096256,0
+2334,Roads on Towns,8,65536,0,120,218,0,false,false,false,0,1.0666666666666667,0
+2335,10-Year-Old Dynamic Programming,8,65536,0,116,252,0,false,false,false,0,1.103448275862069,0
+2336,Spring Tiles,8,65536,0,95,527,0,false,false,false,0,1.3473684210526315,0
+2337,Remodeling Plan for Neko-Nabe (tentative),8,65536,0,29,71,0,false,false,false,0,4.413793103448276,0
+2338,Intelligible Double Magic,8,65536,0,20,48,0,false,false,false,0,6.4,0
+2339,Person responsible for problem description don't w,8,65536,0,19,34,0,false,false,false,0,6.7368421052631575,0
+0560,Planetary Exploration,8,65536,0,430,1192,0,false,false,false,0,0.32,0
+0561,Books,8,65536,0,286,931,0,false,false,false,0,0.44755244755244755,0
+0562,Shopping in JOI Kingdom,8,65536,0,238,645,0,false,false,false,0,0.5378151260504201,0
+0563,Walking Santa,8,65536,0,140,851,0,false,false,false,0,0.9142857142857143,0
+0564,Bug Party,8,65536,0,140,653,0,false,false,false,0,0.9142857142857143,0
+0565,Lunch,8,65536,0,1126,1938,0,false,false,false,0,0.32,0
+0566,Soccer,8,65536,0,812,1512,0,false,false,false,0,0.32,0
+0567,Best Pizza,8,65536,0,757,1873,0,false,false,false,0,0.32,0
+0568,Pasta,8,65536,0,464,1200,0,false,false,false,0,0.32,0
+0569,Illumination,8,65536,0,288,586,0,false,false,false,0,0.4444444444444444,0
+0570,Zig-Zag Numbers,8,262144,0,130,466,0,false,false,false,0,0.9846153846153847,0
+2758,Sendame,2,262144,0,23,125,0,false,false,false,0,5.565217391304348,0
+2344,Multi Ending Story,5,65536,0,58,293,0,false,false,false,0,2.206896551724138,0
+2348,Testing Circuits,5,65536,0,52,431,0,false,false,false,0,2.4615384615384617,0
+2350,A-B Problem,1,65536,0,106,158,0,false,false,false,0,1.2075471698113207,0
+0571,JJOOII,8,65536,0,426,1833,0,false,false,false,0,0.32,0
+0572,Card Game is Fun,8,65536,0,308,812,0,false,false,false,0,0.4155844155844156,0
+0573,Night Market,8,65536,0,252,1056,0,false,false,false,0,0.5079365079365079,0
+0574,Nails,8,524288,0,196,983,0,false,false,false,0,0.6530612244897959,0
+0575,Festivals in JOI Kingdom,8,65536,0,99,401,0,false,false,false,0,1.292929292929293,0
+2353,Four Arithmetic Operations,1,65536,0,50,373,0,false,false,false,0,2.56,0
+2359,Range Minimum Query,1,65536,0,10,75,0,false,false,false,0,12.8,0
+2346,Runaway Domino,3,65536,0,30,220,0,false,false,false,0,4.266666666666667,0
+2345,Network Reliability,3,65536,0,70,216,0,false,false,false,0,1.8285714285714285,0
+2347,Sunny Graph,3,65536,0,22,80,0,false,false,false,0,5.818181818181818,0
+2342,Light Road,2,65536,0,93,578,0,false,false,false,0,1.3763440860215055,0
+2343,Matrix Operation,2,65536,0,35,160,0,false,false,false,0,3.657142857142857,0
+2341,Kth Sentence,3,65536,0,28,126,0,false,false,false,0,4.571428571428571,0
+2340,Carpenters' Language,1,65536,0,223,729,0,false,false,false,0,0.5739910313901345,0
+2349,World Trip,5,262144,0,9,103,0,false,false,false,0,12.8,0
+2368,Satan Attacks,8,65536,0,10,54,0,false,false,false,0,12.8,0
+2351,Closest Segment Pair,1,65536,0,33,221,0,false,false,false,0,3.878787878787879,0
+2352,Divisor,1,65536,0,34,104,0,false,false,false,0,3.764705882352941,0
+2354,Fractional Knapsack,1,65536,0,48,163,0,false,false,false,0,2.6666666666666665,0
+2355,Game,1,65536,0,9,78,0,false,false,false,0,12.8,0
+2356,Palindromic Anagram,1,65536,0,136,299,0,false,false,false,0,0.9411764705882353,0
+2357,Permutation,1,65536,0,8,17,0,false,false,false,0,12.8,0
+2358,Plane Division,1,65536,0,8,20,0,false,false,false,0,12.8,0
+2360,Sharp 2SAT,1,65536,0,15,57,0,false,false,false,0,8.533333333333333,0
+2361,Sort,2,65536,0,80,222,0,false,false,false,0,1.6,0
+2369,CatChecker,8,65536,0,312,707,0,false,false,false,0,0.41025641025641024,0
+2365,Memory Leak,8,65536,0,37,171,0,false,false,false,0,3.4594594594594597,0
+2366,Elevator,8,65536,0,36,150,0,false,false,false,0,3.5555555555555554,0
+2362,Chicken or the Egg,8,65536,0,129,326,0,false,false,false,0,0.9922480620155039,0
+2367,Icy Composer,8,65536,0,11,78,0,false,false,false,0,11.636363636363637,0
+1085,Spellcasters,3,65536,0,259,813,0,false,false,false,0,0.4942084942084942,0
+1088,School Excursion,8,65536,0,44,181,0,false,false,false,0,2.909090909090909,0
+1086,Live Schedule,3,65536,0,81,292,0,false,false,false,0,1.5802469135802468,0
+1087,Dimensional Analysis,8,65536,0,47,135,0,false,false,false,0,2.723404255319149,0
+1090,Sports Days,8,65536,0,10,64,0,false,false,false,0,12.8,0
+1084,K Cards,3,65536,0,169,476,0,false,false,false,0,0.757396449704142,0
+2363,Unequal Dice,8,65536,0,123,329,0,false,false,false,0,1.0406504065040652,0
+2364,Lucky Dip,8,65536,0,129,796,0,false,false,false,0,0.9922480620155039,0
+1089,Strawberry Cake,3,65536,0,40,233,0,false,false,false,0,3.2,0
+2370,RabbitWalking,8,65536,0,78,372,0,false,false,false,0,1.641025641025641,0
+2371,TransferTrain,8,65536,0,58,223,0,false,false,false,0,2.206896551724138,0
+2372,IkaNumber,8,65536,0,53,157,0,false,false,false,0,2.4150943396226414,0
+2373,HullMarathon,8,65536,0,41,232,0,false,false,false,0,3.1219512195121952,0
+2374,RabbitLunch,8,65536,0,35,124,0,false,false,false,0,3.657142857142857,0
+2375,CarrotBreeding,8,65536,0,14,51,0,false,false,false,0,9.142857142857142,0
+2376,DisconnectedGame,8,65536,0,76,295,0,false,false,false,0,1.6842105263157894,0
+2377,ThreeRooks,8,65536,0,12,38,0,false,false,false,0,10.666666666666666,0
+2378,SolveMe,8,65536,0,24,106,0,false,false,false,0,5.333333333333333,0
+2379,Bicube,8,65536,0,14,40,0,false,false,false,0,9.142857142857142,0
+2380,Bubble Puzzle,8,65536,0,57,167,0,false,false,false,0,2.245614035087719,0
+2381,Fair Game,8,65536,0,0,2,0,false,false,false,0,0,0
+2382,King Slime,8,65536,0,115,295,0,false,false,false,0,1.1130434782608696,0
+2383,Rabbit Game Playing,8,65536,0,157,269,0,false,false,false,0,0.8152866242038217,0
+2384,Rabbit Jumping,8,65536,0,10,75,0,false,false,false,0,12.8,0
+2385,Shelter,8,65536,0,22,44,0,false,false,false,0,5.818181818181818,0
+2386,Sightseeing Tour,8,65536,0,210,447,0,false,false,false,0,0.6095238095238096,0
+2387,Tampopo Machine,8,65536,0,6,44,0,false,false,false,0,12.8,0
+2388,Top of the Hill,8,65536,0,1,2,0,false,false,false,0,12.8,0
+2392,Digit,2,65536,0,12,77,0,false,false,false,0,10.666666666666666,0
+2390,AYBABTU,10,262144,0,47,364,0,false,false,false,0,2.723404255319149,0
+2397,Three-way Branch,7,65536,0,111,709,0,false,false,false,0,1.1531531531531531,0
+2389,Asynchronous Exceptions,5,65536,0,0,4,0,false,false,false,0,0,0
+2398,Tree Allocation,10,65536,0,13,51,0,false,false,false,0,9.846153846153847,0
+2394,Longest Lane,1,65536,0,17,179,0,false,false,false,0,7.529411764705882,0
+2395,Play in Basic,5,65536,0,0,15,0,false,false,false,0,0,0
+2393,Dungeon Creation,3,65536,0,19,82,0,false,false,false,0,6.7368421052631575,0
+2396,Skyland,5,65536,0,12,200,0,false,false,false,0,10.666666666666666,0
+2391,Billiards Sorting,7,65536,0,18,340,0,false,false,false,0,7.111111111111111,0
+2399,Save Your Privacy!,8,65536,0,657,1117,0,false,false,false,0,0.32,0
+2400,You Are the Judge,8,65536,0,619,1153,0,false,false,false,0,0.32,0
+2401,Equation,8,65536,0,316,944,0,false,false,false,0,0.4050632911392405,0
+2402,Milky Way,8,65536,0,211,694,0,false,false,false,0,0.6066350710900474,0
+2403,The Enemy of My Enemy is My Friend,8,65536,0,134,774,0,false,false,false,0,0.9552238805970149,0
+2404,Dog Food,8,65536,0,31,86,0,false,false,false,0,4.129032258064516,0
+2405,Sister Ports,8,65536,0,37,202,0,false,false,false,0,3.4594594594594597,0
+0238,Time to Study,1,65536,0,671,1144,0,false,false,false,0,0.32,0
+0239,Calorie Counting,1,65536,0,445,1124,0,false,false,false,0,0.32,0
+0240,Interest Rates,1,65536,0,465,931,0,false,false,false,0,0.32,0
+0241,Quaternion Multiplication,1,65536,0,352,591,0,false,false,false,0,0.36363636363636365,0
+0242,Input Candidates,1,65536,0,280,745,0,false,false,false,0,0.45714285714285713,0
+0243,Filling Game,3,65536,0,131,654,0,false,false,false,0,0.9770992366412213,0
+0244,Hot Spring Trip,1,65536,0,196,550,0,false,false,false,0,0.6530612244897959,0
+0245,Time Sale,5,65536,0,84,365,0,false,false,false,0,1.5238095238095237,0
+0246,Bara-Bara Manju,8,65536,0,61,643,0,false,false,false,0,2.098360655737705,0
+0247,Ice Maze,1,65536,0,73,576,0,false,false,false,0,1.7534246575342465,0
+1179,Millennium,8,65536,0,1078,1845,0,false,false,false,0,0.32,0
+1180,Recurring Decimals,8,65536,0,823,1676,0,false,false,false,0,0.32,0
+1181,Biased Dice,8,65536,0,350,800,0,false,false,false,0,0.3657142857142857,0
+1182,Railway Connection,8,65536,0,263,807,0,false,false,false,0,0.4866920152091255,0
+1183,Chain-Confined Path,8,65536,0,199,376,0,false,false,false,0,0.6432160804020101,0
+1184,Generic Poker,8,65536,0,33,67,0,false,false,false,0,3.878787878787879,0
+1185,Patisserie ACM,8,65536,0,49,127,0,false,false,false,0,2.6122448979591835,0
+2406,Al dente,2,65536,0,256,492,0,false,false,false,0,0.5,0
+2407,Simple Othello,2,65536,0,213,339,0,false,false,false,0,0.6009389671361502,0
+2408,Social,2,65536,0,205,317,0,false,false,false,0,0.624390243902439,0
+2409,Power,2,65536,0,176,478,0,false,false,false,0,0.7272727272727273,0
+2410,Janken,2,65536,0,81,472,0,false,false,false,0,1.5802469135802468,0
+2411,Acceleration of Network,5,262144,0,27,85,0,false,false,false,0,4.7407407407407405,0
+2412,Village,4,131072,0,63,204,0,false,false,false,0,2.0317460317460316,0
+2413,Tree Planting,3,131072,0,36,60,0,false,false,false,0,3.5555555555555554,0
+2414,Treasure Hunt,2,65536,0,6,25,0,false,false,false,0,12.8,0
+2415,Sashimi,3,262144,0,55,181,0,false,false,false,0,2.327272727272727,0
+2416,XOR Cloister,5,131072,0,13,23,0,false,false,false,0,9.846153846153847,0
+2417,Flick Input,1,65536,0,231,373,0,false,false,false,0,0.5541125541125541,0
+2418,Problem B War II,1,65536,0,128,374,0,false,false,false,0,1,0
+2419,Acrophobia,1,65536,0,96,173,0,false,false,false,0,1.3333333333333333,0
+2420,Anipero 2012,1,65536,0,56,144,0,false,false,false,0,2.2857142857142856,0
+2421,Markup language has Declined,1,65536,0,8,38,0,false,false,false,0,12.8,0
+2422,Transparent Mahjong,3,65536,0,12,44,0,false,false,false,0,10.666666666666666,0
+2423,Code Art Online,2,65536,0,28,187,0,false,false,false,0,4.571428571428571,0
+2427,hosonagaitokoro,3,65536,0,25,193,0,false,false,false,0,5.12,0
+2433,Final Defense Line,3,65536,0,16,214,0,false,false,false,0,8,0
+2431,House Moving,3,65536,0,182,575,0,false,false,false,0,0.7032967032967034,0
+2429,marukaite,8,65536,0,100,253,0,false,false,false,0,1.28,0
+2424,Kakezan,3,65536,0,580,793,0,false,false,false,0,0.32,0
+2425,A Holiday of Miss Brute Force,3,65536,0,158,579,0,false,false,false,0,0.810126582278481,0
+2428,Lost Number,3,65536,0,112,568,0,false,false,false,0,1.1428571428571428,0
+2437,DNA,2,256000,0,67,223,0,false,false,false,0,1.9104477611940298,0
+2426,Treasure Hunt,5,200000,0,213,732,0,false,false,false,0,0.6009389671361502,0
+2438,YAML,2,256000,0,114,301,0,false,false,false,0,1.1228070175438596,0
+2434,Audition,2,256000,0,35,121,0,false,false,false,0,3.657142857142857,0
+2432,Sports Days 2.0,3,65536,0,34,266,0,false,false,false,0,3.764705882352941,0
+2430,Longest Increasing Sequence,5,200000,0,54,192,0,false,false,false,0,2.3703703703703702,0
+2436,Card,4,256000,0,45,155,0,false,false,false,0,2.8444444444444446,0
+2435,Zero Division Checker,2,256000,0,128,260,0,false,false,false,0,1,0
+2439,Hakone,2,256000,0,114,249,0,false,false,false,0,1.1228070175438596,0
+2440,Kagisys,2,65536,0,723,1092,0,false,false,false,0,0.32,0
+2441,FizzBuzz,1,65536,0,205,475,0,false,false,false,0,0.624390243902439,0
+2442,ConvexCut,2,65536,0,166,465,0,false,false,false,0,0.7710843373493976,0
+2443,ReverseSort,5,262144,0,142,553,0,false,false,false,0,0.9014084507042254,0
+2444,Substring,2,65536,0,171,798,0,false,false,false,0,0.7485380116959064,0
+2445,MinimumCostPath,5,262144,0,18,80,0,false,false,false,0,7.111111111111111,0
+2452,Pipeline Plans,5,65536,0,12,71,0,false,false,false,0,10.666666666666666,0
+2446,Enumeration,5,65536,0,76,258,0,false,false,false,0,1.6842105263157894,0
+2447,A Two Floors Dungeon,5,65536,0,99,362,0,false,false,false,0,1.292929292929293,0
+2448,Area Folding,5,65536,0,48,570,0,false,false,false,0,2.6666666666666665,0
+2453,Presentation,5,65536,0,28,93,0,false,false,false,0,4.571428571428571,0
+2454,Repairing,5,65536,0,34,201,0,false,false,false,0,3.764705882352941,0
+2449,Connect,5,65536,0,65,370,0,false,false,false,0,1.9692307692307693,0
+2451,Move on Dice,5,65536,0,15,152,0,false,false,false,0,8.533333333333333,0
+2455,Sun and Moon,5,65536,0,15,121,0,false,false,false,0,8.533333333333333,0
+2450,Do use segment tree,2,256000,0,72,1340,0,false,false,false,0,1.7777777777777777,0
+2456,Usoperanto,8,256000,0,43,950,0,false,false,false,0,2.9767441860465116,0
+1091,KND is So Sexy,1,262144,0,182,313,0,false,false,false,0,0.7032967032967034,0
+1092,Make KND So Fat,3,262144,0,65,279,0,false,false,false,0,1.9692307692307693,0
+1093,KND Runs for Sweets,5,262144,0,41,182,0,false,false,false,0,3.1219512195121952,0
+1094,KND Warp,3,262144,0,17,96,0,false,false,false,0,7.529411764705882,0
+1095,KND Factory,3,262144,0,26,100,0,false,false,false,0,4.923076923076923,0
+1096,Wall Breaker KND,1,262144,0,3,7,0,false,false,false,0,12.8,0
+1500,ID,1,262144,0,173,627,0,false,false,false,0,0.7398843930635838,0
+1501,Grid,1,262144,0,137,365,0,false,false,false,0,0.9343065693430657,0
+1502,War,1,262144,0,118,385,0,false,false,false,0,1.0847457627118644,0
+1503,Numbers,1,262144,0,104,255,0,false,false,false,0,1.2307692307692308,0
+1504,Connect,5,262144,0,33,115,0,false,false,false,0,3.878787878787879,0
+1505,Dungeon,2,262144,0,48,244,0,false,false,false,0,2.6666666666666665,0
+1506,Dice,6,262144,0,3,20,0,false,false,false,0,12.8,0
+1507,Dungeon (II),2,262144,0,51,101,0,false,false,false,0,2.5098039215686274,0
+1508,RMQ,5,262144,0,88,883,0,false,false,false,0,1.4545454545454546,0
+2457,Adhoc Translation,8,65536,0,22,68,0,false,false,false,0,5.818181818181818,0
+2458,Artistic Art Museum,8,65536,0,3,38,0,false,false,false,0,12.8,0
+2459,Complex Integer Solutions,8,65536,0,7,35,0,false,false,false,0,12.8,0
+2461,Dungeon Master,8,65536,0,4,18,0,false,false,false,0,12.8,0
+2462,Exciting Bicycle,8,65536,0,8,59,0,false,false,false,0,12.8,0
+2463,Fuel Problem,8,65536,0,5,11,0,false,false,false,0,12.8,0
+2464,Magic Walls,8,65536,0,9,40,0,false,false,false,0,12.8,0
+2465,Sort by Hand,8,65536,0,2,13,0,false,false,false,0,12.8,0
+2466,Substring Expression,8,65536,0,25,61,0,false,false,false,0,5.12,0
+2467,Up Above the World So High,8,65536,0,3,6,0,false,false,false,0,12.8,0
+2460,Dial Key,8,65536,0,30,93,0,false,false,false,0,4.266666666666667,0
+2468,Cache Control,8,65536,0,45,161,0,false,false,false,0,2.8444444444444446,0
+2469,Cover Time,8,65536,0,14,99,0,false,false,false,0,9.142857142857142,0
+2470,Craftsman,8,65536,0,8,11,0,false,false,false,0,12.8,0
+2471,Divide the Water,8,65536,0,13,24,0,false,false,false,0,9.846153846153847,0
+2472,Mickle's Beam,8,65536,0,15,205,0,false,false,false,0,8.533333333333333,0
+2473,Poor Computer,8,65536,0,4,7,0,false,false,false,0,12.8,0
+2474,Riffle Swap,8,65536,0,9,15,0,false,false,false,0,12.8,0
+2475,Round Table,8,65536,0,17,74,0,false,false,false,0,7.529411764705882,0
+2476,Strange Currency System,8,65536,0,35,112,0,false,false,false,0,3.657142857142857,0
+2477,Tangram,8,65536,0,0,0,0,false,false,false,0,0,0
+2478,Trading Ship,8,65536,0,18,67,0,false,false,false,0,7.111111111111111,0
+2479,Approximate Circle,8,65536,0,12,116,0,false,false,false,0,10.666666666666666,0
+2480,Blame Game,8,65536,0,18,40,0,false,false,false,0,7.111111111111111,0
+2481,Earn Big,8,65536,0,10,27,0,false,false,false,0,12.8,0
+2482,Exportation in Space,8,65536,0,16,52,0,false,false,false,0,8,0
+2483,Laser Puzzle,8,65536,0,4,20,0,false,false,false,0,12.8,0
+2484,Magnum Tornado,8,65536,0,5,25,0,false,false,false,0,12.8,0
+2485,Nezumi's Treasure,8,65536,0,4,8,0,false,false,false,0,12.8,0
+2486,Testing Sorting Networks,8,65536,0,5,31,0,false,false,false,0,12.8,0
+2487,Train King,8,65536,0,5,13,0,false,false,false,0,12.8,0
+2488,Tree Construction,8,65536,0,27,77,0,false,false,false,0,4.7407407407407405,0
+1325,Ginkgo Numbers,8,65536,0,217,464,0,false,false,false,0,0.5898617511520737,0
+1326,Stylish,8,65536,0,140,300,0,false,false,false,0,0.9142857142857143,0
+1327,One-Dimensional Cellular Automaton,8,65536,0,203,437,0,false,false,false,0,0.6305418719211823,0
+1328,Find the Outlier,8,65536,0,148,389,0,false,false,false,0,0.8648648648648649,0
+1329,Sliding Block Puzzle,8,65536,0,48,199,0,false,false,false,0,2.6666666666666665,0
+1330,Never Wait for Weights,8,131072,0,189,867,0,false,false,false,0,0.6772486772486772,0
+1331,Let There Be Light,8,65536,0,87,289,0,false,false,false,0,1.471264367816092,0
+1332,Company Organization,8,65536,0,21,161,0,false,false,false,0,6.095238095238095,0
+1333,Beautiful Spacing,8,65536,0,64,345,0,false,false,false,0,2,0
+1334,Cubic Colonies,8,65536,0,10,48,0,false,false,false,0,12.8,0
+0576,Homework,8,65536,0,1055,2031,0,false,false,false,0,0.32,0
+0577,Unique number,8,65536,0,874,1634,0,false,false,false,0,0.32,0
+0578,Signboard,8,65536,0,533,1522,0,false,false,false,0,0.32,0
+0579,Hot days,8,65536,0,422,1139,0,false,false,false,0,0.32,0
+0580,Fish,8,65536,0,208,389,0,false,false,false,0,0.6153846153846154,0
+0581,Gifts,8,262144,0,59,258,0,false,false,false,0,2.169491525423729,0
+0256,Points for a Perfect Scorer,1,65536,0,792,1200,0,false,false,false,0,0.32,0
+0257,Railway Ticket,1,65536,0,693,1308,0,false,false,false,0,0.32,0
+0258,Kitchen Garden,1,65536,0,357,1683,0,false,false,false,0,0.3585434173669468,0
+0259,All Numbers Lead to 6174,1,65536,0,481,1093,0,false,false,false,0,0.32,0
+0260,Salary for a Plumber,1,65536,0,306,1313,0,false,false,false,0,0.41830065359477125,0
+0261,Mayan Crucial Prediction,5,65536,0,136,485,0,false,false,false,0,0.9411764705882353,0
+0262,Making Sugoroku,3,65536,0,141,710,0,false,false,false,0,0.9078014184397163,0
+0263,Beat Panel,2,65536,0,167,521,0,false,false,false,0,0.7664670658682635,0
+0264,Finite Field Calculator,1,65536,0,95,505,0,false,false,false,0,1.3473684210526315,0
+0265,Cats Going Straight,5,65536,0,25,519,0,false,false,false,0,5.12,0
+0266,Aka-beko and 40 Thieves,1,65536,0,339,510,0,false,false,false,0,0.3775811209439528,0
+0267,Triangle of Blocks,5,65536,0,211,380,0,false,false,false,0,0.6066350710900474,0
+0268,Kongo Type,1,65536,0,159,545,0,false,false,false,0,0.8050314465408805,0
+0269,East Wind,1,65536,0,78,322,0,false,false,false,0,1.641025641025641,0
+0270,Modular Query,3,65536,0,200,776,0,false,false,false,0,0.64,0
+0271,Izua Dictionary,8,65536,0,96,485,0,false,false,false,0,1.3333333333333333,0
+0272,The Lonely Girl's Lie,2,65536,0,93,469,0,false,false,false,0,1.3763440860215055,0
+0273,Cats Going Straight II,2,65536,0,47,290,0,false,false,false,0,2.723404255319149,0
+0274,Arts and Crafts,8,65536,0,24,72,0,false,false,false,0,5.333333333333333,0
+0275,Railroad,8,65536,0,29,257,0,false,false,false,0,4.413793103448276,0
+0582,Triangle Types,8,65536,0,300,469,0,false,false,false,0,0.4266666666666667,0
+0583,Common Divisors,8,65536,0,377,527,0,false,false,false,0,0.3395225464190981,0
+0584,The Third Permutation,8,65536,0,194,608,0,false,false,false,0,0.6597938144329897,0
+0585,Nearest Two Points,8,65536,0,123,532,0,false,false,false,0,1.0406504065040652,0
+0586,Palindrome,8,65536,0,55,156,0,false,false,false,0,2.327272727272727,0
+0587,Tunnel,8,65536,0,316,565,0,false,false,false,0,0.4050632911392405,0
+0588,Simple Calculator,8,65536,0,360,507,0,false,false,false,0,0.35555555555555557,0
+0589,Production,8,65536,0,262,389,0,false,false,false,0,0.48854961832061067,0
+0590,Available Areas,8,65536,0,143,384,0,false,false,false,0,0.8951048951048951,0
+0591,Beads,8,65536,0,68,313,0,false,false,false,0,1.8823529411764706,0
+2500,Company Trip,1,65536,0,28,164,0,false,false,false,0,4.571428571428571,0
+2489,Palindromic Number,1,65536,0,206,355,0,false,false,false,0,0.6213592233009708,0
+2490,Parentheses,1,65536,0,221,463,0,false,false,false,0,0.579185520361991,0
+2491,Sanpo,1,65536,0,14,74,0,false,false,false,0,9.142857142857142,0
+2492,goto busters,1,65536,0,98,218,0,false,false,false,0,1.3061224489795917,0
+2493,Replace,2,262144,0,10,155,0,false,false,false,0,12.8,0
+2494,Sliding GCD,1,65536,0,35,69,0,false,false,false,0,3.657142857142857,0
+2495,Magical Circle,3,65536,0,15,64,0,false,false,false,0,8.533333333333333,0
+2496,1,1,65536,0,15,54,0,false,false,false,0,8.533333333333333,0
+2497,One,1,65536,0,20,56,0,false,false,false,0,6.4,0
+2498,Cube of Two,1,65536,0,83,113,0,false,false,false,0,1.5421686746987953,0
+2499,K-th String,2,65536,0,2,2,0,false,false,false,0,12.8,0
+2501,Grid Mori,1,65536,0,178,383,0,false,false,false,0,0.7191011235955056,0
+2502,VOCAL ANDROID,1,65536,0,141,455,0,false,false,false,0,0.9078014184397163,0
+2503,Project Management,1,65536,0,157,390,0,false,false,false,0,0.8152866242038217,0
+2504,Statement Coverage,1,65536,0,38,170,0,false,false,false,0,3.3684210526315788,0
+2505,Twins Idol,1,262144,0,26,187,0,false,false,false,0,4.923076923076923,0
+2506,Operation training for BYDOL,5,65536,0,8,48,0,false,false,false,0,12.8,0
+2507,Computer Onesan,1,65536,0,47,114,0,false,false,false,0,2.723404255319149,0
+1509,Rental DVD Shop NEO,1,65536,0,95,335,0,false,false,false,0,1.3473684210526315,0
+1510,Independent Research,8,65536,0,111,220,0,false,false,false,0,1.1531531531531531,0
+1511,General of Taiko,8,65536,0,12,49,0,false,false,false,0,10.666666666666666,0
+1512,Smartphone Game,8,65536,0,40,94,0,false,false,false,0,3.2,0
+1513,Doragoso Ball,8,262144,0,29,108,0,false,false,false,0,4.413793103448276,0
+1514,Balloon Contest,8,65536,0,19,30,0,false,false,false,0,6.7368421052631575,0
+1515,The Humans Braving the Invaders,2,65536,0,17,69,0,false,false,false,0,7.529411764705882,0
+2508,King's Inspection,8,65536,0,548,1036,0,false,false,false,0,0.32,0
+2509,Sim Forest 2013,8,65536,0,77,466,0,false,false,false,0,1.6623376623376624,0
+2510,Twin book report,8,65536,0,165,332,0,false,false,false,0,0.7757575757575758,0
+2511,Sinking islands,8,65536,0,155,298,0,false,false,false,0,0.8258064516129032,0
+2512,Ononokomachi's Edit War,8,65536,0,34,163,0,false,false,false,0,3.764705882352941,0
+2513,Princess Tetra's Puzzle,8,65536,0,13,64,0,false,false,false,0,9.846153846153847,0
+2514,MirrorLabyrinth,8,65536,0,26,100,0,false,false,false,0,4.923076923076923,0
+1186,Integral Rectangles,8,65536,0,790,1853,0,false,false,false,0,0.32,0
+1187,ICPC Ranking,8,65536,0,581,1226,0,false,false,false,0,0.32,0
+1188,Hierarchical Democracy,8,65536,0,450,749,0,false,false,false,0,0.32,0
+1189,Prime Caves,8,131072,0,298,894,0,false,false,false,0,0.42953020134228187,0
+1190,Anchored Balloon,8,65536,0,145,410,0,false,false,false,0,0.8827586206896552,0
+1191,Rotate and Rewrite,8,65536,0,31,118,0,false,false,false,0,4.129032258064516,0
+2515,Seishun 18 Kippu 2013,1,65536,0,129,199,0,false,false,false,0,0.9922480620155039,0
+2516,Amidakuji,1,65536,0,37,241,0,false,false,false,0,3.4594594594594597,0
+2517,Hotel,1,65536,0,38,221,0,false,false,false,0,3.3684210526315788,0
+2518,B2D,1,65536,0,18,24,0,false,false,false,0,7.111111111111111,0
+2519,English,1,65536,0,26,79,0,false,false,false,0,4.923076923076923,0
+2520,Bicycle,3,65536,0,16,49,0,false,false,false,0,8,0
+2521,Hole,1,65536,0,9,73,0,false,false,false,0,12.8,0
+2522,Register Phase,2,65536,0,197,324,0,false,false,false,0,0.649746192893401,0
+2523,Time Complexity,2,65536,0,130,295,0,false,false,false,0,0.9846153846153847,0
+2524,Mysterious Operator,2,65536,0,98,175,0,false,false,false,0,1.3061224489795917,0
+2525,Change,2,65536,0,63,141,0,false,false,false,0,2.0317460317460316,0
+2526,Pie Chart is as easy as pie.,2,65536,0,30,52,0,false,false,false,0,4.266666666666667,0
+2527,MLE,2,65536,0,27,146,0,false,false,false,0,4.7407407407407405,0
+2528,Get Lost,8,262144,0,5,20,0,false,false,false,0,12.8,0
+2529,Brainf*ck,2,65536,0,30,107,0,false,false,false,0,4.266666666666667,0
+2530,Reverse Game,1,65536,0,8,19,0,false,false,false,0,12.8,0
+2531,Avant-garde Art,2,65536,0,16,72,0,false,false,false,0,8,0
+2532,Collector,2,65536,0,8,19,0,false,false,false,0,12.8,0
+2533,The Return of FizzBuzz,8,65536,0,3,6,0,false,false,false,0,12.8,0
+0276,Temperature Difference,1,65536,0,770,1136,0,false,false,false,0,0.32,0
+0277,Ticket Sales,1,65536,0,740,1074,0,false,false,false,0,0.32,0
+0278,Admission Fee,1,65536,0,544,1359,0,false,false,false,0,0.32,0
+0279,A Pair of Prizes,1,65536,0,502,1258,0,false,false,false,0,0.32,0
+0280,The Outcome of Bonze,1,65536,0,440,768,0,false,false,false,0,0.32,0
+0281,Formation,1,65536,0,463,886,0,false,false,false,0,0.32,0
+0282,Programming Contest,1,65536,0,214,1209,0,false,false,false,0,0.5981308411214953,0
+0283,Study Session,3,65536,0,88,446,0,false,false,false,0,1.4545454545454546,0
+0284,Happy End Problem,3,65536,0,31,235,0,false,false,false,0,4.129032258064516,0
+1516,Nasty Boys,1,65536,0,168,304,0,false,false,false,0,0.7619047619047619,0
+1517,Matrix Operations,2,65536,0,51,147,0,false,false,false,0,2.5098039215686274,0
+1518,Last One,1,65536,0,30,64,0,false,false,false,0,4.266666666666667,0
+1519,Room of Time and Spirit,2,65536,0,26,129,0,false,false,false,0,4.923076923076923,0
+1520,Light Source,8,65536,0,2,2,0,false,false,false,0,12.8,0
+1521,Prize Game,2,65536,0,2,7,0,false,false,false,0,12.8,0
+1522,Planarian Regeneration,1,65536,0,7,39,0,false,false,false,0,12.8,0
+1523,Cone Cut,8,65536,0,7,7,0,false,false,false,0,12.8,0
+1524,Rolling Block,5,65536,0,11,19,0,false,false,false,0,11.636363636363637,0
+1525,J's Final Problem,2,65536,0,3,11,0,false,false,false,0,12.8,0
+1335,Equal Sum Sets,8,65536,0,368,553,0,false,false,false,0,0.34782608695652173,0
+1336,The Last Ant,8,65536,0,190,329,0,false,false,false,0,0.6736842105263158,0
+1337,Count the Regions,8,65536,0,134,431,0,false,false,false,0,0.9552238805970149,0
+1338,Clock Hands,8,65536,0,48,158,0,false,false,false,0,2.6666666666666665,0
+1339,Dragon's Cruller,8,65536,0,79,357,0,false,false,false,0,1.620253164556962,0
+1340,Directional Resemblance,8,65536,0,25,150,0,false,false,false,0,5.12,0
+1341,Longest Chain,8,262144,0,62,454,0,false,false,false,0,2.064516129032258,0
+1342,Don't Burst the Balloon,8,65536,0,34,131,0,false,false,false,0,3.764705882352941,0
+1343,Hidden Tree,8,65536,0,46,266,0,false,false,false,0,2.782608695652174,0
+1344,C(O|W|A*RD*|S)* CROSSWORD Puzzle,8,262144,0,2,10,0,false,false,false,0,12.8,0
+0592,Average Score,8,65536,0,836,1345,0,false,false,false,0,0.32,0
+0593,Vote,8,65536,0,613,1522,0,false,false,false,0,0.32,0
+0594,Super Metropolis,8,65536,0,498,1083,0,false,false,false,0,0.32,0
+0595,Schedule,8,65536,0,302,637,0,false,false,false,0,0.423841059602649,0
+0596,Taxis,8,262144,0,193,785,0,false,false,false,0,0.6632124352331606,0
+0597,Xiao Long Bao,8,65536,0,54,185,0,false,false,false,0,2.3703703703703702,0
+2534,Dictionary,8,262144,0,121,437,0,false,false,false,0,1.0578512396694215,0
+2535,Texas hold 'em,8,262144,0,27,72,0,false,false,false,0,4.7407407407407405,0
+2536,Median Tree,8,262144,0,132,309,0,false,false,false,0,0.9696969696969697,0
+2537,Billiard,8,262144,0,45,208,0,false,false,false,0,2.8444444444444446,0
+2538,Stack Maze,8,262144,0,67,277,0,false,false,false,0,1.9104477611940298,0
+2539,Counting 1's,8,262144,0,27,76,0,false,false,false,0,4.7407407407407405,0
+2540,Ancient Commemorative Monolith,8,262144,0,10,26,0,false,false,false,0,12.8,0
+2541,Magical Bridges,8,262144,0,39,235,0,false,false,false,0,3.282051282051282,0
+2542,Hashigo Sama,8,262144,0,6,42,0,false,false,false,0,12.8,0
+2543,Ancient Scrolls,8,262144,0,28,60,0,false,false,false,0,4.571428571428571,0
+2544,Older Research Bldg. No.7,2,131072,0,160,254,0,false,false,false,0,0.8,0
+2545,Lion,2,131072,0,90,184,0,false,false,false,0,1.4222222222222223,0
+2546,Chocolate,2,131072,0,75,174,0,false,false,false,0,1.7066666666666668,0
+2547,Carpet,2,131072,0,62,171,0,false,false,false,0,2.064516129032258,0
+2548,Sugoroku,2,131072,0,29,234,0,false,false,false,0,4.413793103448276,0
+2549,7 Age,3,131072,0,21,83,0,false,false,false,0,6.095238095238095,0
+2550,Independent Research,2,131072,0,14,37,0,false,false,false,0,9.142857142857142,0
+2551,N and K,4,131072,0,8,15,0,false,false,false,0,12.8,0
+2552,Sigma,2,131072,0,2,4,0,false,false,false,0,12.8,0
+2553,Tile Setting,2,131072,0,3,4,0,false,false,false,0,12.8,0
+2554,encode/decode,3,131072,0,4,6,0,false,false,false,0,12.8,0
+2555,Everlasting Zero,3,131072,0,68,278,0,false,false,false,0,1.8823529411764706,0
+2556,Integer in Integer,8,131072,0,28,121,0,false,false,false,0,4.571428571428571,0
+2557,Iyasugigappa,2,131072,0,9,15,0,false,false,false,0,12.8,0
+2558,Medical Inspection,8,524288,0,22,208,0,false,false,false,0,5.818181818181818,0
+2559,Minimum Spanning Tree,2,262144,0,32,197,0,false,false,false,0,4,0
+2560,Point Distance,8,524288,0,34,210,0,false,false,false,0,3.764705882352941,0
+2561,Revenge of Minimum Cost Flow,2,262144,0,14,52,0,false,false,false,0,9.142857142857142,0
+2562,Rings,2,131072,0,17,50,0,false,false,false,0,7.529411764705882,0
+2563,The J-th Number,8,524288,0,22,183,0,false,false,false,0,5.818181818181818,0
+2564,Tree Reconstruction,8,131072,0,48,100,0,false,false,false,0,2.6666666666666665,0
+2565,Broken Audio Signal,8,524288,0,185,468,0,false,false,false,0,0.6918918918918919,0
+2566,Restore Calculation,8,524288,0,119,175,0,false,false,false,0,1.0756302521008403,0
+2567,SIRO Challenge,8,524288,0,72,215,0,false,false,false,0,1.7777777777777777,0
+2568,Everlasting -One-,8,524288,0,64,156,0,false,false,false,0,2,0
+2569,Putter,8,524288,0,26,134,0,false,false,false,0,4.923076923076923,0
+2570,Shipura,8,524288,0,67,173,0,false,false,false,0,1.9104477611940298,0
+2571,Floating Islands,8,524288,0,17,71,0,false,false,false,0,7.529411764705882,0
+2572,Venn Diagram,8,524288,0,35,211,0,false,false,false,0,3.657142857142857,0
+2573,Overwriting Game,8,524288,0,17,48,0,false,false,false,0,7.529411764705882,0
+2574,Magical Switches,8,524288,0,13,62,0,false,false,false,0,9.846153846153847,0
+2575,D's Ambition,1,524288,0,137,296,0,false,false,false,0,0.9343065693430657,0
+2576,Doctor Course Is Recommended,1,524288,0,108,223,0,false,false,false,0,1.1851851851851851,0
+2577,Dowsing Machine,1,524288,0,48,131,0,false,false,false,0,2.6666666666666665,0
+2578,Disciple Life is Hard,1,524288,0,44,99,0,false,false,false,0,2.909090909090909,0
+2579,Disappear Drive,1,524288,0,16,46,0,false,false,false,0,8,0
+2580,Dangerous Delivery,1,524288,0,11,37,0,false,false,false,0,11.636363636363637,0
+2581,Derangement,1,524288,0,36,54,0,false,false,false,0,3.5555555555555554,0
+0600,Baumkuchen,8,262144,0,209,1095,0,false,false,false,0,0.6124401913875598,0
+0601,Sugar Glider,8,262144,0,119,543,0,false,false,false,0,1.0756302521008403,0
+0602,Cutting,8,262144,0,22,172,0,false,false,false,0,5.818181818181818,0
+0598,JOI Emblem,8,262144,0,215,601,0,false,false,false,0,0.5953488372093023,0
+0599,IOI Manju,8,262144,0,197,705,0,false,false,false,0,0.649746192893401,0
+2582,Step Aerobics,8,131072,0,602,900,0,false,false,false,0,0.32,0
+2583,JAG-channel,8,131072,0,253,664,0,false,false,false,0,0.5059288537549407,0
+2584,Broken Cipher Generator,8,131072,0,188,374,0,false,false,false,0,0.6808510638297872,0
+2585,1 Day Passport,8,131072,0,115,354,0,false,false,false,0,1.1130434782608696,0
+2586,Wish upon a shooting star,8,131072,0,73,243,0,false,false,false,0,1.7534246575342465,0
+2587,Elevator Hall Number,8,131072,0,32,70,0,false,false,false,0,4,0
+2588,Golf,8,131072,0,5,47,0,false,false,false,0,12.8,0
+1192,Tax Rate Changed,8,65536,0,845,1868,0,false,false,false,0,0.32,0
+1193,Chain Disappearance Puzzle,8,65536,0,534,1079,0,false,false,false,0,0.32,0
+1194,Vampire,8,65536,0,284,810,0,false,false,false,0,0.4507042253521127,0
+1195,Encryption System,8,65536,0,204,989,0,false,false,false,0,0.6274509803921569,0
+1196,Bridge Removal,8,65536,0,197,429,0,false,false,false,0,0.649746192893401,0
+1197,A Die Maker,8,65536,0,38,146,0,false,false,false,0,3.3684210526315788,0
+1198,Don't Cross the Circles!,8,65536,0,32,95,0,false,false,false,0,4,0
+1345,Bit String Reordering,1,262144,0,176,304,0,false,false,false,0,0.7272727272727273,0
+1346,Miscalculation,1,262144,0,224,443,0,false,false,false,0,0.5714285714285714,0
+1347,Shopping,1,262144,0,153,261,0,false,false,false,0,0.8366013071895425,0
+1348,Space Golf,1,262144,0,49,129,0,false,false,false,0,2.6122448979591835,0
+1349,Automotive Navigation,5,262144,0,38,137,0,false,false,false,0,3.3684210526315788,0
+1350,There is No Alternative,3,262144,0,85,297,0,false,false,false,0,1.5058823529411764,0
+1351,Flipping Parentheses,5,262144,0,54,247,0,false,false,false,0,2.3703703703703702,0
+1352,Cornering at Poles,3,262144,0,20,46,0,false,false,false,0,6.4,0
+1353,Sweet War,1,262144,0,25,66,0,false,false,false,0,5.12,0
+1354,Exhibition,8,262144,0,10,55,0,false,false,false,0,12.8,0
+1355,L Jumps,3,262144,0,10,37,0,false,false,false,0,12.8,0
+2589,North North West,8,524288,0,272,664,0,false,false,false,0,0.47058823529411764,0
+2590,Unknown Switches,8,524288,0,151,338,0,false,false,false,0,0.847682119205298,0
+2591,Speedrun,8,524288,0,19,66,0,false,false,false,0,6.7368421052631575,0
+2592,Flowers,8,524288,0,60,341,0,false,false,false,0,2.1333333333333333,0
+2593,Square in Circles,8,524288,0,31,187,0,false,false,false,0,4.129032258064516,0
+2594,Reverse a Road II,8,524288,0,42,92,0,false,false,false,0,3.0476190476190474,0
+2595,Cookie Counter,8,524288,0,69,327,0,false,false,false,0,1.855072463768116,0
+2596,Points and Lines,8,524288,0,51,79,0,false,false,false,0,2.5098039215686274,0
+2597,Color the Map Extreme,8,524288,0,15,30,0,false,false,false,0,8.533333333333333,0
+2598,Website Tour,8,524288,0,35,90,0,false,false,false,0,3.657142857142857,0
+2599,Idempotent Filter,8,524288,0,57,156,0,false,false,false,0,2.245614035087719,0
+2600,Koto Distance,2,131072,0,249,1217,0,false,false,false,0,0.5140562248995983,0
+2601,Evacuation Route,2,131072,0,96,217,0,false,false,false,0,1.3333333333333333,0
+2602,Apples,5,131072,0,11,82,0,false,false,false,0,11.636363636363637,0
+2603,TiMe Table,2,131072,0,31,125,0,false,false,false,0,4.129032258064516,0
+2604,Pattern Language,5,131072,0,13,19,0,false,false,false,0,9.846153846153847,0
+2605,Social Monsters,3,131072,0,28,90,0,false,false,false,0,4.571428571428571,0
+2606,Perm Query,2,131072,0,60,265,0,false,false,false,0,2.1333333333333333,0
+0285,Tennis,1,65536,0,137,287,0,false,false,false,0,0.9343065693430657,0
+0286,Computation of Salary,2,65536,0,99,258,0,false,false,false,0,1.292929292929293,0
+0287,Jinkoki,1,65536,0,115,213,0,false,false,false,0,1.1130434782608696,0
+0288,Knocker of the Gigas Cedar,1,65536,0,84,388,0,false,false,false,0,1.5238095238095237,0
+0289,Infinite Express,1,65536,0,105,376,0,false,false,false,0,1.2190476190476192,0
+0290,Microorganism Power Generation,1,65536,0,68,175,0,false,false,false,0,1.8823529411764706,0
+0292,Wall,1,65536,0,26,271,0,false,false,false,0,4.923076923076923,0
+0291,Mystery of an Ancient Ruin,1,65536,0,31,158,0,false,false,false,0,4.129032258064516,0
+0293,Algorithm Exam,8,65536,0,19,182,0,false,false,false,0,6.7368421052631575,0
+0294,Catch a Thief,1,65536,0,13,112,0,false,false,false,0,9.846153846153847,0
+0295,The Number of Chairs,1,65536,0,624,932,0,false,false,false,0,0.32,0
+0296,A Fat Wallet,1,65536,0,589,1034,0,false,false,false,0,0.32,0
+0297,The Last One is the Best,1,65536,0,582,1097,0,false,false,false,0,0.32,0
+0298,Bus Timetable,1,65536,0,338,1869,0,false,false,false,0,0.378698224852071,0
+0299,Railroad II,1,65536,0,164,909,0,false,false,false,0,0.7804878048780488,0
+0300,Floppy Cube,1,65536,0,200,438,0,false,false,false,0,0.64,0
+0301,Baton Relay Game,1,65536,0,156,771,0,false,false,false,0,0.8205128205128205,0
+0302,Star Watching,1,65536,0,87,481,0,false,false,false,0,1.471264367816092,0
+0303,Mighty Man,1,65536,0,63,252,0,false,false,false,0,2.0317460317460316,0
+0304,School Cafeteria,1,65536,0,18,142,0,false,false,false,0,7.111111111111111,0
+0310,Frame,1,65536,0,48,317,0,false,false,false,0,2.6666666666666665,0
+2607,Invest Master,2,131072,0,162,471,0,false,false,false,0,0.7901234567901234,0
+2608,Minus One,2,131072,0,103,274,0,false,false,false,0,1.2427184466019416,0
+2609,Wave Attack,2,131072,0,43,152,0,false,false,false,0,2.9767441860465116,0
+2610,Fast Division,2,131072,0,201,359,0,false,false,false,0,0.6368159203980099,0
+2611,Ordering,2,131072,0,29,92,0,false,false,false,0,4.413793103448276,0
+2612,Phutball,2,131072,0,49,213,0,false,false,false,0,2.6122448979591835,0
+2613,Unordered Operators,2,131072,0,83,236,0,false,false,false,0,1.5421686746987953,0
+2614,Almost Same Substring,4,131072,0,55,272,0,false,false,false,0,2.327272727272727,0
+2615,A + B,8,131072,0,12,35,0,false,false,false,0,10.666666666666666,0
+2616,KuruKuruKururin,8,131072,0,3,17,0,false,false,false,0,12.8,0
+2617,Air Pollution,2,131072,0,26,56,0,false,false,false,0,4.923076923076923,0
+2618,Trip to Kyoto,2,131072,0,9,30,0,false,false,false,0,12.8,0
+2619,Thread Tree,2,262144,0,172,228,0,false,false,false,0,0.7441860465116279,0
+2620,Trodden Cable,5,262144,0,69,263,0,false,false,false,0,1.855072463768116,0
+2621,Fox Observation,2,262144,0,91,202,0,false,false,false,0,1.4065934065934067,0
+2622,Removing Magical Tiles,2,262144,0,11,21,0,false,false,false,0,11.636363636363637,0
+2623,Optimal alpha beta pruning,2,262144,0,8,19,0,false,false,false,0,12.8,0
+2624,Graph Automata Player,10,262144,0,25,121,0,false,false,false,0,5.12,0
+2625,Spotlight Movement,2,262144,0,11,15,0,false,false,false,0,11.636363636363637,0
+2626,Gravity Point,2,262144,0,7,10,0,false,false,false,0,12.8,0
+2627,Multi Path Story,5,262144,0,8,77,0,false,false,false,0,12.8,0
+2628,Rotation Game,3,262144,0,3,13,0,false,false,false,0,12.8,0
+2629,Manhattan,2,262144,0,157,344,0,false,false,false,0,0.8152866242038217,0
+2630,Dictionary,4,262144,0,29,102,0,false,false,false,0,4.413793103448276,0
+2631,Clique Coloring,2,262144,0,37,275,0,false,false,false,0,3.4594594594594597,0
+2632,Dense Amidakuji,2,262144,0,41,90,0,false,false,false,0,3.1219512195121952,0
+2633,Cellular Automaton,2,262144,0,7,21,0,false,false,false,0,12.8,0
+2634,Directions,2,262144,0,11,55,0,false,false,false,0,11.636363636363637,0
+2635,Snake,2,262144,0,22,74,0,false,false,false,0,5.818181818181818,0
+2636,Distance Sum,4,524288,0,11,204,0,false,false,false,0,11.636363636363637,0
+2637,Substring Pairs,2,262144,0,10,14,0,false,false,false,0,12.8,0
+2638,Hyperrectangle,2,262144,0,30,58,0,false,false,false,0,4.266666666666667,0
+0251,Magic Square,2,65536,0,31,119,0,false,false,false,0,4.129032258064516,0
+0253,Ant Nest,1,65536,0,27,201,0,false,false,false,0,4.7407407407407405,0
+0254,Scone,1,65536,0,34,234,0,false,false,false,0,3.764705882352941,0
+2639,Yamanote Line,2,131072,0,323,908,0,false,false,false,0,0.39628482972136225,0
+2640,Prowler,2,131072,0,74,176,0,false,false,false,0,1.7297297297297298,0
+2641,Magic Bullet,2,131072,0,113,456,0,false,false,false,0,1.1327433628318584,0
+2642,Dinner,4,131072,0,100,392,0,false,false,false,0,1.28,0
+2643,AI,2,131072,0,51,301,0,false,false,false,0,2.5098039215686274,0
+2644,Longest Match,4,131072,0,52,258,0,false,false,false,0,2.4615384615384617,0
+2645,Recycle,2,131072,0,0,0,0,false,false,false,0,0,0
+2646,Tournament,2,131072,0,9,24,0,false,false,false,0,12.8,0
+2647,The Capital,2,131072,0,11,64,0,false,false,false,0,11.636363636363637,0
+2648,Vongress,2,131072,0,3,17,0,false,false,false,0,12.8,0
+2656,Taps,1,131072,0,90,174,0,false,false,false,0,1.4222222222222223,0
+2657,Books,1,131072,0,78,158,0,false,false,false,0,1.641025641025641,0
+2658,Pruning,1,131072,0,71,134,0,false,false,false,0,1.8028169014084507,0
+2659,Chopsticks,2,131072,0,38,189,0,false,false,false,0,3.3684210526315788,0
+2660,Sigma,1,131072,0,50,196,0,false,false,false,0,2.56,0
+2661,Todaiji,2,131072,0,36,100,0,false,false,false,0,3.5555555555555554,0
+2669,A-Z Cat,5,131072,0,174,308,0,false,false,false,0,0.735632183908046,0
+2670,Cram School Schedule,5,131072,0,72,123,0,false,false,false,0,1.7777777777777777,0
+2671,Digital Clock,5,131072,0,38,62,0,false,false,false,0,3.3684210526315788,0
+2672,Rescue a Postal Worker,5,524288,0,62,140,0,false,false,false,0,2.064516129032258,0
+2673,Do You Divide It?,5,131072,0,8,29,0,false,false,false,0,12.8,0
+2674,Disordered Data Detection,5,131072,0,56,205,0,false,false,false,0,2.2857142857142856,0
+2676,Typing Game,5,131072,0,38,194,0,false,false,false,0,3.3684210526315788,0
+2675,Dungeon of Cards,5,131072,0,11,36,0,false,false,false,0,11.636363636363637,0
+0608,Water Rate,8,262144,0,583,964,0,false,false,false,0,0.32,0
+0609,Christmas Party,8,262144,0,406,694,0,false,false,false,0,0.32,0
+0610,Weather Forecaster,8,262144,0,370,974,0,false,false,false,0,0.34594594594594597,0
+0611,Silk Road,8,262144,0,288,884,0,false,false,false,0,0.4444444444444444,0
+0612,Sandcastle,8,262144,0,148,644,0,false,false,false,0,0.8648648648648649,0
+0613,Treasures,8,1048576,0,46,723,0,false,false,false,0,2.782608695652174,0
+0614,Railroad Trip,8,262144,0,189,565,0,false,false,false,0,0.6772486772486772,0
+0615,Cake 2,8,262144,0,139,392,0,false,false,false,0,0.920863309352518,0
+0616,JOI Park,8,262144,0,115,376,0,false,false,false,0,1.1130434782608696,0
+0617,Ball,8,262144,0,46,146,0,false,false,false,0,2.782608695652174,0
+0618,Rampart,8,262144,0,27,118,0,false,false,false,0,4.7407407407407405,0
+2662,Soccer,1,65536,0,124,333,0,false,false,false,0,1.032258064516129,0
+2663,RUPC,2,65536,0,122,534,0,false,false,false,0,1.0491803278688525,0
+2664,Shopping,1,65536,0,127,345,0,false,false,false,0,1.0078740157480315,0
+2665,Hopping Hearts,1,262144,0,75,345,0,false,false,false,0,1.7066666666666668,0
+2666,Arojam's Mask,1,65536,0,67,170,0,false,false,false,0,1.9104477611940298,0
+2667,Tree,4,524288,0,35,500,0,false,false,false,0,3.657142857142857,0
+2668,Bob's Bomb,1,65536,0,0,12,0,false,false,false,0,0,0
+0603,Illumination,1,262144,0,137,302,0,false,false,false,0,0.9343065693430657,0
+0604,Take the 'IOI' train,1,262144,0,109,517,0,false,false,false,0,1.1743119266055047,0
+0605,Modern Mansion,1,262144,0,61,441,0,false,false,false,0,2.098360655737705,0
+0606,Tower of JOIOI,3,262144,0,38,220,0,false,false,false,0,3.3684210526315788,0
+0607,Bubble Sort,1,262144,0,15,157,0,false,false,false,0,8.533333333333333,0
+0305,Yuekis' Audio Room,1,65536,0,132,213,0,false,false,false,0,0.9696969696969697,0
+0306,Symmetric Ternary Number,1,65536,0,101,210,0,false,false,false,0,1.2673267326732673,0
+0307,Nisshinkan Marathon Club,1,65536,0,64,127,0,false,false,false,0,2,0
+0308,Deadlock,1,65536,0,61,144,0,false,false,false,0,2.098360655737705,0
+0309,New Drug Development,1,65536,0,40,127,0,false,false,false,0,3.2,0
+0311,Kaguya,5,65536,0,16,40,0,false,false,false,0,8,0
+0312,Net Cafe,1,65536,0,39,82,0,false,false,false,0,3.282051282051282,0
+0313,Unknown Germ,1,65536,0,12,33,0,false,false,false,0,10.666666666666666,0
+0314,The Kingdom of Akabeko,1,65536,0,9,38,0,false,false,false,0,12.8,0
+2677,Breadth-First Search by Foxpower,2,131072,0,45,171,0,false,false,false,0,2.8444444444444446,0
+2678,Cube Coloring,2,131072,0,30,91,0,false,false,false,0,4.266666666666667,0
+2679,Decoding Ancient Messages,2,131072,0,26,112,0,false,false,false,0,4.923076923076923,0
+2680,LR,2,131072,0,40,129,0,false,false,false,0,3.2,0
+2681,Parentheses,2,131072,0,44,355,0,false,false,false,0,2.909090909090909,0
+2682,Polygon Guards,5,131072,0,10,35,0,false,false,false,0,12.8,0
+2683,Proportional Representation,5,131072,0,3,6,0,false,false,false,0,12.8,0
+2684,RLE Replacement,2,131072,0,50,270,0,false,false,false,0,2.56,0
+2685,Tokyo Olympics Center,5,131072,0,4,11,0,false,false,false,0,12.8,0
+2686,Unfair Game,2,131072,0,15,51,0,false,false,false,0,8.533333333333333,0
+1356,Decimal Sequences,1,262144,0,220,577,0,false,false,false,0,0.5818181818181818,0
+1357,Squeeze the Cylinders,1,262144,0,112,233,0,false,false,false,0,1.1428571428571428,0
+1358,Sibling Rivalry,2,262144,0,49,292,0,false,false,false,0,2.6122448979591835,0
+1359,Wall Clocks,1,262144,0,44,198,0,false,false,false,0,2.909090909090909,0
+1360,Bringing Order to Disorder,1,262144,0,29,104,0,false,false,false,0,4.413793103448276,0
+1361,Deadlock Detection,2,262144,0,23,204,0,false,false,false,0,5.565217391304348,0
+1362,Do Geese See God?,3,262144,0,27,96,0,false,false,false,0,4.7407407407407405,0
+1363,Rotating Cutter Bits,3,262144,0,7,8,0,false,false,false,0,12.8,0
+1364,Routing a Marathon Race,3,262144,0,11,234,0,false,false,false,0,11.636363636363637,0
+1365,Post Office Investigation,3,262144,0,4,25,0,false,false,false,0,12.8,0
+1366,Min-Max Distance Game,1,262144,0,7,46,0,false,false,false,0,12.8,0
+2687,Balanced Paths,3,262144,0,11,56,0,false,false,false,0,11.636363636363637,0
+2688,Card Game Strategy,5,1048576,0,3,12,0,false,false,false,0,12.8,0
+2689,Casino,2,262144,0,1,4,0,false,false,false,0,12.8,0
+2690,Content Delivery,5,262144,0,5,14,0,false,false,false,0,12.8,0
+2691,Cost Performance Flow,2,262144,0,7,42,0,false,false,false,0,12.8,0
+2692,ICPC Teams,3,262144,0,10,129,0,false,false,false,0,12.8,0
+2693,JAG-channel II,3,262144,0,12,34,0,false,false,false,0,10.666666666666666,0
+2694,Kimagure Cleaner,10,1048576,0,0,4,0,false,false,false,0,0,0
+2695,Midpoint,10,262144,0,3,31,0,false,false,false,0,12.8,0
+2696,New Game AI,2,262144,0,4,44,0,false,false,false,0,12.8,0
+2697,Runner and Sniper,2,262144,0,10,130,0,false,false,false,0,12.8,0
+2698,Wall Making Game,2,262144,0,28,59,0,false,false,false,0,4.571428571428571,0
+2700,Airport Codes,8,262144,0,233,496,0,false,false,false,0,0.5493562231759657,0
+2701,Falling Block Puzzle,8,262144,0,41,101,0,false,false,false,0,3.1219512195121952,0
+2702,Alternate Escape,8,262144,0,28,137,0,false,false,false,0,4.571428571428571,0
+2703,Dice Stamp,8,262144,0,27,104,0,false,false,false,0,4.7407407407407405,0
+2704,Stamp Rally,8,262144,0,9,18,0,false,false,false,0,12.8,0
+2705,Kuru Kuru Door,8,262144,0,3,6,0,false,false,false,0,12.8,0
+2699,Koto Municipal Subway,8,262144,0,305,421,0,false,false,false,0,0.419672131147541,0
+0619,Selecting Subjects,8,262144,0,280,462,0,false,false,false,0,0.45714285714285713,0
+0620,Swapping Bibs,8,262144,0,199,285,0,false,false,false,0,0.6432160804020101,0
+0621,Russian Flag,8,262144,0,165,305,0,false,false,false,0,0.7757575757575758,0
+0622,Walking in JOI Kingdom,8,262144,0,110,397,0,false,false,false,0,1.1636363636363636,0
+0623,Zombie Island,8,262144,0,94,305,0,false,false,false,0,1.3617021276595744,0
+0624,Food stalls,8,524288,0,30,71,0,false,false,false,0,4.266666666666667,0
+0625,Oranges,1,262144,0,79,234,0,false,false,false,0,1.620253164556962,0
+0626,Collecting Stamps 2,2,262144,0,66,142,0,false,false,false,0,1.9393939393939394,0
+0627,Train Fare,3,262144,0,53,466,0,false,false,false,0,2.4150943396226414,0
+0628,Territory,1,262144,0,5,26,0,false,false,false,0,12.8,0
+0629,Geologic Fault,2,262144,0,9,31,0,false,false,false,0,12.8,0
+1600,Entrance Examination,8,262144,0,433,657,0,false,false,false,0,0.32,0
+1601,Short Phrase,8,262144,0,328,587,0,false,false,false,0,0.3902439024390244,0
+1602,ICPC Calculator,8,262144,0,180,367,0,false,false,false,0,0.7111111111111111,0
+1603,500-yen Saving,8,262144,0,74,302,0,false,false,false,0,1.7297297297297298,0
+1604,Deadlock Detection,8,262144,0,33,84,0,false,false,false,0,3.878787878787879,0
+1605,Bridge Construction Planning,8,262144,0,15,64,0,false,false,false,0,8.533333333333333,0
+1606,Complex Paper Folding,8,262144,0,6,9,0,false,false,false,0,12.8,0
+1607,Development of Small Flying Robots,8,262144,0,3,16,0,false,false,false,0,12.8,0
+2706,Let's Solve Geometric Problems,2,262144,0,124,561,0,false,false,false,0,1.032258064516129,0
+2707,Jail,2,262144,0,102,204,0,false,false,false,0,1.2549019607843137,0
+2708,ABC Gene,2,262144,0,110,529,0,false,false,false,0,1.1636363636363636,0
+2709,Dark Room,2,262144,0,69,216,0,false,false,false,0,1.855072463768116,0
+2710,An Equation in a Mine,2,262144,0,29,94,0,false,false,false,0,4.413793103448276,0
+2711,Nearly Cyclic String,2,262144,0,13,143,0,false,false,false,0,9.846153846153847,0
+2712,Escape,2,262144,0,31,148,0,false,false,false,0,4.129032258064516,0
+2713,Bit Operation Game,2,262144,0,13,41,0,false,false,false,0,9.846153846153847,0
+2716,Leapfrog,2,262144,0,2,3,0,false,false,false,0,12.8,0
+2717,Where is the Boundary,5,262144,0,58,98,0,false,false,false,0,2.206896551724138,0
+2718,Vector Field,5,262144,0,25,44,0,false,false,false,0,5.12,0
+2719,Kuru Kuru Sushi,5,262144,0,0,1,0,false,false,false,0,0,0
+2720,Identity Function,5,262144,0,13,104,0,false,false,false,0,9.846153846153847,0
+2721,Enclose Points,8,262144,0,0,3,0,false,false,false,0,0,0
+2722,Marching Course,5,262144,0,11,17,0,false,false,false,0,11.636363636363637,0
+2723,Surface Area of Cubes,5,262144,0,39,74,0,false,false,false,0,3.282051282051282,0
+2724,Laser Cutter,5,262144,0,6,29,0,false,false,false,0,12.8,0
+2725,Live Programming,5,524288,0,6,79,0,false,false,false,0,12.8,0
+2726,Black Company,5,262144,0,20,112,0,false,false,false,0,6.4,0
+2714,Twin Reverse,2,262144,0,0,2,0,false,false,false,0,0,0
+2715,Connection,2,262144,0,0,1,0,false,false,false,0,0,0
+2727,M and A,5,524288,0,87,167,0,false,false,false,0,1.471264367816092,0
+2728,Change a Password,5,524288,0,59,183,0,false,false,false,0,2.169491525423729,0
+2729,Delete Files,5,524288,0,31,104,0,false,false,false,0,4.129032258064516,0
+2730,Line Gimmick,5,524288,0,59,121,0,false,false,false,0,2.169491525423729,0
+2731,Shifting a Matrix,5,524288,0,17,33,0,false,false,false,0,7.529411764705882,0
+2732,Modern Announce Network,5,524288,0,21,84,0,false,false,false,0,6.095238095238095,0
+2733,Cube Dividing,5,524288,0,4,29,0,false,false,false,0,12.8,0
+2734,Donut Decoration,5,524288,0,22,82,0,false,false,false,0,5.818181818181818,0
+2735,Shortest Bridge,5,524288,0,2,12,0,false,false,false,0,12.8,0
+2736,Longest Shortest Path,10,524288,0,1,5,0,false,false,false,0,12.8,0
+2737,Optimal Tournament,5,524288,0,4,6,0,false,false,false,0,12.8,0
+2738,A-un Breathing,8,524288,0,284,579,0,false,false,false,0,0.4507042253521127,0
+2739,Delivery to a Luxurious House,8,524288,0,205,399,0,false,false,false,0,0.624390243902439,0
+2740,Rooted Tree for Misawa-san,8,524288,0,84,216,0,false,false,false,0,1.5238095238095237,0
+2741,Invisible,8,524288,0,44,171,0,false,false,false,0,2.909090909090909,0
+2742,Campaign,8,524288,0,20,37,0,false,false,false,0,6.4,0
+2743,Land Inheritance,8,524288,0,11,66,0,false,false,false,0,11.636363636363637,0
+2744,Rings and Strings,8,1048576,0,0,0,0,false,false,false,0,0,0
+2745,Curry Making,8,524288,0,261,392,0,false,false,false,0,0.4904214559386973,0
+2746,jfen,8,524288,0,110,153,0,false,false,false,0,1.1636363636363636,0
+2747,Curtain,8,524288,0,50,174,0,false,false,false,0,2.56,0
+2748,Early Morning Work at Summer Camp,8,524288,0,62,99,0,false,false,false,0,2.064516129032258,0
+2749,The Most Powerful Bed,8,524288,0,55,115,0,false,false,false,0,2.327272727272727,0
+2750,Hyakunin Isshu,8,524288,0,0,0,0,false,false,false,0,0,0
+2751,Baseball,8,524288,0,14,33,0,false,false,false,0,9.142857142857142,0
+2752,Finger Counting,5,262144,0,48,88,0,false,false,false,0,2.6666666666666665,0
+2753,Lie with Mean Value,5,262144,0,36,67,0,false,false,false,0,3.5555555555555554,0
+2754,Pots,5,262144,0,14,25,0,false,false,false,0,9.142857142857142,0
+2755,Checkered Pattern,5,262144,0,17,63,0,false,false,false,0,7.529411764705882,0
+2756,Typhoon,5,262144,0,3,12,0,false,false,false,0,12.8,0
+2757,Eggs,5,262144,0,4,10,0,false,false,false,0,12.8,0
+2759,Match Peas War,2,262144,0,11,28,0,false,false,false,0,11.636363636363637,0
+2760,Shopping,2,262144,0,2,4,0,false,false,false,0,12.8,0
+2761,Myampus Sequence,2,262144,0,8,9,0,false,false,false,0,12.8,0
+2762,How To Make Stars,2,262144,0,3,9,0,false,false,false,0,12.8,0
+2763,Miko Mi String,2,262144,0,18,53,0,false,false,false,0,7.111111111111111,0
+2764,Travel Support,5,262144,0,1,1,0,false,false,false,0,12.8,0
+2765,Steelyard,2,262144,0,106,186,0,false,false,false,0,1.2075471698113207,0
+2766,Hamming Distance,2,262144,0,110,244,0,false,false,false,0,1.1636363636363636,0
+2767,AddMul,2,262144,0,77,143,0,false,false,false,0,1.6623376623376624,0
+2768,Scanner,2,262144,0,76,164,0,false,false,false,0,1.6842105263157894,0
+2769,28,2,262144,0,48,194,0,false,false,false,0,2.6666666666666665,0
+2770,Relay,4,524288,0,29,163,0,false,false,false,0,4.413793103448276,0
+2771,Paint,4,524288,0,1,25,0,false,false,false,0,12.8,0
+2772,My Number,2,262144,0,79,99,0,false,false,false,0,1.620253164556962,0
+2773,Periodic Sequence,2,262144,0,78,156,0,false,false,false,0,1.641025641025641,0
+2774,Growing Point,2,262144,0,32,138,0,false,false,false,0,4,0
+2775,Complex Oracle,5,524288,0,7,10,0,false,false,false,0,12.8,0
+2776,Arai's,2,262144,0,29,63,0,false,false,false,0,4.413793103448276,0
+2777,Kitsuchiri,5,262144,0,38,124,0,false,false,false,0,3.3684210526315788,0
+2778,Destiny Draw,3,262144,0,28,70,0,false,false,false,0,4.571428571428571,0
+2779,About Our Effort,3,524288,0,24,96,0,false,false,false,0,5.333333333333333,0
+2780,Best Matched Pair,2,524288,0,130,513,0,false,false,false,0,0.9846153846153847,0
+2781,Help the Princess!,2,524288,0,70,487,0,false,false,false,0,1.8285714285714285,0
+2782,We don't wanna work!,2,524288,0,18,261,0,false,false,false,0,7.111111111111111,0
+2783,Parentheses,2,524288,0,41,440,0,false,false,false,0,3.1219512195121952,0
+2784,Similarity of Subtrees,2,524288,0,39,442,0,false,false,false,0,3.282051282051282,0
+2785,Escape from the Hell,2,524288,0,13,250,0,false,false,false,0,9.846153846153847,0
+2786,Share the Ruins Preservation,2,524288,0,13,117,0,false,false,false,0,9.846153846153847,0
+2787,Pipe Fitter and the Fierce Dogs,2,524288,0,10,41,0,false,false,false,0,12.8,0
+2788,Multisect,2,524288,0,5,36,0,false,false,false,0,12.8,0
+2789,Compressed Formula,2,524288,0,7,30,0,false,false,false,0,12.8,0
+2790,Non-redundant Drive,2,524288,0,7,114,0,false,false,false,0,12.8,0
+1608,Selection of Participants of an Experiment,8,262144,0,379,604,0,false,false,false,0,0.33773087071240104,0
+1609,Look for the Winner!,8,262144,0,228,424,0,false,false,false,0,0.5614035087719298,0
+1610,Bamboo Blossoms,8,262144,0,214,474,0,false,false,false,0,0.5981308411214953,0
+1611,Daruma Otoshi,8,262144,0,136,418,0,false,false,false,0,0.9411764705882353,0
+1612,3D Printing,8,262144,0,46,193,0,false,false,false,0,2.782608695652174,0
+1613,Deciphering Characters,8,262144,0,37,73,0,false,false,false,0,3.4594594594594597,0
+1614,Warp Drive,8,262144,0,2,17,0,false,false,false,0,12.8,0
+1615,Gift Exchange Party,8,262144,0,12,36,0,false,false,false,0,10.666666666666666,0
+1367,Rearranging a Sequence,2,262144,0,112,342,0,false,false,false,0,1.1428571428571428,0
+1368,Quality of Check Digits,1,262144,0,80,336,0,false,false,false,0,1.6,0
+1369,Distribution Center,3,262144,0,71,619,0,false,false,false,0,1.8028169014084507,0
+1370,Hidden Anagrams,10,262144,0,52,740,0,false,false,false,0,2.4615384615384617,0
+1371,Infallibly Crack Perplexing Cryptarithm,2,262144,0,27,133,0,false,false,false,0,4.7407407407407405,0
+1372,Three Kingdoms of Bourdelot,4,262144,0,7,39,0,false,false,false,0,12.8,0
+1373,Placing Medals on a Binary Tree,4,262144,0,37,407,0,false,false,false,0,3.4594594594594597,0
+1374,Animal Companion in Maze,2,262144,0,7,49,0,false,false,false,0,12.8,0
+1375,Skinny Polygon,3,262144,0,12,162,0,false,false,false,0,10.666666666666666,0
+1376,Cover the Polygon with Your Disk,5,262144,0,10,324,0,false,false,false,0,12.8,0
+1377,Black and White Boxes,2,262144,0,3,3,0,false,false,false,0,12.8,0
+0345,Rectangle,1,262144,0,161,227,0,false,false,false,0,0.7950310559006211,0
+0346,Rectangle Made with Bars,1,262144,0,125,196,0,false,false,false,0,1.024,0
+0347,Maximization of Relational Expression,1,262144,0,96,261,0,false,false,false,0,1.3333333333333333,0
+0348,Sevens,1,262144,0,38,67,0,false,false,false,0,3.3684210526315788,0
+0349,Cyclic Sugoroku,1,262144,0,49,142,0,false,false,false,0,2.6122448979591835,0
+0350,Irreducible Fractionalization,1,262144,0,34,79,0,false,false,false,0,3.764705882352941,0
+0351,Quiet Town,3,262144,0,32,152,0,false,false,false,0,4,0
+0352,Forecast of Forces,1,262144,0,20,35,0,false,false,false,0,6.4,0
+0353,Sort,3,262144,0,3,185,0,false,false,false,0,12.8,0
+0354,Ant,3,262144,0,8,27,0,false,false,false,0,12.8,0
+0355,String Game,3,262144,0,10,49,0,false,false,false,0,12.8,0
+0356,Evening,1,262144,0,6,15,0,false,false,false,0,12.8,0
+0325,Cuboid,1,262144,0,56,222,0,false,false,false,0,2.2857142857142856,0
+0326,Related Products,1,262144,0,73,113,0,false,false,false,0,1.7534246575342465,0
+0327,Alphametic,2,262144,0,57,80,0,false,false,false,0,2.245614035087719,0
+0328,Metal Recycling,2,262144,0,48,113,0,false,false,false,0,2.6666666666666665,0
+0329,Bilateral Trade,2,262144,0,51,149,0,false,false,false,0,2.5098039215686274,0
+0330,Halting Problem,5,262144,0,21,132,0,false,false,false,0,6.095238095238095,0
+0331,Scheduler,2,262144,0,14,30,0,false,false,false,0,9.142857142857142,0
+0332,Disappearing Sequence,1,262144,0,20,92,0,false,false,false,0,6.4,0
+0333,Line Segment Arrangement,4,262144,0,8,53,0,false,false,false,0,12.8,0
+0334,Amidakuji,2,262144,0,10,83,0,false,false,false,0,12.8,0
+0630,Microwave,8,262144,0,168,234,0,false,false,false,0,0.7619047619047619,0
+0631,Point Card,8,262144,0,135,203,0,false,false,false,0,0.9481481481481482,0
+0632,Refreshment Area,8,262144,0,110,171,0,false,false,false,0,1.1636363636363636,0
+0633,Plush Toys,8,262144,0,62,106,0,false,false,false,0,2.064516129032258,0
+0634,Ridge,8,262144,0,51,129,0,false,false,false,0,2.5098039215686274,0
+0635,Snake JOI,8,1048576,0,43,98,0,false,false,false,0,2.9767441860465116,0
+0636,Foehn Phenomena,1,262144,0,35,81,0,false,false,false,0,3.657142857142857,0
+0637,Semiexpress,1,262144,0,19,38,0,false,false,false,0,6.7368421052631575,0
+0638,Kingdom of JOIOI,4,262144,0,12,31,1,false,false,false,0,10.666666666666666,0
+0639,Soccer,3,262144,0,5,7,0,false,false,false,0,12.8,0
+0640,Rope,3,262144,0,5,13,0,false,false,false,0,12.8,0
+2791,Cabbage,2,262144,0,69,99,0,false,false,false,0,1.855072463768116,0
+2792,SNS,2,262144,0,63,114,0,false,false,false,0,2.0317460317460316,0
+2793,Lost Graph,2,262144,0,7,47,0,false,false,false,0,12.8,0
+2794,DAG Trio (Easy),2,262144,0,21,102,0,false,false,false,0,6.095238095238095,0
+2795,Fuda,2,262144,0,36,130,0,false,false,false,0,3.5555555555555554,0
+2796,Folding Paper,2,262144,0,3,7,0,false,false,false,0,12.8,0
+2797,DAG Trio (Hard),2,262144,0,3,23,0,false,false,false,0,12.8,0
+2798,Taking a Seat,2,262144,0,61,91,0,false,false,false,0,2.098360655737705,0
+2799,Yamanote-line Game,2,262144,0,66,87,0,false,false,false,0,1.9393939393939394,0
+2800,Mod!Mod!,2,262144,0,78,166,0,false,false,false,0,1.641025641025641,0
+2801,Suntan,2,262144,0,53,109,0,false,false,false,0,2.4150943396226414,0
+2802,Unbalanced Old Maid,2,262144,0,6,89,0,false,false,false,0,12.8,0
+2803,Overflow of Furo,2,262144,0,21,129,0,false,false,false,0,6.095238095238095,0
+2804,Minimum Enclosing Rectangle,2,262144,0,25,97,0,false,false,false,0,5.12,0
+2805,Tournament,2,262144,0,120,217,0,false,false,false,0,1.0666666666666667,0
+2806,Weight Range,2,262144,0,95,149,0,false,false,false,0,1.3473684210526315,0
+2807,Fractal Tree,2,262144,0,60,273,0,false,false,false,0,2.1333333333333333,0
+2808,Password,1,262144,0,59,193,0,false,false,false,0,2.169491525423729,0
+2809,Graduation Ceremony,2,262144,0,43,78,0,false,false,false,0,2.9767441860465116,0
+2810,Card Game,2,262144,0,36,103,0,false,false,false,0,3.5555555555555554,0
+2811,Rainy Bus Stops,2,262144,0,31,132,0,false,false,false,0,4.129032258064516,0
+2812,Jump Party,2,262144,0,20,72,0,false,false,false,0,6.4,0
+2813,Islands Survival,2,262144,0,17,60,0,false,false,false,0,7.529411764705882,0
+2814,Energy Drink,2,262144,0,13,52,0,false,false,false,0,9.846153846153847,0
+2815,AOR's Score,2,262144,0,26,50,0,false,false,false,0,4.923076923076923,0
+2816,Alphabet Block,1,262142,0,70,122,0,false,false,false,0,1.8285714285714285,0
+2817,Dance Now!,1,262142,0,46,83,0,false,false,false,0,2.782608695652174,0
+2818,Imagawayaki Man,2,262142,0,50,113,0,false,false,false,0,2.56,0
+2819,Country in Distortion,1,262142,0,52,124,0,false,false,false,0,2.4615384615384617,0
+2820,Binary Sequence,1,262142,0,34,97,0,false,false,false,0,3.764705882352941,0
+2821,Trees in a Forest,1,262142,0,18,197,0,false,false,false,0,7.111111111111111,0
+2822,"Love Permutation, Run run run!",1,262142,0,6,44,0,false,false,false,0,12.8,0
+0335,Word,1,262144,0,143,182,0,false,false,false,0,0.8951048951048951,0
+0336,Sunrise and Sunset,1,262144,0,119,205,0,false,false,false,0,1.0756302521008403,0
+0337,Japanese Calendar,1,262144,0,121,231,0,false,false,false,0,1.0578512396694215,0
+0338,New Town,1,262144,0,124,235,0,false,false,false,0,1.032258064516129,0
+0339,Geometric Data,1,262144,0,106,261,0,false,false,false,0,1.2075471698113207,0
+0340,Pancake,1,262144,0,72,389,0,false,false,false,0,1.7777777777777777,0
+0341,Repeated Spell,1,262144,0,45,106,0,false,false,false,0,2.8444444444444446,0
+0342,Road Planning,1,262144,0,21,43,0,false,false,false,0,6.095238095238095,0
+0343,Programming Contest II,2,262144,0,22,47,0,false,false,false,0,5.818181818181818,0
+0344,Game Strategy,2,262144,0,11,108,0,false,false,false,0,11.636363636363637,0
+0315,The Number of Participants,1,262144,0,119,153,0,false,false,false,0,1.0756302521008403,0
+0316,Fishing Competition,1,262144,0,112,209,0,false,false,false,0,1.1428571428571428,0
+0317,Frog Going Straight,1,262144,0,174,243,0,false,false,false,0,0.735632183908046,0
+0318,Secret Investigation,1,262144,0,100,179,0,false,false,false,0,1.28,0
+0319,Programming Contest,1,262144,0,109,213,0,false,false,false,0,1.1743119266055047,0
+0320,Quality Management,2,262144,0,45,214,0,false,false,false,0,2.8444444444444446,0
+0321,Investigation of Club Activities,2,262144,0,47,156,0,false,false,false,0,2.723404255319149,0
+0322,Slates,5,262144,0,10,88,0,false,false,false,0,12.8,0
+0323,Ruins,3,262144,0,19,108,0,false,false,false,0,6.7368421052631575,0
+0324,Downhill Race,1,262144,0,6,14,0,false,false,false,0,12.8,0
+2823,JAG Practice Contest,8,262144,0,43,61,0,false,false,false,0,2.9767441860465116,0
+2824,Coastline,8,262144,0,38,59,0,false,false,false,0,3.3684210526315788,0
+2825,Quiz,8,262144,0,33,51,0,false,false,false,0,3.878787878787879,0
+2826,Game Balance,8,262144,0,12,47,0,false,false,false,0,10.666666666666666,0
+2827,Industrial Convex Pillar City,8,262144,0,14,36,0,false,false,false,0,9.142857142857142,0
+2828,Matryoshka Doll,8,262144,0,16,21,0,false,false,false,0,8,0
+2829,Room Assignment,8,262144,0,4,12,0,false,false,false,0,12.8,0
+2830,Big Maze,8,262144,0,3,12,0,false,false,false,0,12.8,0
+1616,Taro's Shopping,8,262144,0,61,131,0,false,false,false,0,2.098360655737705,0
+1617,Almost Identical Programs,8,262144,0,36,49,0,false,false,false,0,3.5555555555555554,0
+1618,A Garden with Ponds,8,262144,0,30,39,0,false,false,false,0,4.266666666666667,0
+1619,Making Lunch Boxes,8,262144,0,20,97,0,false,false,false,0,6.4,0
+1620,Boolean Expression Compressor,8,262144,0,16,79,0,false,false,false,0,8,0
+1621,Folding a Ribbon,8,262144,0,12,21,0,false,false,false,0,10.666666666666666,0
+1622,Go around the Labyrinth,8,262144,0,18,53,0,false,false,false,0,7.111111111111111,0
+1623,Equivalent Deformation,8,262144,0,1,1,0,false,false,false,0,12.8,0
+0357,Handsel,1,262144,0,73,92,0,false,false,false,0,1.7534246575342465,0
+0358,Shopping,1,262144,0,66,90,0,false,false,false,0,1.9393939393939394,0
+0359,Day of Week,1,262144,0,60,75,0,false,false,false,0,2.1333333333333333,0
+0360,Reservation System,1,262144,0,52,131,0,false,false,false,0,2.4615384615384617,0
+0361,Wire,1,262144,0,44,72,0,false,false,false,0,2.909090909090909,0
+0362,Trampoline,1,262144,0,39,165,0,false,false,false,0,3.282051282051282,0
+0363,Loading,1,262144,0,24,66,0,false,false,false,0,5.333333333333333,0
+0364,Dungeon,1,262144,0,25,51,0,false,false,false,0,5.12,0
+0365,Swapping Characters,2,262144,0,17,52,0,false,false,false,0,7.529411764705882,0
+0366,Road Improvement,1,262144,0,7,44,0,false,false,false,0,12.8,0
+0367,Charging System for Network,3,262144,0,10,192,0,false,false,false,0,12.8,0
+2831,Check answers,1,262144,0,100,136,0,false,false,false,0,1.28,0
+2832,All Japan Association of Return home,1,262144,0,51,137,0,false,false,false,0,2.5098039215686274,0
+2833,Displayed tweets,1,262144,0,58,149,0,false,false,false,0,2.206896551724138,0
+2834,Dimension travel,1,262144,0,46,109,0,false,false,false,0,2.782608695652174,0
+2835,Protect from the enemy attack,1,262144,0,32,200,0,false,false,false,0,4,0
+2836,Steps,1,262144,0,1,3,0,false,false,false,0,12.8,0
+2837,Cryptex,1,262144,0,0,5,0,false,false,false,0,0,0
+3000,The Mean of Angles,1,262142,0,51,197,0,false,false,false,0,2.5098039215686274,0
+3001,GPA JANKEN,1,262142,0,48,127,0,false,false,false,0,2.6666666666666665,0
+3002,Factorization,1,262142,0,34,74,0,false,false,false,0,3.764705882352941,0
+3003,Let's Go To School,1,262142,0,18,91,0,false,false,false,0,7.111111111111111,0
+3004,Tangled Cables,2,262142,0,15,74,0,false,false,false,0,8.533333333333333,0
+3005,Great Devil Sakanikia,2,262142,0,21,102,0,false,false,false,0,6.095238095238095,0
+3006,Chairs,2,262142,0,12,44,0,false,false,false,0,10.666666666666666,0
+3007,Zombie Hunter,3,262142,0,10,53,0,false,false,false,0,12.8,0
+3008,Tree-Light,2,262142,0,10,47,0,false,false,false,0,12.8,0
+3009,Demon's Plan,2,262142,0,10,29,0,false,false,false,0,12.8,0
+3010,Donuts Purchase,2,262142,0,6,98,0,false,false,false,0,12.8,0
+3011,Select Sets,5,1048576,0,10,15,0,false,false,false,0,12.8,0
+3012,Settler,1,262142,0,4,10,0,false,false,false,0,12.8,0
+3013,Clock,1,262144,0,64,77,0,false,false,false,0,2,0
+3014,Hating Crowd,1,262144,0,40,75,0,false,false,false,0,3.2,0
+3015,Palindrome,1,262144,0,31,75,0,false,false,false,0,4.129032258064516,0
+3016,Fissure Puzzle Easy,1,262144,0,25,50,0,false,false,false,0,5.12,0
+3017,Piano,1,262144,0,32,90,0,false,false,false,0,4,0
+3018,nCm,1,262144,0,34,72,0,false,false,false,0,3.764705882352941,0
+3019,Picnic,2,262144,0,7,87,0,false,false,false,0,12.8,0
+3020,Sequence,1,262144,0,8,48,0,false,false,false,0,12.8,0
+3021,Making Pairs,2,262144,0,27,54,0,false,false,false,0,4.7407407407407405,0
+3022,Cluster Network,2,262144,0,5,12,0,false,false,false,0,12.8,0
+3023,Chinol Choco,2,262144,0,5,28,0,false,false,false,0,12.8,0
+3024,RMQ 2,2,262144,0,20,66,0,false,false,false,0,6.4,0
+3025,Fissure Puzzle Hard,5,524288,0,3,18,0,false,false,false,0,12.8,0
+2838,A-Z-,2,262144,0,80,110,0,false,false,false,0,1.6,0
+2839,Ebi-chan and Integer Sequences,2,262144,0,43,285,0,false,false,false,0,2.9767441860465116,0
+2840,Unique Subsequence,2,262144,0,50,128,0,false,false,false,0,2.56,0
+2841,Indecision,2,262144,0,37,103,0,false,false,false,0,3.4594594594594597,0
+2842,Taiyaki-Master and Eater,3,262144,0,34,87,0,false,false,false,0,3.764705882352941,0
+2844,Almost Infinite Glico,2,262144,0,24,42,0,false,false,false,0,5.333333333333333,0
+1587,Plants,1,262144,0,55,65,0,false,false,false,0,2.327272727272727,0
+1588,Potatoes,1,262144,0,45,71,0,false,false,false,0,2.8444444444444446,0
+1589,Unhappy Class,1,262144,0,33,69,0,false,false,false,0,3.878787878787879,0
+1590,One-Time Path,1,262144,0,37,172,0,false,false,false,0,3.4594594594594597,0
+1591,Graph Making,1,262144,0,27,45,0,false,false,false,0,4.7407407407407405,0
+1592,Curling Puzzle,1,262144,0,8,51,0,false,false,false,0,12.8,0
+1593,Star,1,262144,0,19,33,0,false,false,false,0,6.7368421052631575,0
+1594,Hogemon Get,3,262144,0,9,118,0,false,false,false,0,12.8,0
+1595,Traffic Tree,1,262144,0,44,83,0,false,false,false,0,2.909090909090909,0
+1596,Char Swap,1,262144,0,14,32,0,false,false,false,0,9.142857142857142,0
+1597,Escape of Lappin the Phantom Thief,8,262144,0,7,17,0,false,false,false,0,12.8,0
+1598,RedBlue,1,262144,0,3,23,0,false,false,false,0,12.8,0
+1599,Dial,2,262144,0,0,0,0,false,false,false,0,0,0
+1574,Gossip,1,524288,0,61,102,0,false,false,false,0,2.098360655737705,0
+1575,Product Sale Lines,1,524288,0,50,114,0,false,false,false,0,2.56,0
+1576,Community Integration,1,524288,0,56,80,0,false,false,false,0,2.2857142857142856,0
+1577,Courage Test,1,524288,0,31,130,0,false,false,false,0,4.129032258064516,0
+1578,Rubik Dungeon,1,524288,0,15,59,0,false,false,false,0,8.533333333333333,0
+1579,Array Update 2,1,524288,0,38,74,0,false,false,false,0,3.3684210526315788,0
+1580,Barter,1,524288,0,29,95,0,false,false,false,0,4.413793103448276,0
+1581,Reflection Warp Machine,1,524288,0,16,49,0,false,false,false,0,8,0
+1582,Circles and Ray,1,524288,0,8,18,0,false,false,false,0,12.8,0
+1583,Equivalent Vertices,2,524288,0,8,13,0,false,false,false,0,12.8,0
+1584,Sum of Sequences,2,524288,0,11,54,0,false,false,false,0,11.636363636363637,0
+1585,String in String,2,524288,0,17,41,0,false,false,false,0,7.529411764705882,0
+1586,Monochrome Tile,8,524288,0,0,0,0,false,false,false,0,0,0
+1562,Divisor,1,262142,0,9,11,0,false,false,false,0,12.8,0
+1563,Array Update,1,262142,0,8,33,0,false,false,false,0,12.8,0
+1564,String Compression,1,262142,0,5,7,0,false,false,false,0,12.8,0
+1565,Squid Ink,1,262142,0,2,2,0,false,false,false,0,12.8,0
+1566,Movie,1,262142,0,2,2,0,false,false,false,0,12.8,0
+1567,Lucky Number,3,262142,0,1,1,0,false,false,false,0,12.8,0
+1568,String Conversion,1,262142,0,2,3,0,false,false,false,0,12.8,0
+1569,Bomb Removal,1,262142,0,2,3,0,false,false,false,0,12.8,0
+1570,Lights of Apartment,1,262142,0,1,1,0,false,false,false,0,12.8,0
+1571,String Crossing,3,262142,0,0,0,0,false,false,false,0,0,0
+1572,Point in The Triangle,2,262142,0,1,1,0,false,false,false,0,12.8,0
